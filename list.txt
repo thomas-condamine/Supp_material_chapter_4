@@ -1,0 +1,23 @@
+SI1. State-of-the-art, prior to this study, of the genetic structures of previously-known TPM genes in Opistokhonta.
+
+SI2. Alignment and phylogeny corresponding to the analysis including Porifera TPM genes.
+
+SI3. Alignment and phylogeny corresponding to the analysis including Ctenophora TPM genes.
+
+SI4. Alignment and phylogeny corresponding to the analysis including Porifera and Ctenophora TPM genes.
+
+SI5. Alignment and phylogeny corresponding to the main analysis.
+
+SI6. Phylogenetic trees for the MATEs identified in Medusozoa TPM genes (except for Scyphozoa TPM1ab exon 9, results presented in the “Complément 1” of this chapter).
+
+SI7. BLAST results for the search of MATEs in the 16 non-bilaterian Opistokhonta genomes presented in Table 1.
+
+SI8. Information related to qPCR experiments.
+	SI8A: primer sequences.
+	SI8B: qPCR quality results.
+
+SI9. Information related to in situ hybridisation experiments.
+	SI9A. primer sequences.
+	SI9B. probe sequences.
+
+SI10. Alignments of Cubozoa TPM2ab and A. vanhoeffeni TPM2ab1 isoforms.

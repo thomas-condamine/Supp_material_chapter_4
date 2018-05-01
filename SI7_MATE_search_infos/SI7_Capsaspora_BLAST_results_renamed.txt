@@ -1,0 +1,70 @@
+Query= CAowTPM
+Length=723
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+KE346362.1  Capsaspora owczarzaki ATCC 30864 unplaced genomic sca...  1129    0.0  
+>KE346362.1 Capsaspora owczarzaki ATCC 30864 unplaced genomic scaffold supercont2.3, 
+whole genome shotgun sequence
+Length=2526311
+
+ Score = 213 bits (115),  Expect = 1e-54
+ Identities = 115/115 (100%), Gaps = 0/115 (0%)
+ Strand=Plus/Plus
+EXON 1
+Query  1        ATGGACGCGATCAAGAAGAAGATGGCTCAGATCCGCGAGGAGGCCGACGCCAACCTCGAG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442372  ATGGACGCGATCAAGAAGAAGATGGCTCAGATCCGCGAGGAGGCCGACGCCAACCTCGAG  2442431
+
+Query  61       CGCGCACAGCAGCTTGAAGTCGAGCTCAAGGACGCCCGCGAGCGTGCCGACAAGG  115
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442432  CGCGCACAGCAGCTTGAAGTCGAGCTCAAGGACGCCCGCGAGCGTGCCGACAAGG  2442486
+
+
+ Score = 1129 bits (611),  Expect = 0.0
+ Identities = 614/615 (99%), Gaps = 1/615 (0%)
+ Strand=Plus/Plus
+EXNO 3to9
+Query  110      ACA-AGGCCGAGTCTCAGGCTGAGGCTGCCACCCGCAAGATGCGCCTGATCGAGGACGAC  168
+                ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442568  ACACAGGCCGAGTCTCAGGCTGAGGCTGCCACCCGCAAGATGCGCCTGATCGAGGACGAC  2442627
+
+Query  169      CTCGAGACCGCCGAGTCCCGCGCTGCCGACTTCCAGAAGCGTTGCGGCGAGGCCGAGAAG  228
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442628  CTCGAGACCGCCGAGTCCCGCGCTGCCGACTTCCAGAAGCGTTGCGGCGAGGCCGAGAAG  2442687
+
+Query  229      CGCGCTGAGGAGTCTGAGCGCTCGCGCCGCGTCTTTGAGTCTCAACAGAGCTCTGACGAC  288
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442688  CGCGCTGAGGAGTCTGAGCGCTCGCGCCGCGTCTTTGAGTCTCAACAGAGCTCTGACGAC  2442747
+
+Query  289      GACCGTGTTGAGACTCTCCAGGCTCAGGTCAACGCTGCCCGCAAGAAGGCCGACGACCTC  348
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442748  GACCGTGTTGAGACTCTCCAGGCTCAGGTCAACGCTGCCCGCAAGAAGGCCGACGACCTC  2442807
+
+Query  349      GAGAAGGACGCTGCCAACGCAAACCGCAAGGTCACGCTGCTCGAGAACGACCTCGAGCGC  408
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442808  GAGAAGGACGCTGCCAACGCAAACCGCAAGGTCACGCTGCTCGAGAACGACCTCGAGCGC  2442867
+
+Query  409      GCCGAGGACCGCGCCATTGCCGCCGAGAAGAAGCTGAAGGACCTCGAGCGCAGCCTCGAC  468
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442868  GCCGAGGACCGCGCCATTGCCGCCGAGAAGAAGCTGAAGGACCTCGAGCGCAGCCTCGAC  2442927
+
+Query  469      GACGCCAACGCCTCGCTCAAGTCGGTCAAGGTTTCCGACCGATTTGACCGCTCGGACGAG  528
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442928  GACGCCAACGCCTCGCTCAAGTCGGTCAAGGTTTCCGACCGATTTGACCGCTCGGACGAG  2442987
+
+Query  529      CTCCAGGACAAGCTCAAGCAAGTCGAGGACAAGTACCGCTCTGCTGACCTCCGCGCTGAG  588
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2442988  CTCCAGGACAAGCTCAAGCAAGTCGAGGACAAGTACCGCTCTGCTGACCTCCGCGCTGAG  2443047
+
+Query  589      GCTGCTGAGCGCAAGATCCGCGATCTTGAGAACCAACTCGAGAAGATCGACGACGCTTAC  648
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2443048  GCTGCTGAGCGCAAGATCCGCGATCTTGAGAACCAACTCGAGAAGATCGACGACGCTTAC  2443107
+
+Query  649      GACCGCGAGAAGGCTGCACACGCCAAGTGCCAGGCCGAGCTCGAGGAGATTCAAGCCCAG  708
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2443108  GACCGCGAGAAGGCTGCACACGCCAAGTGCCAGGCCGAGCTCGAGGAGATTCAAGCCCAG  2443167
+
+Query  709      CTCAAGGATCTCTAA  723
+                |||||||||||||||
+Sbjct  2443168  CTCAAGGATCTCTAA  2443182
+

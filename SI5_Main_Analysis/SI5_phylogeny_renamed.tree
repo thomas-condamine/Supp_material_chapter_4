@@ -1,0 +1,301 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=199;
+	taxlabels
+	ACdiTPM2ab2
+	ACdiTPM2ab4
+	ACdiTPM1.2
+	ACdiTPM2c
+	ACdiTPM2ab1
+	ACdiTPM1.1
+	ACdiTPM2ab3
+	ACpaTPM2ab2
+	ACpaTPM2ab4
+	ACpaTPM2ab1
+	ACpaTPM2c1
+	ACpaTPM1.1
+	ACpaTPM2ab3
+	ACpaTPM2c2
+	ACpaTPM1.2
+	AEciTPM1a
+	AEciTPM1d2
+	AEciTPM2a1
+	AEciTPM1d3
+	AEciTPM2a2
+	AEciTPM1b3
+	AEciTPM1d4
+	AEciTPM2a3
+	AEciTPM2b1
+	AEciTPM1d1
+	AEciTPM1b1
+	AEciTPM1b2
+	AEciTPM2b2
+	AGelTPM2a
+	AGelTPM1d3
+	AGelTPM1d4
+	AGelTPM1d6
+	AGelTPM2c
+	AGelTPM1a
+	AGelTPM2b
+	AGelTPM1b2
+	AGelTPM1b1
+	AGelTPM1d1
+	AGelTPM1c
+	AGelTPM1d2
+	AGelTPM1d5
+	AIpaTPM2ab2
+	AIpaTPM1
+	AIpaTPM2ab3
+	AIpaTPM2ab4
+	AIpaTPM2c
+	AIpaTPM2ab1
+	ALalTPM2ab
+	ALalTPM1ab1
+	ALalTPM1ab2
+	ALalTPM1cd
+	ALalTPM2c
+	ANpeTPM1
+	ANpeTPM2ab2
+	ANpeTPM2ab1
+	ANpeTPM2ab3
+	ANpeTPM2c
+	ANpeTPM2ab4
+	APcaTPM
+	'ATvaTPM1ab2.1'
+	ATvaTPM2ab1
+	ATvaTPM2ab3
+	'ATvaTPM1ab1.3'
+	ATvaTPM1ab1.1
+	ATvaTPM1ab1.2
+	ATvaTPM2ab2
+	ATvaTPM1ab2.2
+	ATvaTPM2c1
+	ATvaTPM2c2
+	AUauTPM2c
+	AUauTPM1ab
+	AUauTPM2ab
+	AlcyTPM1
+	AlcyTPM2ab1
+	AlcyTPM2ab4
+	AlcyTPM2c
+	AlcyTPM2ab2
+	AlcyTPM2ab3
+	CAelTPM1
+	CERITPM2ab1
+	CERITPM2ab2
+	CERITPM2c
+	CIinTPM1
+	CLheTPM2c
+	CLheTPM1d2
+	CLheTPM1a
+	CLheTPM2a
+	CLheTPM2b
+	CLheTPM1b1
+	CLheTPM1b2
+	CLheTPM1c
+	CLheTPM1d1
+	CRgiTPM
+	CYcaTPM1ab
+	CandTPM2a'
+	CandTPM1d
+	CandTPM2a
+	CandTPM1a_5
+	CaryTPM2ab
+	CaryTPM1ab1
+	CaryTPM1ab2
+	DApuTPM1
+	DAreTPM4
+	EClaTPM1a
+	EClaTPM2a
+	EClaTPM1b
+	EClaTPM2b
+	EClaTPM1d
+	HAsaTPM1ab
+	HAsaTPM2ab
+	HAsaTPM1cd
+	HAvaTPM2a
+	HAvaTPM1b1
+	HAvaTPM1b2
+	HAvaTPM1d1
+	HAvaTPM1d4
+	HAvaTPM1d5
+	HAvaTPM1d2
+	HAvaTPM2b
+	HAvaTPM1d3
+	HEroTPM3
+	HYsyTPM1a
+	HYsyTPM2a
+	HYsyTPM1d
+	HYsyTPM1c
+	HYsyTPM2c
+	HYvuTPM1a
+	HYvuTPM2a1
+	HYvuTPM2a2
+	HYvuTPM1d
+	HYvuTPM1c
+	HYvuTPM2c
+	KERATPM1
+	KERATPM2ab2
+	KERATPM2ab3
+	KERATPM2c
+	KERATPM2ab1b
+	KERATPM2ab1a
+	KERATPM2ab4
+	LUcaTPM1ab
+	LUcaTPM2ab
+	LUcaTPM1cd
+	LUcaTPM2c
+	MObrTPM
+	NAbiTPM2a
+	NAbiTPM1a
+	NAbiTPM1b2
+	NAbiTPM1b1
+	NAbiTPM2b
+	NAbiTPM1d1
+	NAbiTPM1d2
+	NAbiTPM1c
+	NAbiTPM1d3
+	NEveTPM1
+	NEveTPM2ab1a
+	NEveTPM2c
+	NEveTPM2ab4
+	NEveTPM2ab2
+	NEveTPM2ab3
+	NEveTPM2ab1b
+	NephTPM1
+	NephTPM2ab1
+	NephTPM2c
+	NephTPM2ab2
+	PAaxTPM1
+	PAaxTPM2ab2
+	PAaxTPM2ab3
+	PAaxTPM1.2
+	PAaxTPM2ab4
+	PAaxTPM2ab1
+	PAaxTPM2c
+	PAsoTPM1
+	PAsoTPM2ab1
+	PAsoTPM2c
+	PAsoTPM2ab2
+	PEnoTPM1ab
+	PEnoTPM2ab
+	PEruTPM1
+	PEruTPM2c
+	PEruTPM2ab1
+	PEruTPM2ab2
+	PLduTPM
+	POcaTPM2a
+	POcaTPM1b
+	POcaTPM1d2
+	POcaTPM1d3
+	POcaTPM2c
+	POcaTPM1a
+	POcaTPM2b
+	POcaTPM1c
+	POcaTPM1d1
+	SAkoTPM1
+	SAroTPM
+	TRadTPM1
+	TRadTPM2
+	TRcyTPM1cd
+	TRcyTPM1ab2
+	TRcyTPM1ab1
+	TRspTPM
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (NEveTPM2ab1a:0.267525,(NEveTPM2ab1b:0.453556,(PAaxTPM2ab1:0.646123,((ANpeTPM2ab1:0.714325,(((((PAsoTPM2ab2:1.051757,(CERITPM2ab2:0.811744,(CERITPM2ab1:0.105524,PAsoTPM2ab1:0.083237)[&label=100]:0.603069)[&label=88]:0.218889)[&label=39,!collapse={"collapsed",0.5347024513150465},!name="Ceriantharia TPM2ab"]:0.14549,(((PAaxTPM2ab2:0.467814,(AIpaTPM2ab2:0.260755,NEveTPM2ab2:0.297058)[&label=94]:0.183269)[&label=46]:0.060369,(ANpeTPM2ab2:0.544095,(ACpaTPM2ab2:0.009549,ACdiTPM2ab2:0.04552)[&label=100]:0.527617)[&label=60]:0.123412)[&label=92]:0.251155,((PAaxTPM2ab3:0.555427,(AIpaTPM2ab3:0.374708,NEveTPM2ab3:0.287691)[&label=100]:0.328897)[&label=57]:0.086463,((ACpaTPM2ab3:0.001863,ACdiTPM2ab3:0.048237)[&label=100]:0.758039,ANpeTPM2ab3:0.810625)[&label=33]:0.073061)[&label=74]:0.211662)[&label=35,!name="Hexacorallia TPM2ab",!collapse={"collapsed",0.5405329816629063}]:0.096069)[&label=17]:0.081672,((AIpaTPM2ab4:0.5057,NEveTPM2ab4:0.581985)[&label=99]:0.339996,(ANpeTPM2ab4:0.589683,(ACpaTPM2ab4:1.0E-6,ACdiTPM2ab4:0.030509)[&label=100]:0.923055)[&label=84]:0.20962)[&label=33,!name="Hexacorallia TPM2ab",!collapse={"collapsed",0.5167078876079154}]:0.133729)[&label=4]:0.065733,((PAaxTPM2ab4:0.934564,(((PAsoTPM2c:0.130844,CERITPM2c:0.131914)[&label=100,!collapse={"collapsed",1.0925678889424577},!name="Ceriantharia TPM2c"]:0.710541,(PEruTPM2c:0.349326,((NephTPM2c:0.121347,AlcyTPM2c:0.131454)[&label=65]:0.121694,KERATPM2c:0.162423)[&label=43]:0.121358)[&label=100,!collapse={"collapsed",0.9438687331325819},!name="Octocorallia TPM2c"]:0.616648)[&label=72]:0.231973,((((((((TRspTPM:0.047435,CAelTPM1:0.189802)[&label=100]:0.091036,DApuTPM1:0.174508)[&label=97]:0.090518,((HEroTPM3:0.27904,PLduTPM:0.079354)[&label=100]:0.140445,(CRgiTPM:0.184679,APcaTPM:0.100278)[&label=91]:0.04937)[&label=100]:0.146728)[&label=98]:0.11007,(SAkoTPM1:0.334573,(DAreTPM4:0.187513,CIinTPM1:0.221192)[&label=100]:0.239277)[&label=75]:0.056878)[&label=98,!collapse={"collapsed",1.481928514156035},!name="Bilateria TPM"]:0.240237,(ANpeTPM1:0.312604,(((AIpaTPM1:0.124972,NEveTPM1:0.15031)[&label=94]:0.111518,PAaxTPM1:0.232096)[&label=50]:0.058605,((((ACpaTPM1.2:1.0E-6,ACdiTPM1.2:0.04302)[&label=100]:0.778681,(ACdiTPM1.1:1.0E-6,ACpaTPM1.1:0.004215)[&label=100]:0.329559)[&label=43]:0.086524,(PEruTPM1:0.098005,(KERATPM1:0.114837,(AlcyTPM1:0.050177,NephTPM1:0.012808)[&label=62]:0.018322)[&label=89]:0.044052)[&label=100]:0.370222)[&label=43]:0.064251,((PAaxTPM1.2:0.009889,PAsoTPM1:1.0E-6)[&label=100]:0.347384,((((((ATvaTPM1ab1.1:0.375268,('ATvaTPM1ab1.3':0.691362,ATvaTPM1ab1.2:0.518831)[&label=76]:0.22373)[&label=95]:0.253926,((ATvaTPM1ab2.2:0.205091,'ATvaTPM1ab2.1':1.0E-6)[&label=100]:0.3331,(AUauTPM1ab:0.119249,(PEnoTPM1ab:0.145433,CYcaTPM1ab:0.072119)[&label=96]:0.124338)[&label=96]:0.1248)[&label=61]:0.045224)[&label=56,!collapse={"collapsed",0.5716936327215585},!name="Scyphozoa TPM1ab"]:0.10654,((AEciTPM1a:0.428928,((AGelTPM1a:0.053292,NAbiTPM1a:0.048251)[&label=100]:0.219545,((EClaTPM1a:0.21469,(HYvuTPM1a:0.26714,CandTPM1a_5:0.163289)[&label=46]:0.036404)[&label=46]:0.065518,((POcaTPM1a:0.100526,HYsyTPM1a:0.15443)[&label=87]:0.10227,CLheTPM1a:0.410281)[&label=27]:0.029035)[&label=33]:0.054403)[&label=40]:0.042669)[&label=99,!collapse={"collapsed",0.9824880684386947},!name="Hydrozoa TPM1a"]:0.302772,(((ALalTPM1ab1:0.020762,(TRcyTPM1ab1:0.157376,CaryTPM1ab1:0.05667)[&label=86]:0.024259)[&label=99,!collapse={"collapsed",1.347888466974109},!name="Cubozoa TPM1ab1"]:0.137832,((TRcyTPM1ab2:0.195995,CaryTPM1ab2:0.281025)[&label=87]:0.068637,ALalTPM1ab2:0.122354)[&label=100,!collapse={"collapsed",0.8554972899235525},!name="Cubozoa TPM1ab2"]:0.462196)[&label=81,!collapse={"collapsed",0.8554972899235525},!name="Cubozoa TPM1ab"]:0.119101,((CLheTPM1b2:0.899052,((((AGelTPM1b2:0.048692,NAbiTPM1b2:0.207843)[&label=91]:0.097774,(AGelTPM1b1:0.055593,NAbiTPM1b1:0.15983)[&label=98]:0.060303)[&label=100]:0.318142,((POcaTPM1b:0.222222,EClaTPM1b:0.303912)[&label=65]:0.103171,(HAvaTPM1b2:0.573519,(HAvaTPM1b1:0.247369,(AEciTPM1b1:0.1056,(AEciTPM1b2:0.066933,AEciTPM1b3:0.222727)[&label=100]:0.331948)[&label=51]:0.038952)[&label=49]:0.08947)[&label=100]:0.342691)[&label=22]:0.048717)[&label=41]:0.05787,CLheTPM1b1:0.375517)[&label=66]:0.120932)[&label=55,!collapse={"collapsed",0.32569054883590454},!name="Hydrozoa TPM1b"]:0.146832,(HAsaTPM1ab:0.186487,LUcaTPM1ab:0.245911)[&label=100,!collapse={"collapsed",1.158123117211943},!name="Staurozoa TPM1ab"]:0.321795)[&label=19]:0.060628)[&label=2]:0.03519)[&label=0]:0.025604)[&label=5,!name="Medusozoa TPM1ab",!collapse={"collapsed",0.32569054883590454}]:0.074956,((ALalTPM1cd:0.209422,TRcyTPM1cd:0.383414)[&label=100,!collapse={"collapsed",0.8693569015352884},!name="Cubozoa TPM1cd"]:0.60104,(((CLheTPM1c:0.594733,((NAbiTPM1c:0.422104,AGelTPM1c:0.214481)[&label=100]:0.451649,(HYsyTPM1c:0.239833,POcaTPM1c:0.288392)[&label=87]:0.152539)[&label=47]:0.072972)[&label=54]:0.035175,HYvuTPM1c:0.751609)[&label=40,!collapse={"collapsed",0.6736771541062536},!name="Hydrozoa TPM1c"]:0.097519,((((EClaTPM1d:0.424396,(((HYvuTPM1d:0.279085,CandTPM1d:0.196675)[&label=95]:0.093133,(((POcaTPM1d2:0.118088,POcaTPM1d3:0.37061)[&label=100]:0.409669,POcaTPM1d1:0.112958)[&label=95]:0.12019,HYsyTPM1d:0.239888)[&label=79]:0.049361)[&label=67]:0.081202,((CLheTPM1d2:0.660139,CLheTPM1d1:0.147068)[&label=100]:0.596796,((NAbiTPM1d2:0.226418,(AGelTPM1d3:0.417522,AGelTPM1d2:0.146377)[&label=100]:0.142541)[&label=100]:0.282762,(NAbiTPM1d1:0.203234,AGelTPM1d1:0.165614)[&label=100]:0.182669)[&label=90]:0.22417)[&label=27]:0.112337)[&label=14]:0.04289)[&label=12]:0.029908,(AEciTPM1d1:0.648208,((HAvaTPM1d4:0.565572,AEciTPM1d2:0.507134)[&label=80]:0.237308,AEciTPM1d3:0.899694)[&label=37]:0.136792)[&label=13]:0.092861)[&label=1]:0.022692,(AEciTPM1d4:1.060006,((HAvaTPM1d3:0.442037,HAvaTPM1d2:0.368674)[&label=55]:0.058322,HAvaTPM1d1:0.409523)[&label=83]:0.23084)[&label=66]:0.274371)[&label=7]:0.044939,((((AGelTPM1d5:0.215741,NAbiTPM1d3:0.318434)[&label=100]:0.521938,AGelTPM1d4:0.670964)[&label=100]:0.381651,HAvaTPM1d5:0.831133)[&label=8]:0.011157,AGelTPM1d6:1.059653)[&label=14]:0.200021)[&label=18,!collapse={"collapsed",0.17318998689052556},!name="Hydrozoa TPM1d"]:0.070204)[&label=18,!collapse={"collapsed",0.17318998689052556},!name="Hydrozoa TPM1cd"]:0.100715)[&label=9,!name="Cubozoa + Hydrozoa TPM1cd",!collapse={"collapsed",0.17318998689052556}]:0.068397)[&label=12]:0.058443,(LUcaTPM1cd:0.335609,HAsaTPM1cd:0.36205)[&label=100,!name="Staurozoa TPM1cd",!collapse={"collapsed",1.0768875465695782}]:0.541714)[&label=78,!collapse={"collapsed",0.17318998689052556},!name="Medusozoa TPM1"]:0.136369,TRadTPM1:0.837523)[&label=58]:0.04379)[&label=49]:0.076237)[&label=23]:0.022137)[&label=31]:0.050225)[&label=100]:0.262229)[&label=32]:0.030661,(((ACdiTPM2c:1.0E-6,(ACpaTPM2c1:0.017297,ACpaTPM2c2:0.553082)[&label=29]:1.94E-4)[&label=100]:0.804699,((ANpeTPM2c:0.639307,PAaxTPM2c:1.14362)[&label=44]:0.110442,(NEveTPM2c:0.586352,AIpaTPM2c:0.55633)[&label=99]:0.466177)[&label=45]:0.15881)[&label=99,!name="Hexacorallia TPM2c",!collapse={"collapsed",0.8683354996234227}]:0.389266,(MObrTPM:0.48999,SAroTPM:0.455787)[&label=100]:0.448788)[&label=31]:0.068174)[&label=45]:0.129544,TRadTPM2:0.921611)[&label=84]:0.224203,(((ATvaTPM2c1:0.057638,ATvaTPM2c2:0.323781)[&label=100]:0.353354,AUauTPM2c:0.616508)[&label=100,!name="Scyphozoa TPM2c",!collapse={"collapsed",0.6508303105539821}]:0.393891,((ALalTPM2c:0.550151,LUcaTPM2c:0.904267)[&label=53]:0.109821,((HYvuTPM2c:0.864161,(AGelTPM2c:0.451181,(POcaTPM2c:0.294924,HYsyTPM2c:0.200417)[&label=99]:0.244575)[&label=49]:0.09658)[&label=59]:0.114873,CLheTPM2c:0.606704)[&label=100,!collapse={"collapsed",0.0},!name="Hydrozoa TPM2c"]:0.652863)[&label=39]:0.08996)[&label=100,!name="Medusozoa TPM2c",!collapse={"collapsed",0.0}]:0.526695)[&label=35]:0.081556)[&label=53]:0.120122)[&label=29]:0.122303,((KERATPM2ab4:0.70043,AlcyTPM2ab4:0.399355)[&label=87]:0.410948,((PEruTPM2ab1:0.693905,((KERATPM2ab1b:0.585008,(AlcyTPM2ab1:0.303954,NephTPM2ab1:0.22321)[&label=75]:0.177325)[&label=52]:0.029089,KERATPM2ab1a:0.377553)[&label=42]:0.126781)[&label=94]:0.266771,(((NephTPM2ab2:0.353617,AlcyTPM2ab2:0.279044)[&label=71]:0.087958,(KERATPM2ab2:0.321648,PEruTPM2ab2:0.486992)[&label=41]:0.058829)[&label=98]:0.294489,(AlcyTPM2ab3:0.217606,KERATPM2ab3:0.276053)[&label=100]:0.440289)[&label=84]:0.308086)[&label=31]:0.101291)[&label=37,!name="Octocorallia TPM2ab",!collapse={"collapsed",0.5639019693738279}]:0.110982)[&label=3]:0.045217)[&label=11]:0.059678,((HAsaTPM2ab:0.199396,LUcaTPM2ab:0.18358)[&label=100,!collapse={"collapsed",0.9083180485189493},!name="Staurozoa TPM2ab"]:0.446043,(((((ATvaTPM2ab1:0.050046,ATvaTPM2ab3:0.319069)[&label=87]:0.09065,ATvaTPM2ab2:0.217489)[&label=98]:0.193724,(PEnoTPM2ab:0.292571,AUauTPM2ab:0.275098)[&label=99]:0.226409)[&label=56,!collapse={"collapsed",0.6508436110406448},!name="Scyphozoa TPM2ab"]:0.080812,(CaryTPM2ab:0.068888,ALalTPM2ab:0.07108)[&label=100,!collapse={"collapsed",0.9796689640678995},!name="Cubozoa TPM2ab"]:0.28435)[&label=53]:0.093811,((CLheTPM2b:0.272565,(((NAbiTPM2b:0.060294,AGelTPM2b:0.094551)[&label=100]:0.269098,POcaTPM2b:0.255811)[&label=31]:0.065043,((AEciTPM2b1:0.342275,(HAvaTPM2b:0.51177,AEciTPM2b2:0.25017)[&label=100]:0.403665)[&label=55]:0.126613,EClaTPM2b:0.281419)[&label=18]:0.036103)[&label=37]:0.076357)[&label=84,!collapse={"collapsed",0.03021375509805413},!name="Hydrozoa TPM2b"]:0.120227,(((((HYsyTPM2a:0.143282,POcaTPM2a:0.161884)[&label=81]:0.105517,(((CandTPM2a':0.294351,HYvuTPM2a2:0.481368)[&label=57]:0.090062,(HYvuTPM2a1:0.224422,(EClaTPM2a:0.757147,CandTPM2a:0.289479)[&label=15]:0.05877)[&label=11]:0.04506)[&label=20]:0.059198,(AGelTPM2a:0.118479,NAbiTPM2a:0.070478)[&label=91]:0.150375)[&label=20]:0.056675)[&label=31]:0.045428,(AEciTPM2a2:0.58212,AEciTPM2a1:0.451696)[&label=56]:0.11514)[&label=35]:0.060071,CLheTPM2a:0.392002)[&label=84]:0.11134,(HAvaTPM2a:0.183259,AEciTPM2a3:0.366274)[&label=100]:0.187587)[&label=59,!collapse={"collapsed",0.03237874385834694},!name="Hydrozoa TPM2a"]:0.078882)[&label=88,!collapse={"collapsed",0.03021375509805413},!name="Hydrozoa TPM2ab"]:0.123961)[&label=59]:0.124847)[&label=94,!name="Medusozoa TPM2ab",!collapse={"collapsed",0.03021375509805413}]:0.265919)[&label=48,!name="Hexacorallia TPM2ab",!collapse={"collapsed",0.6487078711401186}]:0.116821)[&label=40]:0.09915,(ACdiTPM2ab1:0.05287,ACpaTPM2ab1:0.021357)[&label=100]:0.580621)[&label=43]:0.015201)[&label=99]:0.212303)[&label=73]:0.164198,AIpaTPM2ab1:0.563295);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=11;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

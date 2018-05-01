@@ -1,0 +1,2 @@
+Variability between isoforms is highlighted in grey.
+Boxes labelled with stars indicate almost identical portions in the middle of isoform variable sequences. This may imply recent events of sequence duplication, and/or strong evolutionary pressure on these protein regions.

@@ -1,0 +1,201 @@
+Query= TRadTPM2
+Length=738
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+scaffold_1  dna_sm:scaffold scaffold:ASM15027v1:scaffold_1:1:1326...  1363    0.0  
+>scaffold_1 dna_sm:scaffold scaffold:ASM15027v1:scaffold_1:1:13260704:1 REF
+Length=13260704
+
+ Score = 1363 bits (738),  Expect = 0.0
+ Identities = 738/738 (100%), Gaps = 0/738 (0%)
+ Strand=Plus/Plus
+EXON 1to9
+Query  1        TTAAGCTTCGTTGAGTTCTTCTAATATACTATCTAACTCATCCTTGACAGCTTCACACTT  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439289  TTAAGCTTCGTTGAGTTCTTCTAATATACTATCTAACTCATCCTTGACAGCTTCACACTT  5439348
+
+Query  61       ACGTCTTTTTTCATCCAACAGATCATTGATTTCCCCTAGTTGACGATTTAACTGGCCTTT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439349  ACGTCTTTTTTCATCCAACAGATCATTGATTTCCCCTAGTTGACGATTTAACTGGCCTTT  5439408
+
+Query  121      ACGCCTATCTGCAGCTTCTAATCGAACATCAGCAGCCAAGAGACGCTCTTCTAGAGCTTT  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439409  ACGCCTATCTGCAGCTTCTAATCGAACATCAGCAGCCAAGAGACGCTCTTCTAGAGCTTT  5439468
+
+Query  181      AATCTTGGCTTGGTAGTCTTCCTCTTGATCATTGGCTATTCTTTCAGCATCGTCTGCTTC  240
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439469  AATCTTGGCTTGGTAGTCTTCCTCTTGATCATTGGCTATTCTTTCAGCATCGTCTGCTTC  5439528
+
+Query  241      CTTCAAGTTTTCATTAACTCCCTGTAATTCTCCTTCTAAATTAGTAATTTTAGAATCACT  300
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439529  CTTCAAGTTTTCATTAACTCCCTGTAATTCTCCTTCTAAATTAGTAATTTTAGAATCACT  5439588
+
+Query  301      ACTTGACGCCTTTTCAATGGCCCGTTGATGATCGCCTTCTAAAACTCTTAGTTTTCGTTC  360
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439589  ACTTGACGCCTTTTCAATGGCCCGTTGATGATCGCCTTCTAAAACTCTTAGTTTTCGTTC  5439648
+
+Query  361      AGCTTCTTCAAATTGTCGTTCGGCTTCTTCAGTGGATAACTTGGCCGCTTTAAGGTCACT  420
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439649  AGCTTCTTCAAATTGTCGTTCGGCTTCTTCAGTGGATAACTTGGCCGCTTTAAGGTCACT  5439708
+
+Query  421      CTCAATTTGATCAATTCTTTCATCGTCAGCATAATCCACATCTTCAAGTCGTTTCCTTTC  480
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439709  CTCAATTTGATCAATTCTTTCATCGTCAGCATAATCCACATCTTCAAGTCGTTTCCTTTC  5439768
+
+Query  481      ATTTTCTAAATCTAGATTGGAAGTCGATGCGGAATTTAACCTCGATTCAGCTTCGGATAA  540
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439769  ATTTTCTAAATCTAGATTGGAAGTCGATGCGGAATTTAACCTCGATTCAGCTTCGGATAA  5439828
+
+Query  541      ACGTTCTTCGGTACGATTTAAATCGCTTTCTAATAACGTTTTACGACGTATTAACGATGC  600
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439829  ACGTTCTTCGGTACGATTTAAATCGCTTTCTAATAACGTTTTACGACGTATTAACGATGC  5439888
+
+Query  601      AAGTTCTTGTTCAGCAATATCCAATCGACCACAAGCTTCTTTACGAGCTACTTCCGATTC  660
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439889  AAGTTCTTGTTCAGCAATATCCAATCGACCACAAGCTTCTTTACGAGCTACTTCCGATTC  5439948
+
+Query  661      GTCCGCTCGTGTATTAGCTTCTTCCGTGTCTTGCTTAAGCTCTTCCAACTTTTTCTTAAT  720
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5439949  GTCCGCTCGTGTATTAGCTTCTTCCGTGTCTTGCTTAAGCTCTTCCAACTTTTTCTTAAT  5440008
+
+Query  721      CTGTTCCATCTTAGCCAT  738
+                ||||||||||||||||||
+Sbjct  5440009  CTGTTCCATCTTAGCCAT  5440026
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= TRadTPM1
+Length=729
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+scaffold_15  dna_sm:scaffold scaffold:ASM15027v1:scaffold_15:1:16...  254     2e-66
+>scaffold_15 dna_sm:scaffold scaffold:ASM15027v1:scaffold_15:1:1607406:1 REF
+Length=1607406
+
+ Score = 215 bits (116),  Expect = 1e-54
+ Identities = 119/120 (99%), Gaps = 1/120 (1%)
+ Strand=Plus/Minus
+EXON 1
+Query  1       ATGGAAGCTGTGAAAAAGAAGATGGCAGGCTTGCGAAAAGAGGCGGAAGATGCCTTGCAG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  514570  ATGGAAGCTGTGAAAAAGAAGATGGCAGGCTTGCGAAAAGAGGCGGAAGATGCCTTGCAG  514511
+
+Query  61      CGAGCTGAACAGTGTGAAGACCAATTGAGGGACACTGTGCAACGAGAGGAAGAGGTTAAA  120
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  514510  CGAGCTGAACAGTGTGAAGACCAATTGAGGGACACTGTGCAACGAGAGGAAGAGGT-AAA  514452
+
+
+ Score = 254 bits (137),  Expect = 2e-66
+ Identities = 137/137 (100%), Gaps = 0/137 (0%)
+ Strand=Plus/Minus
+EXON 3
+Query  113     AGGTTAAAGAAAAAATTGATGAATTGAATAAGGAGATTGAAGAAACAGAACAACAATTAG  172
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  510846  AGGTTAAAGAAAAAATTGATGAATTGAATAAGGAGATTGAAGAAACAGAACAACAATTAG  510787
+
+Query  173     ATGATCGTGAAAGTAAGCTGGCAGAAACCCTTAAAACTCTGCTAGAGGCAGAAACTAAAA  232
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  510786  ATGATCGTGAAAGTAAGCTGGCAGAAACCCTTAAAACTCTGCTAGAGGCAGAAACTAAAA  510727
+
+Query  233     CAGATGAACATGAAAGG  249
+               |||||||||||||||||
+Sbjct  510726  CAGATGAACATGAAAGG  510710
+
+
+ Score = 91.6 bits (49),  Expect = 2e-17
+ Identities = 54/56 (96%), Gaps = 1/56 (2%)
+ Strand=Plus/Minus
+EXON 4.1
+Query  239     AACATGAAAGGGCACGAGCTGTTCTAGAAAGTAGAACTAACACAAGCAATACTAAG  294
+               ||| ||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  510590  AAC-TGATAGGGCACGAGCTGTTCTAGAAAGTAGAACTAACACAAGCAATACTAAG  510536
+
+
+ Score = 137 bits (74),  Expect = 2e-31
+ Identities = 79/81 (98%), Gaps = 1/81 (1%)
+ Strand=Plus/Minus
+EXON 4.2
+Query  287     ATAC-TAAGTTGGAGGAACTGGAGCGACAATTGAACGAAACACTTGCTGCTCGAGAAGAA  345
+               |||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  510431  ATACATCAGTTGGAGGAACTGGAGCGACAATTGAACGAAACACTTGCTGCTCGAGAAGAA  510372
+
+Query  346     GCAGAAACCAAATATaaagag  366
+               |||||||||||||||||||||
+Sbjct  510371  GCAGAAACCAAATATAAAGAG  510351
+
+
+ Score = 137 bits (74),  Expect = 2e-31
+ Identities = 74/74 (100%), Gaps = 0/74 (0%)
+ Strand=Plus/Minus
+EXON 5
+Query  365     agatttccgagaaattggaagaattagaaaaagaattggaagaagaagaagaaaaagCTG  424
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  510243  AGATTTCCGAGAAATTGGAAGAATTAGAAAAAGAATTGGAAGAAGAAGAAGAAAAAGCTG  510184
+
+Query  425     ATACGGCAGAAGCG  438
+               ||||||||||||||
+Sbjct  510183  ATACGGCAGAAGCG  510170
+
+
+ Score = 143 bits (77),  Expect = 5e-33
+ Identities = 77/77 (100%), Gaps = 0/77 (0%)
+ Strand=Plus/Minus
+EXON 6
+Query  438     GCGCGCGACGCAGCTGGAAAACGATCTCATTTTAACGACAAATAATAAGAAGAGCATGGA  497
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  510096  GCGCGCGACGCAGCTGGAAAACGATCTCATTTTAACGACAAATAATAAGAAGAGCATGGA  510037
+
+Query  498     AGTCAGCATGATGAAGG  514
+               |||||||||||||||||
+Sbjct  510036  AGTCAGCATGATGAAGG  510020
+
+
+ Score = 122 bits (66),  Expect = 7e-27
+ Identities = 66/66 (100%), Gaps = 0/66 (0%)
+ Strand=Plus/Minus
+EXON 7
+Query  512     AGGCTCAAGAACGAGAAGAAGTGGCTAAAGCTAAATTAGCAGAGATGGAGGAAAAATGTG  571
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  509880  AGGCTCAAGAACGAGAAGAAGTGGCTAAAGCTAAATTAGCAGAGATGGAGGAAAAATGTG  509821
+
+Query  572     CTGAGG  577
+               ||||||
+Sbjct  509820  CTGAGG  509815
+
+
+ Score = 135 bits (73),  Expect = 9e-31
+ Identities = 82/86 (95%), Gaps = 2/86 (2%)
+ Strand=Plus/Minus
+EXON 8
+Query  575     AGGCTGAACAGGAAGTACGTGATGCCGAAGATTCAGTAACACAACTTGAAAAGACTTTAG  634
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  509733  AGGCTGAACAGGAAGTACGTGATGCCGAAGATTCAGTAACACAACTTGAAAAGACTTTAG  509674
+
+Query  635     ATGAGCGTGAAGATGAACTACAAGAG  660
+               |||||||||||| | || | ||||||
+Sbjct  509673  ATGAGCGTGAAGGT-AA-TGCAAGAG  509650
+
+
+ Score = 158 bits (85),  Expect = 2e-37
+ Identities = 85/85 (100%), Gaps = 0/85 (0%)
+ Strand=Plus/Minus
+EXON 9
+Query  645     AGATGAACTACAAGAGGaaaaagaaaatttgaaaaaaGCTGAAGAAGAATTAGCTAATGC  704
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  509500  AGATGAACTACAAGAGGAAAAAGAAAATTTGAAAAAAGCTGAAGAAGAATTAGCTAATGC  509441
+
+Query  705     CATGGCTGAACTACAATCTATCTAA  729
+               |||||||||||||||||||||||||
+Sbjct  509440  CATGGCTGAACTACAATCTATCTAA  509416
+
+

@@ -1,0 +1,959 @@
+Query= HYvuLT_1_i1_HYvuTPM1a_ENA_HAAC01027943_HAAC01027943.1
+Length=1287
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+ref|NW_004167157.1|  Hydra vulgaris strain 105 unplaced genomic s...  1075    0.0  
+>ref|NW_004167157.1| Hydra vulgaris strain 105 unplaced genomic scaffold, Hydra_RP_1.0 
+HYDRAscaffold_39062, whole genome shotgun sequence
+Length=256500
+
+ Score = 292 bits (158),  Expect = 7e-77
+ Identities = 158/158 (100%), Gaps = 0/158 (0%)
+ Strand=Plus/Plus
+EXON 1 : hyd1-1
+Query  1      TAAATTTTAAAACCATGGAAAAATCAAACAAAACTGGACAAATTAATAGCGCAGTTCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  95980  TAAATTTTAAAACCATGGAAAAATCAAACAAAACTGGACAAATTAATAGCGCAGTTCAAA  96039
+
+Query  61     ATAAAATATCTGATCTAGAAAACCGACTAAAAATAAGCGTACAAGAGGCAGAAAAGCACG  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  96040  ATAAAATATCTGATCTAGAAAACCGACTAAAAATAAGCGTACAAGAGGCAGAAAAGCACG  96099
+
+Query  121    AAAAATTATTAAAAATAACTCTTGAAAAAGCATGCAAA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  96100  AAAAATTATTAAAAATAACTCTTGAAAAAGCATGCAAA  96137
+
+
+ Score = 466 bits (252),  Expect = 4e-129
+ Identities = 252/252 (100%), Gaps = 0/252 (0%)
+ Strand=Plus/Plus
+EXON 3-4.1-4.2
+Query  159    TCTGAAGAAGAAGTTGATCGTCTGCAAAAAGAACTTAATAATTTAGATGATGAACTTGAA  218
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97724  TCTGAAGAAGAAGTTGATCGTCTGCAAAAAGAACTTAATAATTTAGATGATGAACTTGAA  97783
+
+Query  219    AGCTCAGAAAGCAAACTCAATACGCTGATTAAGCGCTTACATGAAGCTGAAAAACAAGCT  278
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97784  AGCTCAGAAAGCAAACTCAATACGCTGATTAAGCGCTTACATGAAGCTGAAAAACAAGCT  97843
+
+Query  279    GAAGAAAGTGAGAGGGCAAGGCGTGTTCTTGAAAGTCGAGGTCAAACAGATGATGAAAAG  338
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97844  GAAGAAAGTGAGAGGGCAAGGCGTGTTCTTGAAAGTCGAGGTCAAACAGATGATGAAAAG  97903
+
+Query  339    TTATCTAAACTACAATCGGAACTTGACGATGTTATGTCAAAAAACTCTGATGTTGAAAAT  398
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97904  TTATCTAAACTACAATCGGAACTTGACGATGTTATGTCAAAAAACTCTGATGTTGAAAAT  97963
+
+Query  399    CGTTATGAACAA  410
+              ||||||||||||
+Sbjct  97964  CGTTATGAACAA  97975
+
+
+ Score = 132 bits (71),  Expect = 2e-28
+ Identities = 71/71 (100%), Gaps = 0/71 (0%)
+ Strand=Plus/Plus
+EXON 5
+Query  411     ATTGCAAAAGAGATAAAAGAATTAGAGaaaaaaaTGGATGAAGAAGACAATAGATGTACT  470
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  107697  ATTGCAAAAGAGATAAAAGAATTAGAGAAAAAAATGGATGAAGAAGACAATAGATGTACT  107756
+
+Query  471     GCAGCTGaaaa  481
+               |||||||||||
+Sbjct  107757  GCAGCTGAAAA  107767
+
+
+ Score = 259 bits (140),  Expect = 7e-67
+ Identities = 140/140 (100%), Gaps = 0/140 (0%)
+ Strand=Plus/Plus
+EXON 6-7
+Query  482     aaaaGTCAAAGAGCTTGAGCGTGAAGTAATTGATGTAGGAAATACTCTGCGCACAATGGA  541
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  109473  AAAAGTCAAAGAGCTTGAGCGTGAAGTAATTGATGTAGGAAATACTCTGCGCACAATGGA  109532
+
+Query  542     GGTTAATGAGACTCAAGCATCTGAAAGAGAAGATAAGTTTTCAACACGACTTAATGATCT  601
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  109533  GGTTAATGAGACTCAAGCATCTGAAAGAGAAGATAAGTTTTCAACACGACTTAATGATCT  109592
+
+Query  602     TACGTATAAATATAACGATG  621
+               ||||||||||||||||||||
+Sbjct  109593  TACGTATAAATATAACGATG  109612
+
+
+ Score = 130 bits (70),  Expect = 6e-28
+ Identities = 70/70 (100%), Gaps = 0/70 (0%)
+ Strand=Plus/Plus
+EXON 8
+Query  621     GCTGAACTCAAAGCACAGAAATATGAAGCTCAAGTGAAAACTCTTGAAACAACTTTAGCA  680
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  109775  GCTGAACTCAAAGCACAGAAATATGAAGCTCAAGTGAAAACTCTTGAAACAACTTTAGCA  109834
+
+Query  681     AAGTTAGAAG  690
+               ||||||||||
+Sbjct  109835  AAGTTAGAAG  109844
+
+
+ Score = 1075 bits (582),  Expect = 0.0
+ Identities = 593/598 (99%), Gaps = 2/598 (0%)
+ Strand=Plus/Plus
+EXON 9
+Query  689     AGATCAATTAAAAGTTGAGAAAGATATGTACAATCGTGTGAAGAATGATCTCGATCGTTT  748
+               |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  110382  AGATCAATTAAAAGTTGAGAAAGATATGTACAATCGTGTGAAGAATGACCTCGATCGTTT  110441
+
+Query  749     GTTAGCTGAAATACAACAAATGAATGTCTAGTAATTCAGAAATTAATAGTTATTTGAAGA  808
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  110442  GTTAGCTGAAATACAACAAATGAATGTCTAGTAATTCAGAAATTAATAGTTATTTGAAGT  110501
+
+Query  809     TGTGAGTTCATCTAAAAATAAACTA-ttttttttttCATTCATCTAGAAATTTACACTAC  867
+               ||||||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||
+Sbjct  110502  TGTGAGTTCATCTAAAAATTAACTATTTTTTTTTTTCATTCATCTAGAAATTTACACTAC  110561
+
+Query  868     ATGAATTGGTTTTAAAATTTAAGGGCATAAAAAGTACAACACATTAGGACttttttttGT  927
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110562  ATGAATTGGTTTTAAAATTTAAGGGCATAAAAAGTACAACACATTAGGACTTTTTTTTGT  110621
+
+Query  928     TTGAAACAGTCTAGTAAATATTTTCAACTTTGTTAACCATATAAAAATGTATTTAATTAT  987
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110622  TTGAAACAGTCTAGTAAATATTTTCAACTTTGTTAACCATATAAAAATGTATTTAATTAT  110681
+
+Query  988     TAACCGCTGTATATTGGGTACGATTGGAAACTAATCACGATATTCTTTTAGTGTTATAAC  1047
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110682  TAACCGCTGTATATTGGGTACGATTGGAAACTAATCACGATATTCTTTTAGTGTTATAAC  110741
+
+Query  1048    tttttttATGTATTTATTGTTGAACTGTCAATATAATTGTATTTAATGCtttttttACTT  1107
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110742  TTTTTTTATGTATTTATTGTTGAACTGTCAATATAATTGTATTTAATGCTTTTTTTACTT  110801
+
+Query  1108    GAGATTTTaaaaaaaGTTATTTACTTATCTTTTGTAGTTTCTGTTTAACTGATTTAATTG  1167
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110802  GAGATTTTAAAAAAAGTTATTTACTTATCTTTTGTAGTTTCTGTTTAACTGATTTAATTG  110861
+
+Query  1168    CAGAACCTTAAAATTTTTCTTAATTCAAGAATTTCAAATTGTAttttttttttGTATCAG  1227
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110862  CAGAACCTTAAAATTTTTCTTAATTCAAGAATTTCAAATTGTATTTTTTTTTTGTATCAG  110921
+
+Query  1228    AGTTATGGTGTGTGTTAAACCTGTAGAGATGTATCTATGTTTTATAGAGATCGTTATT  1285
+               ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  110922  AGTTATGGTGTGTGTTAAACCTGTAGAGATGTATCTATG-TTTATAGAGATCGTTATT  110978
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= HYvuLT_1_i2_HYvuTPM1a_ENA_HAAC01006619_HAAC01006619.1
+Length=1372
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+ref|NW_004167157.1|  Hydra vulgaris strain 105 unplaced genomic s...  1103    0.0  
+>ref|NW_004167157.1| Hydra vulgaris strain 105 unplaced genomic scaffold, Hydra_RP_1.0 
+HYDRAscaffold_39062, whole genome shotgun sequence
+Length=256500
+
+ Score = 453 bits (245),  Expect = 3e-125
+ Identities = 245/245 (100%), Gaps = 0/245 (0%)
+ Strand=Plus/Plus
+EXON 1 : hyd1-2
+Query  1      aaaaaaaCACTTTTCATTAATAACATTCCTCTAATCTCGCGCAAAGCATAAAtttttttt  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97208  AAAAAAACACTTTTCATTAATAACATTCCTCTAATCTCGCGCAAAGCATAAATTTTTTTT  97267
+
+Query  61     tGGTGTTGTGCTTTTTTCAAAACATTGAAACAACAAATTAAATAATTTAAAAGCAAAACA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97268  TGGTGTTGTGCTTTTTTCAAAACATTGAAACAACAAATTAAATAATTTAAAAGCAAAACA  97327
+
+Query  121    ttttttttGAAATGGACTCTATCAAGaaaaaaaTGTCAGTTTTAAAAGAAAAGCTTGAAG  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97328  TTTTTTTTGAAATGGACTCTATCAAGAAAAAAATGTCAGTTTTAAAAGAAAAGCTTGAAG  97387
+
+Query  181    CTGCTGAAGAACGTTCTAGGAAATCAGAAGAAGAATTAAATTTCTCGAGTAAAAAAGCAA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97388  CTGCTGAAGAACGTTCTAGGAAATCAGAAGAAGAATTAAATTTCTCGAGTAAAAAAGCAA  97447
+
+Query  241    CCGAG  245
+              |||||
+Sbjct  97448  CCGAG  97452
+
+
+ Score = 470 bits (254),  Expect = 3e-130
+ Identities = 254/254 (100%), Gaps = 0/254 (0%)
+ Strand=Plus/Plus
+EXON 3-4.1-4.2
+Query  244    AGTCTGAAGAAGAAGTTGATCGTCTGCAAAAAGAACTTAATAATTTAGATGATGAACTTG  303
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97722  AGTCTGAAGAAGAAGTTGATCGTCTGCAAAAAGAACTTAATAATTTAGATGATGAACTTG  97781
+
+Query  304    AAAGCTCAGAAAGCAAACTCAATACGCTGATTAAGCGCTTACATGAAGCTGAAAAACAAG  363
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97782  AAAGCTCAGAAAGCAAACTCAATACGCTGATTAAGCGCTTACATGAAGCTGAAAAACAAG  97841
+
+Query  364    CTGAAGAAAGTGAGAGGGCAAGGCGTGTTCTTGAAAGTCGAGGTCAAACAGATGATGAAA  423
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97842  CTGAAGAAAGTGAGAGGGCAAGGCGTGTTCTTGAAAGTCGAGGTCAAACAGATGATGAAA  97901
+
+Query  424    AGTTATCTAAACTACAATCGGAACTTGACGATGTTATGTCAAAAAACTCTGATGTTGAAA  483
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97902  AGTTATCTAAACTACAATCGGAACTTGACGATGTTATGTCAAAAAACTCTGATGTTGAAA  97961
+
+Query  484    ATCGTTATGAACAA  497
+              ||||||||||||||
+Sbjct  97962  ATCGTTATGAACAA  97975
+
+
+ Score = 132 bits (71),  Expect = 2e-28
+ Identities = 71/71 (100%), Gaps = 0/71 (0%)
+ Strand=Plus/Plus
+EXON 5
+Query  498     ATTGCAAAAGAGATAAAAGAATTAGAGaaaaaaaTGGATGAAGAAGACAATAGATGTACT  557
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  107697  ATTGCAAAAGAGATAAAAGAATTAGAGAAAAAAATGGATGAAGAAGACAATAGATGTACT  107756
+
+Query  558     GCAGCTGaaaa  568
+               |||||||||||
+Sbjct  107757  GCAGCTGAAAA  107767
+
+
+ Score = 259 bits (140),  Expect = 8e-67
+ Identities = 140/140 (100%), Gaps = 0/140 (0%)
+ Strand=Plus/Plus
+EXON 6-7
+Query  569     aaaaGTCAAAGAGCTTGAGCGTGAAGTAATTGATGTAGGAAATACTCTGCGCACAATGGA  628
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  109473  AAAAGTCAAAGAGCTTGAGCGTGAAGTAATTGATGTAGGAAATACTCTGCGCACAATGGA  109532
+
+Query  629     GGTTAATGAGACTCAAGCATCTGAAAGAGAAGATAAGTTTTCAACACGACTTAATGATCT  688
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  109533  GGTTAATGAGACTCAAGCATCTGAAAGAGAAGATAAGTTTTCAACACGACTTAATGATCT  109592
+
+Query  689     TACGTATAAATATAACGATG  708
+               ||||||||||||||||||||
+Sbjct  109593  TACGTATAAATATAACGATG  109612
+
+
+ Score = 130 bits (70),  Expect = 6e-28
+ Identities = 70/70 (100%), Gaps = 0/70 (0%)
+ Strand=Plus/Plus
+EXON 8
+Query  708     GCTGAACTCAAAGCACAGAAATATGAAGCTCAAGTGAAAACTCTTGAAACAACTTTAGCA  767
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  109775  GCTGAACTCAAAGCACAGAAATATGAAGCTCAAGTGAAAACTCTTGAAACAACTTTAGCA  109834
+
+Query  768     AAGTTAGAAG  777
+               ||||||||||
+Sbjct  109835  AAGTTAGAAG  109844
+
+
+ Score = 1103 bits (597),  Expect = 0.0
+ Identities = 597/597 (100%), Gaps = 0/597 (0%)
+ Strand=Plus/Plus
+EXON 9
+Query  776     AGATCAATTAAAAGTTGAGAAAGATATGTACAATCGTGTGAAGAATGACCTCGATCGTTT  835
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110382  AGATCAATTAAAAGTTGAGAAAGATATGTACAATCGTGTGAAGAATGACCTCGATCGTTT  110441
+
+Query  836     GTTAGCTGAAATACAACAAATGAATGTCTAGTAATTCAGAAATTAATAGTTATTTGAAGT  895
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110442  GTTAGCTGAAATACAACAAATGAATGTCTAGTAATTCAGAAATTAATAGTTATTTGAAGT  110501
+
+Query  896     TGTGAGTTCATCTAAAAATTAACTAtttttttttttCATTCATCTAGAAATTTACACTAC  955
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110502  TGTGAGTTCATCTAAAAATTAACTATTTTTTTTTTTCATTCATCTAGAAATTTACACTAC  110561
+
+Query  956     ATGAATTGGTTTTAAAATTTAAGGGCATAAAAAGTACAACACATTAGGACttttttttGT  1015
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110562  ATGAATTGGTTTTAAAATTTAAGGGCATAAAAAGTACAACACATTAGGACTTTTTTTTGT  110621
+
+Query  1016    TTGAAACAGTCTAGTAAATATTTTCAACTTTGTTAACCATATAAAAATGTATTTAATTAT  1075
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110622  TTGAAACAGTCTAGTAAATATTTTCAACTTTGTTAACCATATAAAAATGTATTTAATTAT  110681
+
+Query  1076    TAACCGCTGTATATTGGGTACGATTGGAAACTAATCACGATATTCTTTTAGTGTTATAAC  1135
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110682  TAACCGCTGTATATTGGGTACGATTGGAAACTAATCACGATATTCTTTTAGTGTTATAAC  110741
+
+Query  1136    tttttttATGTATTTATTGTTGAACTGTCAATATAATTGTATTTAATGCtttttttACTT  1195
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110742  TTTTTTTATGTATTTATTGTTGAACTGTCAATATAATTGTATTTAATGCTTTTTTTACTT  110801
+
+Query  1196    GAGATTTTaaaaaaaGTTATTTACTTATCTTTTGTAGTTTCTGTTTAACTGATTTAATTG  1255
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110802  GAGATTTTAAAAAAAGTTATTTACTTATCTTTTGTAGTTTCTGTTTAACTGATTTAATTG  110861
+
+Query  1256    CAGAACCTTAAAATTTTTCTTAATTCAAGAATTTCAAATTGTAttttttttttGTATCAG  1315
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110862  CAGAACCTTAAAATTTTTCTTAATTCAAGAATTTCAAATTGTATTTTTTTTTTGTATCAG  110921
+
+Query  1316    AGTTATGGTGTGTGTTAAACCTGTAGAGATGTATCTATGTTTATAGAGATCGTTATT  1372
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110922  AGTTATGGTGTGTGTTAAACCTGTAGAGATGTATCTATGTTTATAGAGATCGTTATT  110978
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= HYvuLT_2_i1_HYvuTPM2a1_ENA_HAAC01004594_HAAC01004594.1
+Length=1525
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+ref|NW_004167871.1|  Hydra vulgaris strain 105 unplaced genomic s...  1919    0.0  
+>ref|NW_004167871.1| Hydra vulgaris strain 105 unplaced genomic scaffold, Hydra_RP_1.0 
+HYDRAscaffold_38347, whole genome shotgun sequence
+Length=160554
+
+ Score = 1919 bits (1039),  Expect = 0.0
+ Identities = 1039/1039 (100%), Gaps = 0/1039 (0%)
+ Strand=Plus/Plus
+EXON 1to9
+Query  1      ATATAATGGCTGCTCTTTAAACTATGTTATTGTTTATTAAATAATTCTCGCTCGATTTGG  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59008  ATATAATGGCTGCTCTTTAAACTATGTTATTGTTTATTAAATAATTCTCGCTCGATTTGG  59067
+
+Query  61     TCATTGGTTAATAAATTGGATTGTCTAAGAAGAGTAACTGCCCTGATAACACACCCATTG  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59068  TCATTGGTTAATAAATTGGATTGTCTAAGAAGAGTAACTGCCCTGATAACACACCCATTG  59127
+
+Query  121    CAAGACAAAGGTTTTTACGATAAGTAAAGTTCTGTTTTTCAGATTGCACTGCATCAAGAA  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59128  CAAGACAAAGGTTTTTACGATAAGTAAAGTTCTGTTTTTCAGATTGCACTGCATCAAGAA  59187
+
+Query  181    AGGCTGATAAATTACTTTAGAATCTATAAAGTACTCTGTAATTTCAGCTGTTATATTTCT  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59188  AGGCTGATAAATTACTTTAGAATCTATAAAGTACTCTGTAATTTCAGCTGTTATATTTCT  59247
+
+Query  241    TTTTACATTCTAAGTAACTTTTAACAATACAATTTTGAAATGGATTCTGGTGGCAAACTC  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59248  TTTTACATTCTAAGTAACTTTTAACAATACAATTTTGAAATGGATTCTGGTGGCAAACTC  59307
+
+Query  301    GCTAAACTTAAATCAAAACTTGCAGAAATTTCATCGCAAATTGATGATGCTGATAACAGA  360
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59308  GCTAAACTTAAATCAAAACTTGCAGAAATTTCATCGCAAATTGATGATGCTGATAACAGA  59367
+
+Query  361    AAAAATGAAGCCAAAACCTCTATGGTTGAAGCAACATCTAGATTAGAAAAAGCTGAAAGC  420
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59368  AAAAATGAAGCCAAAACCTCTATGGTTGAAGCAACATCTAGATTAGAAAAAGCTGAAAGC  59427
+
+Query  421    GAAGTTGCCAGTTACCTACGAAAAATTCAACTTCTGGAAAAAGACTACAATGAAGTTGTT  480
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59428  GAAGTTGCCAGTTACCTACGAAAAATTCAACTTCTGGAAAAAGACTACAATGAAGTTGTT  59487
+
+Query  481    AGCAGATGTGAGGCTCTTGAAGAAAAGTTAGCTATAACGCAAGATAAAGGTATGTCTGTA  540
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59488  AGCAGATGTGAGGCTCTTGAAGAAAAGTTAGCTATAACGCAAGATAAAGGTATGTCTGTA  59547
+
+Query  541    GAAGAAGCTCGAAAACAGTTGgaagaaaatgaaaacgaaggtgatgaaaaaatacaaaga  600
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59548  GAAGAAGCTCGAAAACAGTTGGAAGAAAATGAAAACGAAGGTGATGAAAAAATACAAAGA  59607
+
+Query  601    ctcgaggaagaagtaaaagaagcaaaaagacttttagaagaaaatgaaacaaaaagCAAT  660
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59608  CTCGAGGAAGAAGTAAAAGAAGCAAAAAGACTTTTAGAAGAAAATGAAACAAAAAGCAAT  59667
+
+Query  661    GAATCTGAACGACGTAGAGTGGTTGTATTCCGTGATATTGAAAGAACTGCAGCTAAAGCT  720
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59668  GAATCTGAACGACGTAGAGTGGTTGTATTCCGTGATATTGAAAGAACTGCAGCTAAAGCT  59727
+
+Query  721    GATTCTTTAGAGAAAAGAATTCAGGTTCTTCAAGAAACAATTGACAATGCTACTATAAGC  780
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59728  GATTCTTTAGAGAAAAGAATTCAGGTTCTTCAAGAAACAATTGACAATGCTACTATAAGC  59787
+
+Query  781    CTTAAAGAACTAGAAGCTCGTGAAGGAGAATCCAGTCAGCGTGAAGAGTATAATGCAGAG  840
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59788  CTTAAAGAACTAGAAGCTCGTGAAGGAGAATCCAGTCAGCGTGAAGAGTATAATGCAGAG  59847
+
+Query  841    CAAATTGTTATGTTAGAAGGAAAATACAAAGAAGCTGAAGTACGTGCTGAAGCTAATGAA  900
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59848  CAAATTGTTATGTTAGAAGGAAAATACAAAGAAGCTGAAGTACGTGCTGAAGCTAATGAA  59907
+
+Query  901    AGAAATTGTTGTGTGTTGGAAAGAAATATCAAAGAATTGGAAGATGAAATTGAAAAAGTC  960
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59908  AGAAATTGTTGTGTGTTGGAAAGAAATATCAAAGAATTGGAAGATGAAATTGAAAAAGTC  59967
+
+Query  961    AAAAAGTTAACAATAGACATAGAAAATGAAATTGCAGATATGGATGATGTAGGAGAGGAT  1020
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59968  AAAAAGTTAACAATAGACATAGAAAATGAAATTGCAGATATGGATGATGTAGGAGAGGAT  60027
+
+Query  1021   GACGATTAAGTTAAATATT  1039
+              |||||||||||||||||||
+Sbjct  60028  GACGATTAAGTTAAATATT  60046
+
+
+ Score = 898 bits (486),  Expect = 0.0
+ Identities = 486/486 (100%), Gaps = 0/486 (0%)
+ Strand=Plus/Plus
+EXON 3'-UTR
+Query  1040   AATATCGAATCTTTGAAATCGCGGAATATATTTCAAGTTTTTATTATTTTGGCTGGAAta  1099
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60242  AATATCGAATCTTTGAAATCGCGGAATATATTTCAAGTTTTTATTATTTTGGCTGGAATA  60301
+
+Query  1100   ttgtttgagttttaaacttttgtattatagtgttatttatgtttattttttaCCTTCAAA  1159
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60302  TTGTTTGAGTTTTAAACTTTTGTATTATAGTGTTATTTATGTTTATTTTTTACCTTCAAA  60361
+
+Query  1160   CAACCATTTCTCATTAGTCAAACATAGTGAAAAAGTTGAAAAAGTAATCAAAAGGCCGAA  1219
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60362  CAACCATTTCTCATTAGTCAAACATAGTGAAAAAGTTGAAAAAGTAATCAAAAGGCCGAA  60421
+
+Query  1220   AACAATATTTTTAGTTTTGTTCTGTGCCGACAAattttttttagttctttagcaactttg  1279
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60422  AACAATATTTTTAGTTTTGTTCTGTGCCGACAAATTTTTTTTAGTTCTTTAGCAACTTTG  60481
+
+Query  1280   atttttaaattttgtttgttttgtaaattttttgttttttgatgttttCACTTTCGAACT  1339
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60482  ATTTTTAAATTTTGTTTGTTTTGTAAATTTTTTGTTTTTTGATGTTTTCACTTTCGAACT  60541
+
+Query  1340   GTGAAATATACCATTTACCAAAATATTGTATGTAGTATATAAACAGGTTaaaaaaaaaaa  1399
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60542  GTGAAATATACCATTTACCAAAATATTGTATGTAGTATATAAACAGGTTAAAAAAAAAAA  60601
+
+Query  1400   aaaaaGAGAGAGAAGttttttgaaagcagctggatttttaaaacttattttttattatta  1459
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60602  AAAAAGAGAGAGAAGTTTTTTGAAAGCAGCTGGATTTTTAAAACTTATTTTTTATTATTA  60661
+
+Query  1460   aaccctttcaaaatttttggatttttGTGTATATAGGAAAATAGAGTTTTCAATAGAACT  1519
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60662  AACCCTTTCAAAATTTTTGGATTTTTGTGTATATAGGAAAATAGAGTTTTCAATAGAACT  60721
+
+Query  1520   ATGTAA  1525
+              ||||||
+Sbjct  60722  ATGTAA  60727
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= HYvuTPM2a2_ENA_HAAC01026242_HAAC01026242.1
+Length=1424
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+ref|NW_004167871.1|  Hydra vulgaris strain 105 unplaced genomic s...  2630    0.0  
+>ref|NW_004167871.1| Hydra vulgaris strain 105 unplaced genomic scaffold, Hydra_RP_1.0 
+HYDRAscaffold_38347, whole genome shotgun sequence
+Length=160554
+
+ Score = 2630 bits (1424),  Expect = 0.0
+ Identities = 1424/1424 (100%), Gaps = 0/1424 (0%)
+ Strand=Plus/Plus
+EXON 1to9
+Query  1      TAATATATTTGTAGGTTAAGAATTTATTATGCCTTTTATTTATGCAATGAAGCAAAACGG  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45227  TAATATATTTGTAGGTTAAGAATTTATTATGCCTTTTATTTATGCAATGAAGCAAAACGG  45286
+
+Query  61     CTGGAGCCAGCTCCTATAAAAGTTATAAAACTAATGCTATGTCTAAATAAACGAAAGGTG  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45287  CTGGAGCCAGCTCCTATAAAAGTTATAAAACTAATGCTATGTCTAAATAAACGAAAGGTG  45346
+
+Query  121    TCGCAAAAGTAGCAAAGTTGCTTAGACATTGCAACTTATTCAAAATCAATATTTTAGGGC  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45347  TCGCAAAAGTAGCAAAGTTGCTTAGACATTGCAACTTATTCAAAATCAATATTTTAGGGC  45406
+
+Query  181    AACTCTATAACTAACTCGTTTTTCTGTCAACTTTAGTAAAttttttttAACCATGGTAGT  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45407  AACTCTATAACTAACTCGTTTTTCTGTCAACTTTAGTAAATTTTTTTTAACCATGGTAGT  45466
+
+Query  241    AGAAACTGGTGTTAACAAACTTGTTCGACTTCAAGGTAAAATTGAAGGTATTAACTCAAA  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45467  AGAAACTGGTGTTAACAAACTTGTTCGACTTCAAGGTAAAATTGAAGGTATTAACTCAAA  45526
+
+Query  301    AATTGATGAAGCCGATCTTAGAAGAGCAAACGCAAAAAGTAGCATTGTTGAAGCATCAAG  360
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45527  AATTGATGAAGCCGATCTTAGAAGAGCAAACGCAAAAAGTAGCATTGTTGAAGCATCAAG  45586
+
+Query  361    TCGCCTTGAAAAAGCAGAGGGAGAAGTTGCAAGTTTTCAAAGACGAATTCGGTTGGTTCA  420
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45587  TCGCCTTGAAAAAGCAGAGGGAGAAGTTGCAAGTTTTCAAAGACGAATTCGGTTGGTTCA  45646
+
+Query  421    ACAAAACTTAAATGACGTCACCGAAAGGGCTCAAATGCTTCAAAGCAAAGTAGATAATTT  480
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45647  ACAAAACTTAAATGACGTCACCGAAAGGGCTCAAATGCTTCAAAGCAAAGTAGATAATTT  45706
+
+Query  481    AGAAGATGTCAGTGAATCGGTAAAACAAGCTAGAAATCAATACGAAGAAGAAGAAGCAGA  540
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45707  AGAAGATGTCAGTGAATCGGTAAAACAAGCTAGAAATCAATACGAAGAAGAAGAAGCAGA  45766
+
+Query  541    ATCAGATGAAAAAATTCAAAGCCTTGAAGAGGAGGTgaaagttaaaaaacgtgaactcga  600
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45767  ATCAGATGAAAAAATTCAAAGCCTTGAAGAGGAGGTGAAAGTTAAAAAACGTGAACTCGA  45826
+
+Query  601    agaaaatgaaattaagcttcgagaaaaagaacgacgaaacGTTGTTGTTCATCGTGACAT  660
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45827  AGAAAATGAAATTAAGCTTCGAGAAAAAGAACGACGAAACGTTGTTGTTCATCGTGACAT  45886
+
+Query  661    TGAAGCTGCAACGGTTAAAGCAGATGCAATCGAAAAACGCATAGAAATATTAGAGAACAC  720
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45887  TGAAGCTGCAACGGTTAAAGCAGATGCAATCGAAAAACGCATAGAAATATTAGAGAACAC  45946
+
+Query  721    AATTAAAAATGGTTTAGAAAGTATTAAAGATCTAGAGGAAAGGGAAGGTCGGACAAACGA  780
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  45947  AATTAAAAATGGTTTAGAAAGTATTAAAGATCTAGAGGAAAGGGAAGGTCGGACAAACGA  46006
+
+Query  781    GAAAGAAAATAATATTGCTGAGCAAATATCCTTTCTTGATAACAAGTTTAAAGAAGTTGA  840
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46007  GAAAGAAAATAATATTGCTGAGCAAATATCCTTTCTTGATAACAAGTTTAAAGAAGTTGA  46066
+
+Query  841    AATTCGCATCGAAGCTGCAGAACGAAACTGTAATGTTTTAGAACATAATATCAAAGAAAC  900
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46067  AATTCGCATCGAAGCTGCAGAACGAAACTGTAATGTTTTAGAACATAATATCAAAGAAAC  46126
+
+Query  901    TTCCGAAGAAATTAAAACATGGAAACATAATACACATGCAATCGAGGAAGAAATTGCTGC  960
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46127  TTCCGAAGAAATTAAAACATGGAAACATAATACACATGCAATCGAGGAAGAAATTGCTGC  46186
+
+Query  961    AATGGATGATGTAGGTGACGATGATACCCAGTGATACTgttttatttataactgttttag  1020
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46187  AATGGATGATGTAGGTGACGATGATACCCAGTGATACTGTTTTATTTATAACTGTTTTAG  46246
+
+Query  1021   ttattttaatttttatttatataaaattttaattgttatttattttaaatctttagaatt  1080
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46247  TTATTTTAATTTTTATTTATATAAAATTTTAATTGTTATTTATTTTAAATCTTTAGAATT  46306
+
+Query  1081   gttattttagttaatttttttGAATAATAACAAAACACTTTATTCAAAAAATAACAAAAA  1140
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46307  GTTATTTTAGTTAATTTTTTTGAATAATAACAAAACACTTTATTCAAAAAATAACAAAAA  46366
+
+Query  1141   TGTATCAAACATTTTTGCCGATAAACTTGAATATCAAAACCTAGATGTTACATGTTTGtt  1200
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46367  TGTATCAAACATTTTTGCCGATAAACTTGAATATCAAAACCTAGATGTTACATGTTTGTT  46426
+
+Query  1201   ttttttATAAACATGTAGTTTTCTTGAAATCTTCAATACCTCCTGAATACCTCCTTAAAG  1260
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46427  TTTTTTATAAACATGTAGTTTTCTTGAAATCTTCAATACCTCCTGAATACCTCCTTAAAG  46486
+
+Query  1261   CTGTTGGAATTATTAAAGCAAGACAGAGTTTTGATGTTTATTGCTATTGCTGATGCTGTT  1320
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46487  CTGTTGGAATTATTAAAGCAAGACAGAGTTTTGATGTTTATTGCTATTGCTGATGCTGTT  46546
+
+Query  1321   TTTTGTTTGTCAATCGTGGTTATTCAAGATTTATCTTTTTTAATTACTGATCCTTACTTA  1380
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46547  TTTTGTTTGTCAATCGTGGTTATTCAAGATTTATCTTTTTTAATTACTGATCCTTACTTA  46606
+
+Query  1381   TGATTCAAAAATAAATAATGTGAAAACGCTTTTATTTCATCCTG  1424
+              ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46607  TGATTCAAAAATAAATAATGTGAAAACGCTTTTATTTCATCCTG  46650
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= HYvuTPM1d_i1_ENA_HAAC01029640_HAAC01029640.1
+Length=1119
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+ref|NW_004169929.1|  Hydra vulgaris strain 105 unplaced genomic s...  1038    0.0  
+>ref|NW_004169929.1| Hydra vulgaris strain 105 unplaced genomic scaffold, Hydra_RP_1.0 
+HYDRAscaffold_36279, whole genome shotgun sequence
+Length=83000
+
+ Score = 409 bits (221),  Expect = 6e-112
+ Identities = 221/221 (100%), Gaps = 0/221 (0%)
+ Strand=Plus/Minus
+EXON 1(+4)
+Query  1      GCCCATCCCAATCAAGATAGGTTTACTTAAACATTAAAGTACGAGTTATAGTTATTTCTG  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  55358  GCCCATCCCAATCAAGATAGGTTTACTTAAACATTAAAGTACGAGTTATAGTTATTTCTG  55299
+
+Query  61     CACTGTTTTCCGATAAACAACATCCATCAACATGCAAGCTGTTCGAAATAAAATGGCCAC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  55298  CACTGTTTTCCGATAAACAACATCCATCAACATGCAAGCTGTTCGAAATAAAATGGCCAC  55239
+
+Query  121    CCTCAAGGCCAAACTTGAGGAGGCTGAAAAAGCTGCATTTGATGCAGAAGAAGAACTAAA  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  55238  CCTCAAGGCCAAACTTGAGGAGGCTGAAAAAGCTGCATTTGATGCAGAAGAAGAACTAAA  55179
+
+Query  181    AGCTACTAATGAAAAAGCAGACCAAGCAGAAGAACGCGTAA  221
+              |||||||||||||||||||||||||||||||||||||||||
+Sbjct  55178  AGCTACTAATGAAAAAGCAGACCAAGCAGAAGAACGCGTAA  55138
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= HYvuTPM1d_i2_ENA_HAAC01043835_HAAC01043835.1
+Length=803
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+ref|NW_004169929.1|  Hydra vulgaris strain 105 unplaced genomic s...  1354    0.0  
+>ref|NW_004169929.1| Hydra vulgaris strain 105 unplaced genomic scaffold, Hydra_RP_1.0 
+HYDRAscaffold_36279, whole genome shotgun sequence
+Length=83000
+
+ Score = 89.8 bits (48),  Expect = 6e-16
+ Identities = 48/48 (100%), Gaps = 0/48 (0%)
+ Strand=Plus/Minus
+ALTERNATIVE REVERSED EXON 1(beg)
+Query  1      AAGCGAGTCAAAAATGACAAGCCTTCAAGAAAAACTTGCAGAAGCAGA  48
+              ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54439  AAGCGAGTCAAAAATGACAAGCCTTCAAGAAAAACTTGCAGAAGCAGA  54392
+
+
+ Score = 51.0 bits (27),  Expect = 3e-04
+ Identities = 27/27 (100%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+ALTERNATIVE REVERSED EXON (end)1
+Query  42     AAGCAGACCAAGCAGAAGAACGCGTAA  68
+              |||||||||||||||||||||||||||
+Sbjct  55164  AAGCAGACCAAGCAGAAGAACGCGTAA  55138
+
+
+ Score = 1354 bits (733),  Expect = 0.0
+ Identities = 737/739 (99%), Gaps = 0/739 (0%)
+ Strand=Plus/Minus
+EXON (-4)3to9
+Query  65     GTAACGGAACTTACGAAGGAGCTAAATGATCTTGAAGATCAACTAGACGCAAGCGAGTCA  124
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54489  GTAACGGAACTTACGAAGGAGCTAAATGATCTTGAAGATCAACTAGACGCAAGCGAGTCA  54430
+
+Query  125    AAAATGACAAGCCTTCAAGAAAAACTTGCAGAAGCAGAAAAACTCCATGAAGAACACGAT  184
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54429  AAAATGACAAGCCTTCAAGAAAAACTTGCAGAAGCAGAAAAACTCCATGAAGAACACGAT  54370
+
+Query  185    CAAGCACGAAGAATACTTGAAAATAGAGGAAGAAGCGACGGTGGACGTATTAGCCGACTA  244
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54369  CAAGCACGAAGAATACTTGAAAATAGAGGAAGAAGCGACGGTGGACGTATTAGCCGACTA  54310
+
+Query  245    CAAGATGAATTAGACGAGCTAACAAACCTTAACAACAAAGTTGTTGAAACTTTTAATGAA  304
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54309  CAAGATGAATTAGACGAGCTAACAAACCTTAACAACAAAGTTGTTGAAACTTTTAATGAA  54250
+
+Query  305    CTTACTCAGATTTTAGCCGAAGCAGATGAGAAGCTTGACCAAGAAGAAGAAAGACGCGAT  364
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54249  CTTACTCAGATTTTAGCCGAAGCAGATGAGAAGCTTGACCAAGAAGAAGAAAGACGCGAT  54190
+
+Query  365    ATTGCAGATGCTAAAGTTAAATTACTCGAAGTTGAAGTAACACAAGTCGGCAATACACTT  424
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54189  ATTGCAGATGCTAAAGTTAAATTACTCGAAGTTGAAGTAACACAAGTCGGCAATACACTT  54130
+
+Query  425    AGAAGTATGGAAATCAACGAAGGTCAAGCTTCCGTTAGAACAGAATGCGGAGATACAAAA  484
+              ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  54129  AGAAGTATGGAAATCAACGAAGGTCAAGCCTCCGTTAGAACAGAATGCGGAGATACAAAA  54070
+
+Query  485    ATTTCAGAAATGGAGGCGAAATATCAAGAAATGGAAGCAAGAGCTGCAGAATTTGAAGAA  544
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54069  ATTTCAGAAATGGAGGCGAAATATCAAGAAATGGAAGCAAGAGCTGCAGAATTTGAAGAA  54010
+
+Query  545    AAGGCTAAGCGGCTTGAACGACGTCAAGAAGAGCTGGACGAAGAACTACAGCTGGAAAAA  604
+              |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54009  AAGGCTAAACGGCTTGAACGACGTCAAGAAGAGCTGGACGAAGAACTACAGCTGGAAAAA  53950
+
+Query  605    GACAAATTTAACCAAACCAAAACAGAATTCGACGCATTATGCGCACATATCAACGAAATG  664
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53949  GACAAATTTAACCAAACCAAAACAGAATTCGACGCATTATGCGCACATATCAACGAAATG  53890
+
+Query  665    TAGATGGGGTGCGGTTTTATCTAatttttttatcgcttttctattattaacatttagttt  724
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53889  TAGATGGGGTGCGGTTTTATCTAATTTTTTTATCGCTTTTCTATTATTAACATTTAGTTT  53830
+
+Query  725    tcattgaatttgtacataatttttttttAATAACTGTGTATTATTTTATTTAGTAAAATA  784
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53829  TCATTGAATTTGTACATAATTTTTTTTTAATAACTGTGTATTATTTTATTTAGTAAAATA  53770
+
+Query  785    ATAAAAAAGTTACAATAAA  803
+              |||||||||||||||||||
+Sbjct  53769  ATAAAAAAGTTACAATAAA  53751
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= HYvuTPM1c_ENA_HAAC01035606_HAAC01035606.1
+Length=841
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+ref|NW_004169415.1|  Hydra vulgaris strain 105 unplaced genomic s...  470     2e-130
+>ref|NW_004169415.1| Hydra vulgaris strain 105 unplaced genomic scaffold, Hydra_RP_1.0 
+HYDRAscaffold_36794, whole genome shotgun sequence
+Length=95365
+
+EXON 1 PROBABLY LOST THROUGH SEQUENCING AND SCAFFOLD ASSEMBLY, CF. BEGINNING OF THE SCAFFOLD
+
+ Score = 470 bits (254),  Expect = 2e-130
+ Identities = 254/254 (100%), Gaps = 0/254 (0%)
+ Strand=Plus/Plus
+EXON 3-4.1-4.2
+Query  129   GTTGAAGAAAAACTTGAAGAATTAATAAAGTTAAAAACTACCATTGAAGATAAACTTGAT  188
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3317  GTTGAAGAAAAACTTGAAGAATTAATAAAGTTAAAAACTACCATTGAAGATAAACTTGAT  3376
+
+Query  189   GAGGCTGATGAGAGAGAAAAACTATTGAAGCTTAGTCTTGCTGAAGCAGaaaaaaaCCAA  248
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3377  GAGGCTGATGAGAGAGAAAAACTATTGAAGCTTAGTCTTGCTGAAGCAGAAAAAAACCAA  3436
+
+Query  249   GATGAAGGTTTAAGAGTCAAAAGGGAATTAGAACATCGTGGTAATGCAGGAAGCAGTCAG  308
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3437  GATGAAGGTTTAAGAGTCAAAAGGGAATTAGAACATCGTGGTAATGCAGGAAGCAGTCAG  3496
+
+Query  309   TTACAGCGTCTAGAGCGAGAATTAAGCGAGTTACTTGCCaaaaatgaaaaagttacagca  368
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3497  TTACAGCGTCTAGAGCGAGAATTAAGCGAGTTACTTGCCAAAAATGAAAAAGTTACAGCA  3556
+
+Query  369   aaattagaaaaagt  382
+             ||||||||||||||
+Sbjct  3557  AAATTAGAAAAAGT  3570
+
+
+ Score = 132 bits (71),  Expect = 1e-28
+ Identities = 71/71 (100%), Gaps = 0/71 (0%)
+ Strand=Plus/Plus
+EXON 5
+Query  381   gttactaaagaaaTAGCTGACTTGGAAACAAAACAAGACATCGAAGAAGAAAGATGTGCT  440
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3813  GTTACTAAAGAAATAGCTGACTTGGAAACAAAACAAGACATCGAAGAAGAAAGATGTGCT  3872
+
+Query  441   GATCTTGATCA  451
+             |||||||||||
+Sbjct  3873  GATCTTGATCA  3883
+
+
+ Score = 257 bits (139),  Expect = 2e-66
+ Identities = 139/139 (100%), Gaps = 0/139 (0%)
+ Strand=Plus/Plus
+EXON 6-7
+Query  452   TCGTGTCAGGGAATTAGAACCAGAGATGATTCAAATCGGCAACATGCTGAGGAGTTCAAA  511
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4224  TCGTGTCAGGGAATTAGAACCAGAGATGATTCAAATCGGCAACATGCTGAGGAGTTCAAA  4283
+
+Query  512   AATTAATGAAAGTAAAGCAACAGTTAGAATGGAATCATCAGATGAAAAGTTGGAAAAAAT  571
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4284  AATTAATGAAAGTAAAGCAACAGTTAGAATGGAATCATCAGATGAAAAGTTGGAAAAAAT  4343
+
+Query  572   GCATGTAAAACTTGAAGAG  590
+             |||||||||||||||||||
+Sbjct  4344  GCATGTAAAACTTGAAGAG  4362
+
+
+ Score = 139 bits (75),  Expect = 6e-31
+ Identities = 75/75 (100%), Gaps = 0/75 (0%)
+ Strand=Plus/Plus
+EXON 8
+Query  589   AGATAGAAGAAAGGGTTCGAAGAACTGCAGCACGAGAAGAAGACCTCGAGTTAAAAATGA  648
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6355  AGATAGAAGAAAGGGTTCGAAGAACTGCAGCACGAGAAGAAGACCTCGAGTTAAAAATGA  6414
+
+Query  649   CTGAGCTAGAAGGTG  663
+             |||||||||||||||
+Sbjct  6415  CTGAGCTAGAAGGTG  6429
+
+
+ Score = 339 bits (183),  Expect = 6e-91
+ Identities = 183/183 (100%), Gaps = 0/183 (0%)
+ Strand=Plus/Plus
+EXON 9
+Query  659   AGGTGTCTTACAAGCTGCTAAAGATGAATACACAAGGGCGAAGGCAGAGTTAGATGCCAC  718
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6541  AGGTGTCTTACAAGCTGCTAAAGATGAATACACAAGGGCGAAGGCAGAGTTAGATGCCAC  6600
+
+Query  719   CATTCAGGAACTATCCGAACTATAGATACGTTAACTTTATAAAACATTCTATTTATGTAT  778
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6601  CATTCAGGAACTATCCGAACTATAGATACGTTAACTTTATAAAACATTCTATTTATGTAT  6660
+
+Query  779   GATTAGTAGATGTTAAAATGTAACATAGAATCTTTTTACTTCAATGCTATAAGATAAGCT  838
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6661  GATTAGTAGATGTTAAAATGTAACATAGAATCTTTTTACTTCAATGCTATAAGATAAGCT  6720
+
+Query  839   CCA  841
+             |||
+Sbjct  6721  CCA  6723
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= HYvuTPM2c_ENA_HAAC01041894_HAAC01041894.1
+Length=745
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+ref|NW_004167106.1|  Hydra vulgaris strain 105 unplaced genomic s...  1234    0.0  
+>ref|NW_004167106.1| Hydra vulgaris strain 105 unplaced genomic scaffold, Hydra_RP_1.0 
+HYDRAscaffold_39113, whole genome shotgun sequence
+Length=270207
+ Score = 1234 bits (668),  Expect = 0.0
+ Identities = 674/677 (99%), Gaps = 0/677 (0%)
+ Strand=Plus/Plus
+EXON 1to8
+Query  1       AATTAAGAATTAAATCAGCATAGAAGATGCAGGCAGTTAAAGAAGCAATTCTTGATATGA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122073  AATTAAGAATTAAATCAGCATAGAAGATGCAGGCAGTTAAAGAAGCAATTCTTGATATGA  122132
+
+Query  61      TAGAGCAATCGCAGTATTCAGAAGACAGGATCAAGTTATTTGAATCAGCACTTCGATCAT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122133  TAGAGCAATCGCAGTATTCAGAAGACAGGATCAAGTTATTTGAATCAGCACTTCGATCAT  122192
+
+Query  121     CTAAACGACATCTtgaaaatatgcttaatgaaaaagaatctttgatgaaaaagctagaaa  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122193  CTAAACGACATCTTGAAAATATGCTTAATGAAAAAGAATCTTTGATGAAAAAGCTAGAAA  122252
+
+Query  181     gcagtgaaatgaaaatTATTAATGTGGACCAACAGCGCTGTGAAGTAGCTGATAAGTTGA  240
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122253  GCAGTGAAATGAAAATTATTAATGTGGACCAACAGCGCTGTGAAGTAGCTGATAAGTTGA  122312
+
+Query  241     AAGCCATTGAAATTCAAATTGATCAAAGTGAATTGCACAGAAGAGTATTAGAAGAGAAAG  300
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122313  AAGCCATTGAAATTCAAATTGATCAAAGTGAATTGCACAGAAGAGTATTAGAAGAGAAAG  122372
+
+Query  301     AATTAGAATCAGATAATAAGATTATGAAGTTGGAGTATAAGTTGTGTACTGCTAAAAATA  360
+               |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||
+Sbjct  122373  AATTAGAATCAGATAATAAGATAATGAAGTTGGAGTATAAGTTGTGTACTGCTAAAAATA  122432
+
+Query  361     AATATGAAGAAAATACTTTGCGCTATGAAGAAGCCAAACAAAGACTAGCTGAGCTCAATT  420
+               ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122433  AATATGAAGAAAATATTTTGCGCTATGAAGAAGCCAAACAAAGACTAGCTGAGCTCAATT  122492
+
+Query  421     CAGAGTATTGCTTACTTATTAAAAAACGAGCTTGTTTGGAACAGACAGGAGCAGATTTAG  480
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122493  CAGAGTATTGCTTACTTATTAAAAAACGAGCTTGTTTGGAACAGACAGGAGCAGATTTAG  122552
+
+Query  481     AACAGGAAGCTGAGAACAAAACTTTAAAATTGATTTCACTTGAAAAATCTAGAGAGCAAT  540
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122553  AACAGGAAGCTGAGAACAAAACTTTAAAATTGATTTCACTTGAAAAATCTAGAGAGCAAT  122612
+
+Query  541     CATTTAAAAGAAATCCAAATAATGAGGATCATCTTAGATATTTAGAAAATGATTGTAGAG  600
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122613  CATTTAAAAGAAATCCAAATAATGAGGATCATCTTAGATATTTAGAAAATGATTGTAGAG  122672
+
+Query  601     TGATGAATGAAAAGCAAGAAGCTACAATGTTAACTGTTGCGAGACTACAAAAATTAATCG  660
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122673  TGATGAATGAAAAGCAAGAAGCTACAATGTTAACTGTTGCGAGACTACAAAAATTAATCG  122732
+
+Query  661     AGACAACaaaagataaa  677
+               |||||||||||| ||||
+Sbjct  122733  AGACAACAAAAGGTAAA  122749
+
+
+ Score = 139 bits (75),  Expect = 6e-31
+ Identities = 75/75 (100%), Gaps = 0/75 (0%)
+ Strand=Plus/Plus
+EXON 9
+Query  671     agataaaatagaaactctgcaaatgaagaaaaagactaaagaaatggaattaaaaaaCGC  730
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130571  AGATAAAATAGAAACTCTGCAAATGAAGAAAAAGACTAAAGAAATGGAATTAAAAAACGC  130630
+
+Query  731     ACTCCATGCAACAAA  745
+               |||||||||||||||
+Sbjct  130631  ACTCCATGCAACAAA  130645
+
+
+

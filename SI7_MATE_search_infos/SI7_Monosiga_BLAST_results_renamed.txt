@@ -1,0 +1,98 @@
+Query= MObrTPM_XM_001748477.1_Monosiga_brevicollis_MX1_predicted_protein_MONBRDRAFT
+_38312_mRNA,_complete_cds
+Length=842
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+NW_001865060.1  Monosiga brevicollis MX1 MONBRscaffold_23 genomic...  856     0.0  
+>NW_001865060.1 Monosiga brevicollis MX1 MONBRscaffold_23 genomic scaffold, whole 
+genome shotgun sequence
+Length=690264
+
+ Score = 224 bits (121),  Expect = 9e58
+ Identities = 121/121 (100%), Gaps = 0/121 (0%)
+ Strand=Plus/Minus
+EXON 1
+Query  1       ATGGCAATGGAAAAGATCAAGGCCAAGATGCTCGCGTTGCGCGAGGAGGCCGACGCCAAC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  152428  ATGGCAATGGAAAAGATCAAGGCCAAGATGCTCGCGTTGCGCGAGGAGGCCGACGCCAAC  152369
+
+Query  61      GCCGAAAAGGTCGAGCAACTCGAGGAGAAGCTTCGTGCTGCCAACGAGCGCGCATCGGCC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  152368  GCCGAAAAGGTCGAGCAACTCGAGGAGAAGCTTCGTGCTGCCAACGAGCGCGCATCGGCC  152309
+
+Query  121     G  121
+               |
+Sbjct  152308  G  152308
+
+
+ Score = 130 bits (70),  Expect = 2e29
+ Identities = 70/70 (100%), Gaps = 0/70 (0%)
+ Strand=Plus/Minus
+EXON 3(beg)
+Query  121     GCCGAGGCCGAGGCCAACGATGCCAAGCGCAAGCTGACCCTGACCGAAGATGATTTGGAC  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  152050  GCCGAGGCCGAGGCCAACGATGCCAAGCGCAAGCTGACCCTGACCGAAGATGATTTGGAC  151991
+
+Query  181     AAGGCTGAGG  190
+               ||||||||||
+Sbjct  151990  AAGGCTGAGG  151981
+
+
+ Score = 856 bits (463),  Expect = 0.0
+ Identities = 468/470 (99%), Gaps = 1/470 (0%)
+ Strand=Plus/Minus
+EXON (end)3to8
+Query  184     GCTGAGGAGCGCCTGCAGTCGATGCAAACACGTCTCCGGGATGCTGAACAAGAGGCAGA  242
+               |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151853  GCTGACAGAGCGCCTGCAGTCGATGCAAACACGTCTCCGGGATGCTGAACAAGAGGCAGA  151794
+
+Query  243     GGATGCCTCGCGCAAGCTTCAGCGCCTTGAAGCTACCCAGGACAATGACTTTGGCAAGGC  302
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151793  GGATGCCTCGCGCAAGCTTCAGCGCCTTGAAGCTACCCAGGACAATGACTTTGGCAAGGC  151734
+
+Query  303     CGAAGCTCTCGAGGACAAGTACAAGGACCTCAAGCGCCAGTTTGATGACGTCGAGCGCTC  362
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151733  CGAAGCTCTCGAGGACAAGTACAAGGACCTCAAGCGCCAGTTTGATGACGTCGAGCGCTC  151674
+
+Query  363     TCACGCCGAGGCTACCCGCAAGCTGCAGCTCACCGAGGACGACCTGGAAAAGGCCGAGGA  422
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151673  TCACGCCGAGGCTACCCGCAAGCTGCAGCTCACCGAGGACGACCTGGAAAAGGCCGAGGA  151614
+
+Query  423     GCGTGCTGAGGTTGCAGAGGAGAAGGTTCGCGAGCTGGAACGCGAGCTGGACGCCACTGC  482
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151613  GCGTGCTGAGGTTGCAGAGGAGAAGGTTCGCGAGCTGGAACGCGAGCTGGACGCCACTGC  151554
+
+Query  483     CAACGAATTGCGCAGCCGTGAAATTAGTGAGGAACAGGCCCAAATTGCCGAGGAAGGCTC  542
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151553  CAACGAATTGCGCAGCCGTGAAATTAGTGAGGAACAGGCCCAAATTGCCGAGGAAGGCTC  151494
+
+Query  543     CACTGAGCGCATGCGTGAGCTCAAGCGCGATCACGACAACCTCTCCCGTGAACTCGAGGA  602
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151493  CACTGAGCGCATGCGTGAGCTCAAGCGCGATCACGACAACCTCTCCCGTGAACTCGAGGA  151434
+
+Query  603     GGCTCGTCGCCGCGTTAAGGAGCTTGAAATTGAGAACGACCAGATGGAAG  652
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151433  GGCTCGTCGCCGCGTTAAGGAGCTTGAAATTGAGAACGACCAGATGGAAG  151384
+
+
+ Score = 355 bits (192),  Expect = 3e97
+ Identities = 192/192 (100%), Gaps = 0/192 (0%)
+ Strand=Plus/Minus
+EXON 9
+Query  651     AGCTGATCTCGAAAAGACCACCGAGGCGTACAAAAAGGTCAAGGCCGAGCTCGAGGAGAC  710
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151279  AGCTGATCTCGAAAAGACCACCGAGGCGTACAAAAAGGTCAAGGCCGAGCTCGAGGAGAC  151220
+
+Query  711     TCTGTCCGAGCTGAGTGACATCTAGACATACTTTTATGCTTGAACGCTGTGGACCAAGCT  770
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151219  TCTGTCCGAGCTGAGTGACATCTAGACATACTTTTATGCTTGAACGCTGTGGACCAAGCT  151160
+
+Query  771     TCAttttcttcttcttttctttttGGTCATAATCTTACCTGTCATGTGGCATAAATTGAA  830
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151159  TCATTTTCTTCTTCTTTTCTTTTTGGTCATAATCTTACCTGTCATGTGGCATAAATTGAA  151100
+
+Query  831     CCTCTTGGTGTG  842
+               ||||||||||||
+Sbjct  151099  CCTCTTGGTGTG  151088
+
+

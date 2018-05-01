@@ -1,0 +1,1485 @@
+ 211 327
+NEveTPM2ab1b     LLKLKEKMQQ IKDQTDDAEE RELGAKSLLK EAEAKEEQ-- ---------- 
+NEveTPM2ab1a       LTAVKEKMQM IKDSIDEAEE RESNAKLELK EARAREEA-- ---------- 
+AIpaTPM2ab1     LASIKQKMQK IKDDTDAADE RAYEAKSRLR EVEEAEEK-- ---------- 
+ACdiTPM2ab1     LQKLKARMQE IKDKIEEAEE REHDAKTQLK EVEAKEES-- ---------- 
+NEveTPM2ab3        LTKVKAKLQA IKEKIDETED RELAAMEKLR EAEERFEK-- ---------- 
+AIpaTPM2ab3     LAKVKAKLNA IKEKIDQTED RELEAKEKLR EAEERLEK-- ---------- 
+ACdiTPM2ab3     MNKVKGKLQG IKDKIEKAED REASANEQLR EVTEEANK-- ---------- 
+AIpaTPM2ab4     MIKIKEKLNA MKDAIEQAED READAKYNLR AAEDRYKK-- ---------- 
+ACdiTPM2ab4    VDSVVKKMLA VKENTEEANE RESDAKTALK EANLNVFA-- ---------- 
+NEveTPM2ab4        ----KEKMNA VKNAIDDAED REAEAKYHLK EALERGDK-- ---------- 
+NEveTPM2ab2        MDKVREKMQG IKNKIEEAEE REAMAKMELK DAEERAYQ-- ---------- 
+AIpaTPM2ab2     MDKVREKMQA LKDKIEEAEE REQMAKAEMK DAETRSYQ-- ---------- 
+ACdiTPM2ab2     LMKVREKMQK IKDKIEEAEE REHTAKEDLK EVQAQIDL-- ---------- 
+NEveTPM2c        MEKLRAKKDE MLKKIEEFEE REKAAMKKIA RLEEVIAK-- ---------- 
+AIpaTPM2c     MDKFREKRIA MQEEIDELDK KEQLAQKKLV RLTEITEL-- ---------- 
+ACdiTPM2c     MEEFKAKTNR LRFEIDQAEV REKAAIKNLT FARHEAEE-- ---------- 
+CLheTPM2a     LSKLKAKLAE ISNQIDDADG RKQDHKAATI EAQSRLEK-- ---------- 
+HYsyTPM2a     LGKLKAKLAE ISNQIDEADS RKAEAKASLI EASSRLEK-- ---------- 
+HYvuTPM2a1        LAKLKSKLAE ISSQIDDADN RKNEAKTSMV EATSRLEK-- ---------- 
+POcaTPM2a     LGKLKAKLAE ISSQIDDADV RKGEAKAGLI EAASRLEK-- ---------- 
+HYvuTPM2a2     LVRLQGKIEG INSKIDEADL RRANAKSSIV EASSRLEK-- ---------- 
+CLheTPM2b     LVNLKKKLHN ITELIDNADQ RKLDAKHSIV EALARLEK-- ---------- 
+POcaTPM2b     LGKLRAKLKE ITELIDDADQ KKIEAKHALV DSLARLEK-- ---------- 
+AUauTPM2ab      LQGVKARLAK IQEDIDEADN RAVNANHEIR EAQTRLEK-- ---------- 
+ALalTPM2ab        LNNLKARLQQ IQDSIDQAEE REQEAKHNIR EALSRLEK-- ---------- 
+CaryTPM2ab        LTNLKARLQQ IQDSIDQAEE REQNAHHSIR EAQSRLEK-- ---------- 
+ATvaTPM2ab1        LTNLKNKLAE FQAQIDEADE REASAKHSLR DAETRLEK-- ---------- 
+ATvaTPM2ab3      LANIKNKLAE LQAQIDEEDE REANAKHSLG DAETRLEK-- ---------- 
+PEnoTPM2ab     FNKVKERLAQ LQDETDEADN RTVTAKHELR EAQTRLEK-- ---------- 
+CLheTPM2c    MELVKERLNQ MKDDYETSND KIIKFESELQ ESRRNLES-- ---------- 
+HYvuTPM2c    MQAVKEAILD MIEQSQYSED RIKLFESALR SSKRHLEN-- ---------- 
+HYsyTPM2c     MDAVKNKLNS MKAQSELSEE RIIKFESSLA VSKQHLEA-- ---------- 
+POcaTPM2c    MEAVKNKLNA MKAQSELSEE RISKFESNLV ISKRQLQA-- ---------- 
+NEveTPM1       METIKKKMAT LRQTLEDAEA RAAKAEDELK NANDRADS-- ---------- 
+ACdiTPM1.1     MEAIKKKMAL LRDQLASAEE RAEKAEQELK EANERAQA-- ---------- 
+ACdiTPM1.2    MEVIRKKVNS LKNQLEETEQ RAGTAEEELK KEQDRNAK-- ---------- 
+AIpaTPM1     METIKKKMNT LKETLNDAEK RANEAEDELK KANERADA-- ---------- 
+CLheTPM1d2    MKAVQSKLAS MRAKLKESED AVNVAAGELN KIIQKADE-- ---------- 
+HYvuTPM1d     MQAVRNKMAT LKAKLEEAEK AAFDAEEELK ATNEKADQ-- ---------- 
+POcaTPM1d1     MQSVRNKMAT LKAKLEEADK AANSAEEELK NTNDEADA-- ---------- 
+POcaTPM1d2    MQAVKNKMML LKTKLDESVA AAKLAEEELE DTNEKADA-- ---------- 
+POcaTPM1d3    MLAVKNKLDS LKTKLIESEA EASSTEEELQ YICEKAEA-- ---------- 
+CLheTPM1d1     MQAVKSKLAS LKAKLKESED AANDAEAELN EIKEKTEE-- ---------- 
+HYsyTPM1d     MQAVRNKMAT LKAKLEEANR AADDAENELA LTNEKADE-- ---------- 
+HYvuTPM1a        MDSIKKKMSV LKEKLEAAEE RSRKSEEELN FSSKKATE-- ---------- 
+AEciTPM1a     MDAIKKKMSN LRDKLDAAEE RSRKAELDLT STNQKADE-- ---------- 
+CandTPM1a_5   ----KKKMAA LREKLEAAEE RSRKSEDELQ LTSQKAEE-- ---------- 
+EClaTPM1a    MDGIKKKMAN LREKLEAAEE RSRRSEDELQ STNAKAEE-- ---------- 
+HYsyTPM1a     MDSIKKKMAA LREKLEAAEE RARKSENELH CTNVKADE-- ---------- 
+CLheTPM1a     MEQIKKKMAI LREKLEKAEE RSKKAEDELQ NSNNKAEE-- ---------- 
+POcaTPM1a     MEAIKKKMAT LREKLEAAEE RARKAEDELH STNVKADE-- ---------- 
+AGelTPM1a     MDAIKKKMAT LREKLEAAEN RSKKAEDELS STHLKATE-- ---------- 
+NAbiTPM1a     MDAIKKKMAT LREKLEAAEN RSKKAEDELS STHLKAGE-- ---------- 
+CLheTPM1b2     MEVIRKKLGG MKKKLVEAET EARGMEKELE QINTKAES-- ---------- 
+NAbiTPM1b2     METIRKKLEG LKARLAQAEQ EAKEAEHELA ATNEKADK-- ---------- 
+NAbiTPM1b1     METIRKKMEG LKIRLEQAER DAKQAEDELA ATNKKADD-- ---------- 
+AGelTPM1b2     METIKKKLEG LKSRLEQAEQ EAQEAEDELA ATNQKADE-- ---------- 
+AGelTPM1b1     METIRKKMEG LKARLEQAEH EAFEAENELA ATNKKADE-- ---------- 
+POcaTPM1b    METIRKKMST LKARLASAEQ EARDAEEELA ATNAKADR-- ---------- 
+EClaTPM1b     METIRKKMAA LKQRLSNAEV EAKAAEVELA ATNEKADN-- ---------- 
+CLheTPM1b1     METIRKKLGG MKKQLEKALG EAKAAEDELA ETNAKADG-- ---------- 
+AEciTPM1b3    ---------- ---------- ---------- ---------- ---------- 
+AEciTPM1b2     MDTIRKKLTT LKMKLNETET NATSALAELE GTKKSVNE-- ---------- 
+AEciTPM1b1     MDTIRKKLSG LKMRLHEAET QANEAQTELE DTKRKADE-- ---------- 
+HAvaTPM1b2     MDTIRKKLAG LKLRLFEAET GANEAQAELD SYKTKERK-- ---------- 
+HAvaTPM1b1     MDTIRKKLAG LKRRLYEAET SCNEAQADLD ATKKKADD-- ---------- 
+CandTPM2a'     LSKLKAKLNE ISTQIDDADA RKVDAKAGLV EALTRLEK-- ---------- 
+CandTPM2a     LSKLKAKLAE ISTQIDEAEI RKNDARSSSV EASSRLEK-- ---------- 
+CandTPM1d     MQAVRNKLGT LKAKLDEAER AAQNAEDELR ETNEKADA-- ---------- 
+AUauTPM1ab   MEQIKKKMAN LKKQQDEAEE KARKAEEELA ETNAKAQA-- ---------- 
+ATvaTPM1ab1.3    MEVIKKKMRL LKATLEDAES RARRAEERLA ETNQKCED-- ---------- 
+ATvaTPM1ab2.1    MEQIRKKMAQ LKQSLEQSQE KADRAEDELN AKNEKADQ-- ---------- 
+CLheTPM1c     MEVIKKKMNT LRAKLEEAEA QADQAEAELN AINERADE-- ---------- 
+HYsyTPM1c     MDAIKKKMAA MRTKLEQAES QAQRAEEELD ATNQKADD-- ---------- 
+HYvuTPM1c     MEAIRKKMAT LRKNLEDSEK AAQEAEDELN SVNQRANE-- ---------- 
+POcaTPM1c     MDAIKKKMSA MRAKLEEADK QAQDAEDELA ATLEKAAE-- ---------- 
+DAreTPM4     MEAIKKKMQM LKLDKENAID RAEQAETEQK AAEDKCKXLD DELVGLQKKL 
+APcaTPM     MEQIKKKMLS MKMDKENALD RAEQMEQKLR DTEDQKNKME EDFNTLQKKF 
+DApuTPM1     MDAIKKKMQA MKAEKDNAMD RADTCEQQSR DANLRAEKSE EEVRALQKKM 
+HEroTPM3     MDAIKKKMQV MKTEKDQALV RADQLEEKVS EQKALNEKQE EEIQNLQKQI 
+CIinTPM1     MEAIKKKMTM LKLDKENAID RAEQAETDKK SAEDKATGLE EELQGLQKRL 
+SAkoTPM1        MEVVKKKMQS LRMEKEAALD LRDQAEQEMR NAIERAEKGD EENKELMKKM 
+CAelTPM1        MDAIKKKMQA MKIEKDNALD RADAAEEKVR QITEKLERVE EELRDTQKKM 
+CRgiTPM        MDSIKKKMIA MKMEKENAQD RAEQLEQQLR DTEEQKAKIE EDLTSLQKKH 
+PLduTPM     MDAIKKKMQA MKLEKEGAAD KADQLEQQLS EQKELNAKQE EEIDNLQKRI 
+TRspTPM     MDAIKKKMQA MKIEKDNAMD RADAAEEKAR QQQERVEKLE EELRDTQKKM 
+SAroTPM      MEKIKAKFAA LRQELDEAHE ELEDTKQKLK VAEDRATK-- ---------- 
+MObrTPM      MEKIKAKMLA LREEADANAE KVEQLEEKLR AANERASA-- ---------- 
+PLpiTPM     VNLIKKKVAA LKTELDECQV RAGEAEDQLV EKETIIEK-- ---------- 
+PLbaTPM     VCLIKKKVAT LKTELDECQI RASEAEDNLS EKETVIEK-- ---------- 
+LApaLT_1     VNLIKKKVAT LKTELDEAQS RADIAEEQLV EKESTIET-- ---------- 
+VAmuLT_1     VNLIKKKVAT LKSELDEAQS RAHDAEDQLN EKEQIIEK-- ---------- 
+MNleTPM     VNLIKKKVAT LKAELDESQN RANEAEEQLT EKESIIEK-- ---------- 
+CoelLT_1     ---------- ---------- ---------- ---------- ---------- 
+OScaLT_1     MEQIKKKVSS LKARLEEAEE REEDAKLELK AKTDELDR-- ---------- 
+SYciTPMa     MESIKAKMMS LKNERDDAVE RAESLENQLK SVGSRVDE-- ---------- 
+SYciTPMb     AVTVRQKLVE IKAERDRANE RADKAESRLK NLEASLEE-- ---------- 
+HAamLT_1     MEAVKKKIEK LRIELDETKE RLEDAEKGRK TAEEKTEA-- ---------- 
+HAamLT_2     MDGIKKKIAQ LRVELDEAKE KQENAEKEKK RASDRADA-- ---------- 
+AMquLT_6     MEGIKKKIAQ LRVELDAEKE KTEKAEKERK EAEDRAEQ-- ---------- 
+TRadTPM1     MEAVKKKMAG LRKEAEDALQ RAEQCEDQLR DTVQREEE-- ---------- 
+TRadTPM2     MEQIKKKLEE LKQDTEEANT RADESEVARK EACGRLDI-- ---------- 
+HAsaTPM1cd     ---------- ---------- ---------- ---------- ---------- 
+LUcaTPM1cd     METVRNKLAK QKQNLLEAQE KADAAEEELK AIEVKGDE-- ---------- 
+ALalTPM1cd     MEAIKKKIET LRSRLAQAES KAKAAEDELQ EIIDKADN-- ---------- 
+TRcyTPM1cd     MEAIKKKIEG LKARQAEAEN RADKAEAELE RILQQAEA-- ---------- 
+ATvaTPM1ab2.2     MDQIRKKIAQ LKQSLAQSQE EADSAEDVLN AKNEKADQ-- ---------- 
+ATvaTPM1ab1.2     MDIVKKKLKQ LKNALAEAEV RATKAEEELS VTNGKVDA-- ---------- 
+ATvaTPM1ab1.1     MDQIRKKMAQ LKRALQEAEA RATKAEDVLN ATNEKADE-- ---------- 
+LUcaTPM1ab     METVKAKLSG LKAQLNAAES KAQAAEKELD ETNGKADE-- ---------- 
+HAsaTPM1ab     METVKAKLAG LKAQLNQAES KAQTAEQELE ETNAKADQ-- ---------- 
+CaryTPM1ab2     ---------- ---------- --------IE RITGKLAK-- ---------- 
+ALalTPM1ab2     MEAIKKKLAT LKGREKEAIQ KAENAEGELN NVNEKAKQ-- ---------- 
+TRcyTPM1ab2   MEAIKKKLNN LKAKEKEAVD KADNAQKELD NINENVAK-- ---------- 
+CaryTPM1ab1     MEAIKKKMAS LKAKLEEAEE KARKAEQELE ETNNKADE-- ---------- 
+ALalTPM1ab1     MEAIKKKMAS LKAKLEEAEE KAKKAEQELQ ETNSKADE-- ---------- 
+TRcyTPM1ab1   MEAIKKKMAS LKAKLEEAEE KARKAEQELE ETNNKADE-- ---------- 
+HAsaTPM2ab     DAQACRKFNM IRAEIDAATD REQDAKSKCL EAQARLDK-- ---------- 
+LUcaTPM2ab     MPKLVEKFNM IRADIDAAID REQDANGKMI DARARLDK-- ---------- 
+ATvaTPM2ab2     ---------- ---------- ---------- ---------- ---------- 
+LUcaTPM2c     MEAIKKKVVQ MREEVEQAND KVVDMKQLVS EANRRFES-- ---------- 
+ALalTPM2c     MESLKKKMAK MRDDADEAEF HVRELEQLVG EANQRLES-- ---------- 
+ATvaTPM2c1     VEAVRKKVSV MKEEVETSEE KVKELESHLR FADQRLEG-- ---------- 
+ATvaTPM2c2     IEAVRKKINA LKEQVEIAEE KAKEIEAHIR LADQRLEV-- ---------- 
+AUauTPM2c     MEAVRQKLNS IRAEIDDTEE KSKDTQMYIR MEQQRLES-- ---------- 
+NAbiTPM2a     LNKLKAKLAE ISNQIDEAES RKSEAKSNSV EANSKLEK-- ---------- 
+NAbiTPM2b     LGKLRNKLKE ITEFIEEADQ RKVEAKHSIV DATARLEK-- ---------- 
+NAbiTPM1d3     IDTVKKKMEL MKAALITLHR QAKDTEDDLE DKTNSAQD-- ---------- 
+NAbiTPM1d1     MQTVKNKFGT MKIKLEEAIR GAEEAEAELA NLEEESQR-- ---------- 
+NAbiTPM1d2     MQAVRSKIAS LKSRLETAIE EAEQAEKEFA EIEAKTTE-- ---------- 
+NAbiTPM1c     MEVIKKKMNS LKEKLVQSEA AATEAENEYN EIMIKAED-- ---------- 
+PEnoTPM1ab     -RKLRRKLRK KRGKPXXXXX XXXXXXXXXX XXXXXXXX-- ---------- 
+CYcaTPM1ab     ---------- ---------- ---------- ---------- ---------- 
+EClaTPM2a     LGKLKQKLAQ LSEDLDGADE RKMNAKAETV SAKARLEV-- ---------- 
+EClaTPM2b     LGKLKKNLQE ITDLIENADT RKVDAKHSLI DSFARMEK-- ---------- 
+EClaTPM1d     ---------T LKVKLEDAEK AAQECELELQ ETNDRADA-- ---------- 
+AGelTPM2c    MLAVKNKLNS MKQQSELSEE RIHKFEAKLN ISKQHLET-- ---------- 
+AGelTPM2a     LGKLKAKLAE ISNQIDEAEQ RKAAAKTSSV DASSKLEK-- ---------- 
+AGelTPM2b     LGKLRNKLKE ITEYIETADQ RKTEAKHAIV DATARLEK-- ---------- 
+AGelTPM1d6    AKQVAMKYRN LKDKLAKETA EADQAEEDLA KINAKILA-- ---------- 
+AGelTPM1d5     METVKKKIEQ MKFALVTLHQ QVKTTEEDLA GKNECVQD-- ---------- 
+AGelTPM1d4    METVKKKIDQ LRSMRDKAVR EADEFEAGIA EKIAKTEE-- ---------- 
+AGelTPM1d1     MQTVKNKIVT LKGKLQEAEK AADEAEAELE KILEEEQH-- ---------- 
+AGelTPM1d3    MQMVRSKISS LKVRLNEANS EAEEAENAYK LIETKTAE-- ---------- 
+AGelTPM1d2     MQTVKSKLVS LKGRLEEAVS EAEKAEQEYE EIQAKTQE-- ---------- 
+AGelTPM1c     MDVIKKKMAA LREKLEVAEA QACQAEDECN AILRSADA-- ---------- 
+AEciTPM2b2     LGKLKARLQE ISDLIDTAEA KKLEAKATQV FALQDLEK-- ---------- 
+AEciTPM2a2    ---------- ---------- ---------- ---------- ---------- 
+AEciTPM2a1    ---------- ---------- ---------- ---------- ---------- 
+AEciTPM2a3     LAKLKDKLSN ITGQIDDADQ RKADAKAHMV EALARLEK-- ---------- 
+AEciTPM2b1     LGKLKGKLQE ITDLIDEADQ RKLDARVGLI DAQATFEK-- ---------- 
+AEciTPM1d2    MDCVKKKIST LKKRLAEAIK SAEEQEAKLA SINAKADQ-- ---------- 
+AEciTPM1d4    ---------- ---------- ---------- ---------- ---------- 
+AEciTPM1d3    METVLKKLKS LRMKLHEAEE HAAYHEKKLQ EVEDHITV-- ---------- 
+AEciTPM1d1     ---------- ---------- -------KLA EINQKADN-- ---------- 
+HAvaTPM2b     LGNLKARLQE ISDLIDAAEA KKLAAKAERV YALTELEK-- ---------- 
+HAvaTPM2a     LAKLKERLAK ITEQIDEADI RKQTAKSSMV DAHARLEK-- ---------- 
+HAvaTPM1d5     MDTVKKKLAS LKADLARAKE KADEEERACE DMIAKADN-- ---------- 
+HAvaTPM1d4     MEAVKKKMAA LKAKLNDAVN GAKAEEAKLQ AIIDKAES-- ---------- 
+HAvaTPM1d1     MQAVAAKLNS LKAKLCEAKA GADAAEDELS EIEDKADK-- ---------- 
+HAvaTPM1d3     MEVYKKKMKA LKAHLDASEK AANEAEDEIH TINEMADD-- ---------- 
+HAvaTPM1d2     MDAIRKKMQA LKNNFRVAEE GAIEAEGELK EINQHASD-- ---------- 
+PAaxTPM2c     MENIKKKMNV LREQLDAAEE REFAYKRELS QRGDIANR-- ---------- 
+PAaxTPM2ab1     ---------- ---------- ---------- ---------- ---------- 
+PAaxTPM2ab2     LGKVRERMQK MKDRIDDFEQ REFDAKSALK EAQALAYQ-- ---------- 
+PAaxTPM2ab4     LQMLKKKLIA LKDHTEAAEE REKDAIEQSR QVEADVDA-- ---------- 
+PAaxTPM2ab3     ---------- ---------- ---------- ---------- ---------- 
+PAaxTPM1.2     ---------- ---------- ---------- --MEKVEK-- ---------- 
+PAaxTPM1     MEQIKKKMAS LKATLEEAEG RAQKAEDELN NANQRAEA-- ---------- 
+CERITPM2ab2     MNKIREKMNA ILEKTDLAEG REFEAKQQLK EATQKLEE-- ---------- 
+CERITPM2ab1     MDKIKKKMAN IKEKTDQAED RANEAAGEMK DALAKLEK-- ---------- 
+CERITPM2c     ---------- ---------E EALETERKLK DAVVRRDE-- ---------- 
+ANpeTPM2c     MEGFKERMTD LRNKIEEADE RTRQAKRKLG RAREIADQ-- ---------- 
+ANpeTPM2ab4     ---------- ---------- -----KNALK ETEDRALQ-- ---------- 
+ANpeTPM2ab1     --KLKERLTQ MKDQIDEQEE RTQRAKEELK EVEDKAEK-- ---------- 
+ANpeTPM2ab3     MSKVKSKLAT IKDKTETEED RKKEAEDLLR EVEDKYDK-- ---------- 
+ANpeTPM2ab2     MNKVRERLQK IKDSMDEADE RKNEAKQQTL EAEALAYH-- ---------- 
+ANpeTPM1     MEGIKKKMAT LKAQLDEATR GADQAEAKLK EAEARAIT-- ---------- 
+ACpaTPM2c2     MGEFGAGTGR LRFEVDRAEV REKAAIGSLT FARREAEE-- ---------- 
+ACpaTPM2c1     MEEFKAKTNR LRFEIDQAEV REKAAIKNLT FARHEAEE-- ---------- 
+ACpaTPM2ab1     ---------- ----IEEAEE REHDAKTQLK EAEAKEES-- ---------- 
+ACpaTPM2ab3     MNKVKGKLQG IKDKIEKAED REASANEQLR EVTEEANK-- ---------- 
+ACpaTPM2ab4    VDSVVKKMLA VKENTEEANE RESDAKTALK EANLNVFA-- ---------- 
+ACpaTPM2ab2     LMKVREKMQK IKDKIEEAEE REHTAKEDLK EVQAQIDL-- ---------- 
+ACpaTPM1.1     MEAIKKKMAL LRDQLASAEE RAEKAEQELK EANERAQA-- ---------- 
+ACpaTPM1.2     MEVIRKKVNS LKNQLEETEQ RAGTAEEELK KEQDRNAK-- ---------- 
+AlcyTPM2ab4     MEKVKERMRQ LKDAIEEAQQ RETDAKNKIK ELDDKFDK-- ---------- 
+AlcyTPM2c     IGAVKKRMAE MRDGIDAAEN RMKEAEFLKR QADERGLS-- ---------- 
+AlcyTPM2ab2     ---------- ---------N EKSKQKNDLL EAKQRYEN-- ---------- 
+AlcyTPM2ab3     LDKVRDTLVK LKESIDTAED RYLEAKAARV EADSRFEK-- ---------- 
+AlcyTPM2ab1     MEKIKARINK LKEDIDACEQ RESEAKASLS EANARLEA-- ---------- 
+AlcyTPM1     MEAVKKKMNN LKQSLEEAEE KASKAERELQ EANDRADA-- ---------- 
+KERATPM2ab4     ---------- ---------- ---------- ---------- ---------- 
+KERATPM2c     ---------- ---------- ----ADQLKR EADVRGYA-- ---------- 
+KERATPM2ab2     LQKVKERLSK YKEEIDQAEE RELVAKTDLI EAESRLEK-- ---------- 
+KERATPM2ab3     LEKVRDALNN LKTNIETAEE REIEAHQNKQ ESDNRLEK-- ---------- 
+KERATPM2ab1b     MEKVKARLSH LKENIESCDE RKKEAECSLT DAKVRFET-- ---------- 
+KERATPM2ab1a     ---------- ---------- ---------- ---------- ---------- 
+KERATPM1     MEAVKKKMNN LKLTLEEAEE KASKAEKELQ QANERADS-- ---------- 
+PAsoTPM2ab1     MDKIKKKMAN IKEKTDVAED RAVEAANEMK DAATRLEK-- ---------- 
+PAsoTPM2ab2     LNRIKAKLAE IKDQIEVADE RECDAKHQLK ESEERLQK-- ---------- 
+PAsoTPM2c     MEQIKKRMMD LRDSIDGVEE QILETDRKLK DATARKDE-- ---------- 
+PAsoTPM1     METIKKKMAT LKTNLEEAEG RARKAEGELA DVNEKVEK-- ---------- 
+PEruTPM2c     IALVKKRMAE MRDGIDDAEV RTKEYDQSKR EAEARAYQ-- ---------- 
+PEruTPM2ab2     -QKVKERVSK YKEEIDEAEE RELAATTALV EAESXAEL-- ---------- 
+PEruTPM2ab1     MDRIRAKINA LKDAIEKCEE RYVVATTTAR EADTRLEA-- ---------- 
+PEruTPM1     MEAVKKKMNN LKQTLEEAET KASKAERELQ EAIGRADA-- ---------- 
+NephTPM2c     IAAVKKRMAE MRDGIDEAEI RMKEAEQLKR EADARGLT-- ---------- 
+NephTPM2ab2     LQRVKERLSK YKEDIDVAEE RELQARANLI EAEARYGN-- ---------- 
+NephTPM2ab1     WIKSKRKVNK LKEDIEACEE REGKSKAHLN EANARLEA-- ---------- 
+NephTPM1     MEAVKKKMNN LKQTLEEAEE KASKAERELQ EANDRADA-- ---------- 
+
+             ---------- ---------- ---------- LLSEASGIQR RITLLNSELE 
+             ---------- ---------- ---------- QLAEAESMQR RILLLSEELR 
+             ---------- ---------- ---------- HLSEANSMRN RLQLLGEELR 
+             ---------- ---------- ---------- NKSEVEGIKR RIQLLQGDLD 
+             ---------- ---------- ---------- AEGEAESFKR RIQLIEAESR 
+             ---------- ---------- ---------- ALGEVDSFKR RIQLVQIEDK 
+             ---------- ---------- ---------- NEGEADSFRR RIVLVKDELA 
+             ---------- ---------- ---------- AEEELESHKR RLALLQGELQ 
+             ---------- ---------- ---------- KENEAEGLRR RVQCVRLRLN 
+             ---------- ---------- ---------- AEENIEGMIR RRKLLEDELA 
+             ---------- ---------- ---------- HESDLDSMQK RINLLSEDLD 
+             ---------- ---------- ---------- HESDLDSMQN RMTLIEKDLE 
+             ---------- ---------- ---------- HESDIDSLNK RISLLTKELD 
+             ---------- ---------- ---------- DKNESATLRR SCSLTEHQLD 
+             ---------- ---------- ---------- HQRERDTLKK SCSLTEQNLD 
+             ---------- ---------- ---------- KEKEADALKR RIQLLEDKLD 
+             ---------- ---------- ---------- AEGEVQSFER RIKLLEKELD 
+             ---------- ---------- ---------- GESEVASIER RIQLLEKDLS 
+             ---------- ---------- ---------- AESEVASYLR KIQLLEKDYN 
+             ---------- ---------- ---------- GESEVQSIER RIKLLEKDLK 
+             ---------- ---------- ---------- AEGEVASFQR RIRLVQQNLN 
+             ---------- ---------- ---------- SEGELASAER RIQLLQKELE 
+             ---------- ---------- ---------- NEVEVNSAKR RIKLIEKDLQ 
+             ---------- ---------- ---------- AEGELGTHER RQKLLELELE 
+             ---------- ---------- ---------- SEDEGASVKR RIQLLQNELE 
+             ---------- ---------- ---------- SEDEGASVKR RIQLLQNELE 
+             ---------- ---------- ---------- ALNDVDSHKR RIQLLERELA 
+             ---------- ---------- ---------- AQIEVDNHKR RIRLLERDIE 
+             ---------- ---------- ---------- AEGEVGTHQR RTKLLETELK 
+             ---------- ---------- ---------- AVNEKESLLR RIEVVESQII 
+             ---------- ---------- ---------- MLNEKESLMK KLESSEMKII 
+             ---------- ---------- ---------- ALKEKESLYR KIEAIEAQIL 
+             ---------- ---------- ---------- ALKEKEGLNR KIEAIESQIL 
+             ---------- ---------- ---------- AETEVAALTK QLQQLEDDLD 
+             ---------- ---------- ---------- AEGEVSSLTK DLQCLEDNLD 
+             ---------- ---------- ---------- ALKEISELTD ELRSIEDELD 
+             ---------- ---------- ---------- AEEEVASLTK QLQQLEDDLD 
+             ---------- ---------- ---------- MENKRAELST QFFEIEDRFE 
+             ---------- ---------- ---------- AEERVTELTK ELNDLEDQLD 
+             ---------- ---------- ---------- AEERAKELTK DLNDIEDELD 
+             ---------- ---------- ---------- AELKAKGLTK ELERIEDEMD 
+             ---------- ---------- ---------- VELRIEKLVD DLSYMEDEID 
+             ---------- ---------- ---------- METLGADLST KLGEIEDKLD 
+             ---------- ---------- ---------- TEARTADLTK ELSDLEDQLD 
+             ---------- ---------- ---------- SEEEVDRLQK ELNNLDDELE 
+             ---------- ---------- ---------- AEEEVERLTK ELLSLEDELE 
+             ---------- ---------- ---------- SEQEVERLQK ELATLEDELE 
+             ---------- ---------- ---------- AEEEVERLQK ELGNLEEELD 
+             ---------- ---------- ---------- AEEEVTRLQK ELANLEDELD 
+             ---------- ---------- ---------- SETEVGRLQK ELGNLEDELD 
+             ---------- ---------- ---------- AEEEVLRLQK ELGNLEDELE 
+             ---------- ---------- ---------- ADEEVERLQK ELQNLEEELE 
+             ---------- ---------- ---------- ADDEVERLQK ELQNLEEELE 
+             ---------- ---------- ---------- TEEKVKLIQE KVGDLEEKLD 
+             ---------- ---------- ---------- HEEEVSTILD EINTLEDQLD 
+             ---------- ---------- ---------- TEEEHSNILD EINVLEDQLD 
+             ---------- ---------- ---------- TEQEVSKILD EINTLEDQLD 
+             ---------- ---------- ---------- TEEEHKRILD EINTLEDQLD 
+             ---------- ---------- ---------- AEEELKELMD QINDLEDKLD 
+             ---------- ---------- ---------- IEKQVQEMMD KIGEMEDKLD 
+             ---------- ---------- ---------- VDEQVSKVLE ELGLIEDKLD 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- AEQQVNDEMT NLEQLETKLD 
+             ---------- ---------- ---------- AEQQVREEMT KLEELEDKLD 
+             ---------- ---------- ---------- ATDELRLTME RLDELEGELD 
+             ---------- ---------- ---------- VEEDVRQEMT KLEELEDKLD 
+             ---------- ---------- ---------- GDVEVKSIER KIKLVEDELN 
+             ---------- ---------- ---------- NEGEVESLTR RIKLLEKDLS 
+             ---------- ---------- ---------- CEDQVQELTK QLSDLEDELD 
+             ---------- ---------- ---------- AEEDVTRLIQ EMEKLEEELD 
+             ---------- ---------- ---------- AEEDVKNQCE IIDKMEEDLD 
+             ---------- ---------- ---------- AEEEINTLMK EIERLEEELD 
+             ---------- ---------- ---------- AEENALALEK ELQELEEEHD 
+             ---------- ---------- ---------- TEAKAEELQQ TLAALEDELD 
+             ---------- ---------- ---------- VEEKLEELIK LKTTIEDKLD 
+             ---------- ---------- ---------- TEQTADELQK TLADMEDELD 
+             KQTEDELDKY SEALKDAQEK LELSEKKAAD AEGDVAALNR RIQLVEEELD 
+             SNLENEFDNA NEGLTEANTK LEASEKAVAE LESETAGLQR RIQLLEEDLE 
+             QQLENDLDQA QENLLAANSK LEEKDKALQT AEGEVAGLNR RVQLLEEDLE 
+             QQLEGDLDTA QTQLAEATSK LESTEKQLGN AESDVGALTR RIQLLEVDYE 
+             KATEDELDTS QEKLRTAIEN LENAEKKAAD AEQEVASLNR RITLVEEELD 
+             RNLELELDTT QDKLSQAELK LDDAEKTAST AEAEVSSLQR RLQLLDEELE 
+             TQTGDDLDKA QEDLSAATSK LEEKEKTVQE AEAEVASLNR RMTLLEEELE 
+             SNLENEFDTV NEKYQECQTK LEEAEKTASE AEQEIQSLNR RIQLLEEDME 
+             QQLEANLDEV QTGLDEANNK LESTEKTLAN AEGEVQALTR RIRLLEEDYE 
+             MQVENELDKA QEELTGANAQ LEEKEKKVQE AEAEVAALNR RIQLLEEDFE 
+             ---------- ---------- ---------- AEQEAIQAER KNTLIEDDLD 
+             ---------- ---------- ---------- AEAEANDAKR KLTLTEDDLD 
+             ---------- ---------- ---------- LENDLKAAHQ KLSLTEEELD 
+             ---------- ---------- ---------- LENDLKAARQ KLSLTEDELD 
+             ---------- ---------- ---------- LENDLKAAHQ KLSLTEEELD 
+             ---------- ---------- ---------- LENDLKSAHQ KLSLTEDDLE 
+             ---------- ---------- ---------- LENDLKAAHQ KLSLTEEELD 
+             ---------- ---------- ---------- LENDLKSAHQ KLSLTEDDLE 
+             ---------- ---------- ---------- AVGEKESLSR KLILLEGDLD 
+             ---------- ---------- ---------- ADTEIASAKR KLQMLEQECQ 
+             ---------- ---------- ---------- SEQILEEYNK KIAILEGDID 
+             ---------- ---------- ---------- AEQELRETKL KLKIAENDLD 
+             ---------- ---------- ---------- AEVDARNLQT KLSTMEDDLN 
+             ---------- ---------- ---------- AEADGKQLSG KLRMLEEDLE 
+             ---------- ---------- ---------- VKEKIDELNK EIEETEQQLD 
+             ---------- ---------- ---------- AEQELASLIR RKTLLESDLN 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- VEDEAAEMER VLQELEDELD 
+             ---------- ---------- ---------- ADGVLEEDLK TVDQLQNEID 
+             ---------- ---------- ---------- AEGSVEHGEK DVEELQNEIE 
+             ---------- ---------- ---------- IKDFI---NK EIESLEEELD 
+             ---------- ---------- ---------- AEEEGKNLIE QIDAIEDKLD 
+             ---------- ---------- ---------- AEAEITRVIA EIDSLEETLD 
+             ---------- ---------- ---------- AEEDVNNLLK QLHGLEDELD 
+             ---------- ---------- ---------- AEEDVENLMK QLHSMEDDLD 
+             ---------- ---------- ---------- SEEDQVDLNK QLQDLEEELD 
+             ---------- ---------- ---------- ADDDLVELNK QLQDLEEELD 
+             ---------- ---------- ---------- SEELLAELNG ELQRIEEELD 
+             ---------- ---------- ---------- AEKEVQRLNT ELQEVEDELD 
+             ---------- ---------- ---------- AENEVQRLNT ELQEVEDELD 
+             ---------- ---------- ---------- AEKEIQRLNT ELQEVEDELD 
+             ---------- ---------- ---------- ANGDKQSHER RIKLLQAEIA 
+             ---------- ---------- ---------- ANSDKQSHER RIKLLEANLA 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- AVTEKEYLLK RISVVTSQLD 
+             ---------- ---------- ---------- AENEKTTIKK RTEALELQTK 
+             ---------- ---------- ---------- ALNEKDALVR KLKITETGIE 
+             ---------- ---------- ---------- ALKEKEALIR KLKLTEASNE 
+             ---------- ---------- ---------- CLLERESLER KMDNTLRKID 
+             ---------- ---------- ---------- AESEVASIQR RIQLLEKDLQ 
+             ---------- ---------- ---------- AETEVQSSRR RIQLIKKDLE 
+             ---------- ---------- ---------- LQLQTDESNL QIAELEDQLD 
+             ---------- ---------- ---------- LTEQSEEETA RLSEIEDKLD 
+             ---------- ---------- ---------- LEELQEESNT KLSAVEDQLD 
+             ---------- ---------- ---------- KEAEEVSLSE KLAALEDELD 
+             ---------- ---------- ---------- XXXXXXSLIE AMEKLEEELD 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- AESEVASAHR RITIVEKELT 
+             ---------- ---------- ---------- AEGELSSAER RIKLIEKDLV 
+             ---------- ---------- ---------- AENEAAELTK ELSELEDKLD 
+             ---------- ---------- ---------- ALIEKEALHR KIEAVEMQII 
+             ---------- ---------- ---------- AESEVASIQR RITLLEKDLE 
+             ---------- ---------- ---------- AETEVQSSRR RIQLIKQDLK 
+             ---------- ---------- ---------- AENNYEELQI KLQRLEDAVD 
+             ---------- ---------- ---------- LQGQTDECNI QIAELEDQLD 
+             ---------- ---------- ---------- LEALLPKYNK ELSDLEDNLD 
+             ---------- ---------- ---------- LTEEAEAKTA ELNEIEDKLD 
+             ---------- ---------- ---------- LEQRFEDKNN ELTAVEDKLD 
+             ---------- ---------- ---------- QEQLIEDKNN ELTAVEDKLD 
+             ---------- ---------- ---------- KEDESAELLE RLTQLEDEFD 
+             ---------- ---------- ---------- HENELSATKR RYQLLEKDLN 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- ADSEKKSNER RIQMLEKDLH 
+             ---------- ---------- ---------- MEAELSSTQR RIQLLDKDFT 
+             ---------- ---------- ---------- TEEEVKDLQD KVMSLEDELD 
+             ---------- ---------- ---------- ---------- -------KVD 
+             ---------- ---------- ---------- HEHESEHLTS TITSLEDKLD 
+             ---------- ---------- ---------- AEQRASDLTA ELNKVEDELD 
+             ---------- ---------- ---------- NENDLQATQR RYQLLEENHV 
+             ---------- ---------- ---------- AESEKSSNER RIRMLTKELE 
+             ---------- ---------- ---------- AEDEARELFK QIQELEDDVD 
+             ---------- ---------- ---------- IESENTADND KVCELEDQLD 
+             ---------- ---------- ---------- VEQANEGLEQ ELDALELELD 
+             ---------- ---------- ---------- IENENEQLER NLQELEDQLD 
+             ---------- ---------- ---------- IENENEQLEN ELQELEDELD 
+             ---------- ---------- ---------- SEEEVISLKR QLYLREKELD 
+             ---------- ---------- ---------- TRKRRMEIRR RIQLLESELE 
+             ---------- ---------- ---------- HESDRDSIAN RIDMIEKDLE 
+             ---------- ---------- ---------- KTEEKDSIKR RIQLLSRELI 
+             ---------- ---------- ---------- ---------- ----VREELQ 
+             ---------- ---------- ---------- AEEEVGSLAK DLQQLEDELD 
+             ---------- ---------- ---------- AEEEVASLTK ELQKIEDDID 
+             ---------- ---------- ---------- FEEQNRSFKS RISMMEEDVA 
+             ---------- ---------- ---------- AEEDLRSYKG RIAMVQKETE 
+             ---------- ---------- ---------- AEGEVATLNN RKTMIIKEIN 
+             ---------- ---------- ---------- FEEERDALRR RIKLMEINLD 
+             ---------- ---------- ---------- SENEAQSIKR RIQLLSQKLN 
+             ---------- ---------- ---------- SEAEAEGIRR RCQLLKAEFE 
+             ---------- ---------- ---------- FEEEAESFKR RIQLVHEHRE 
+             ---------- ---------- ---------- HECDRDSMTN RLTLLKKELE 
+             ---------- ---------- ---------- AENEVATLTK ELQKVEDDLD 
+             ---------- ---------- ---------- REKEADALKR GMQLLEDGLD 
+             ---------- ---------- ---------- KEKEADALKR RIQLLEDKLD 
+             ---------- ---------- ---------- NKSEVEGIKR RIQLLQGDLD 
+             ---------- ---------- ---------- NEGEADSFRR RIVLVKDELA 
+             ---------- ---------- ---------- KENEAEGLRR RVQCVRLRLN 
+             ---------- ---------- ---------- HESDIDSLNK RISLLTKELD 
+             ---------- ---------- ---------- AEGEVSSLTK DLQCLEDNLD 
+             ---------- ---------- ---------- ALKEISELTD ELRSIEDELD 
+             ---------- ---------- ---------- LGGDKTTLQS RINVVQTEYE 
+             ---------- ---------- ---------- AEGEVTSLKN RVYQIQSEIE 
+             ---------- ---------- ---------- TANEVEGMKR RLQLVKVDLD 
+             ---------- ---------- ---------- AEEEAESYRR RYKLLEVELE 
+             ---------- ---------- ---------- AENEKNSFLR RLKILKVEVS 
+             ---------- ---------- ---------- AESEVEELTK NLEALEEELD 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- SESEATSLKN RLFQLQSEID 
+             ---------- ---------- ---------- TLGEVDGLRR RLILLREDLA 
+             ---------- ---------- ---------- AEEESESYRR RIKLLQADFV 
+             ---------- ---------- ---------- AENDKASFKR RMQLLKRDLE 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- AETEVVDLTK QLEELEDELD 
+             ---------- ---------- ---------- AEEDLRSYKG RIAMVQKELE 
+             ---------- ---------- ---------- AEEEGNSYKR RIALLKADLS 
+             ---------- ---------- ---------- AESEVSTLNN RKSMITTEID 
+             ---------- ---------- ---------- AEEEVGSLAK DLQQLEDELD 
+             ---------- ---------- ---------- FQSEAMSLRN RMTQLQQEID 
+             ---------- ---------- ---------- TLSEVNGIKR RIVLLQKDLD 
+             ---------- ---------- ---------- AENEKASSLR RIKILQGELA 
+             ---------- ---------- ---------- AEDEVQQLTK QLEEIEDELD 
+             ---------- ---------- ---------- AEGEVSSLKN RVFQLQDEIE 
+             ---------- ---------- ---------- TVTEVEALKS RLVLVKGDLD 
+             ---------- ---------- ---------- AETEKNSFNR RLQILQEEVD 
+             ---------- ---------- ---------- AEAEVEQLTK QLEELEEELD 
+
+             KTNERVEEQE KLLQNLVHNS EMNEEARKGL EESEM----- ---------- 
+             KTEERLEEQE DKLADLKDRT DTHEEVRKEL EDYEM----- ---------- 
+             KTEERLAEVE EKLYNEKHKT ETHEEIRRGL EDFEM----- ---------- 
+             TLTERHTEQE AKLKEVEEKG ENEELIRKEL EESEM----- ---------- 
+             RVKELSQKKD HELEEMHKRS KEEENLCKTL EVTDR----- ---------- 
+             KVRAALEVKV QELDGMERRS KSEEEQCKSL EITDR----- ---------- 
+             KISETLEEKT TRVNEVKRVA VEHENACKEL EVIDR----- ---------- 
+             RTEEKLQESK DSLGSLGNKI KVEQEAEKEL GENEL----- ---------- 
+             EVNAEIEEKS KVLEEVEERA KLEEEKGKDL NYAEV----- ---------- 
+             RITASLDQAT QQLFEKRNKT EEEQATEKEL GHMEL----- ---------- 
+             KTLEAYEEKK ARLDSLEEKQ ESDGTVVREL ESVEL----- ---------- 
+             KTLKQLEEKK ARLDELEEKQ EQDAEVVKNL EGNEL----- ---------- 
+             EKNALLEEKM LINERMEKKF EQESDMVREL ESVEI----- ---------- 
+             KTEDILDQKL ERLVMLHKKT EQDIQMLKVL EDREL----- ---------- 
+             KKEDMLEEKL HLLKDALLKQ EREDQIIKVL VKRED----- ---------- 
+             AVEERIFEKN KLYHEELARL EREDRQIKIL NEFEE----- ---------- 
+             DVNARIEENE GKLADVKSNL DTLEEGRKEL EEKET----- ---------- 
+             DVNARCDASD EKLNDVTDTG TSIEEARRQL EENET----- ---------- 
+             EVVSRCEALE EKLAITQDKG MSVEEARKQL EENEN----- ---------- 
+             DVTDRCEALD DKLSKVTDTG LSIEEARRQL EENET----- ---------- 
+             DVTERAQMLQ SKVDNLEDVS ESVKQARNQY EEEEA----- ---------- 
+             DATERCSTAE TKLKQAEETT EGFEQKRNEL EEVES----- ---------- 
+             DSSERFKVAE EKLTKVEAQE KEIEEARNIL EEAET----- ---------- 
+             NYKDRYTEAA DKLEKVLSES EGIEVKRREL EETEA----- ---------- 
+             VATKRYDEAA GKLEKVEAEQ ESSEEKRKEL ETNEV----- ---------- 
+             VATKRYEEAA KKLEKVEGEQ ESSEEKRKEL ETNEV----- ---------- 
+             ITEKRLEDQT TKLEKIETES STNEDRRKEL EANEQ----- ---------- 
+             KCY------- ---------- ---------- ---------- ---------- 
+             VNSERLDEYT AKLERCQDEI TGIEDRRKEL EENEQ----- ---------- 
+             NANKNRERIV DDLRYLERNT DINEGKRKFL ENKEL----- ---------- 
+             NVDQQRCEVA DKLKAIEIQI DQSELHRRVL EEKEL----- ---------- 
+             LAERKKEDVV DKLKSLRDDT DCSESKRRVL ENREL----- ---------- 
+             AADRQKEDVV DRLKNLRDDT DCSESKRRVL ENREI----- ---------- 
+             AAESKLADTQ GQLTEAEKQA DESERARKVL ENRGA----- ---------- 
+             AAESKFGVIT EKLKEAECNA DESERVRKVL ENRGQ----- ---------- 
+             ASESRLAEIC LQLEEEEARA DETERVRKVL ETRAQ----- ---------- 
+             AAESKLAETS VALAEAEKQA DESERARKVL ENRGQ----- ---------- 
+             EANSALTGLM VNIEEGEKTF EETMKAYKIM ENRVQ----- ---------- 
+             ASESKMTSLQ EKLAEAEKLH EEHDQARRIL ENRGR----- ---------- 
+             AAESRLTSLQ DKLVEAEKTS DESDQARRIL ENRGQ----- ---------- 
+             ASESRLTSLQ EKLLEAEKNY DESDQARKIL ENRGK----- ---------- 
+             ESKSRLKSLQ ERLLDAEKSC EESSRELEYL ESRKE----- ---------- 
+             EAESQLNELT ANVAENEKTS DETDQAKKIM ENRGR----- ---------- 
+             EAESRLNNLN EKLSEAEKNA DESDQARKIL ENRGT----- ---------- 
+             SSESKLNTLI KRLHEAEKQA EESERARRVL ESRGQ----- ---------- 
+             STESRLGAMQ TRLHEAEHQA EESERARRIL ENRGQ----- ---------- 
+             SAESKLNIMT QRLHDAEKQA DESERARRVL ENRGQ----- ---------- 
+             SSETKLTTMQ QRLQEAEKQA DESERARRVL EDRGQ----- ---------- 
+             TSESKLSSMT QRLQDAEKQA DESERARRVL ESRGQ----- ---------- 
+             TSETKLAKIT ARLHEAEKQA DESERARRVL EDRGQ----- ---------- 
+             SSEKKLTVMT QRLQDAEKQA DESERARRVL ENRGQ----- ---------- 
+             TSEKKLSDMA HRLQEAEKQA DESERARRVL EDRGQ----- ---------- 
+             SSEKKLSDMA QRLQEAEKQA DESERARRVL EDRGQ----- ---------- 
+             EMERRHDETS TKLADAEKKG DEVKRMHNEL SARGG----- ---------- 
+             STESKMYNTE SNLHLTGKKL DEIQRAKGVL ISRSE----- ---------- 
+             STESKMSNTE SNLHFTVKKL DEVQRAKGVL VARSE----- ---------- 
+             STESKMHTTE SNLHLTGKKL DEIQRAKGVL VSRSE----- ---------- 
+             STESKMSSTE SNLHFTVKKL DEVQRAKGVL IARSE----- ---------- 
+             ATESKMTSTE ETLHLTVKKL DEIERAKNVL ESRST----- ---------- 
+             ETESKMTSTE EKLVTCEKKL DESKRARNIL ETRGT----- ---------- 
+             ETESKMSSTE KSLNETEKKQ DEVERSKNML ENRNS----- ---------- 
+             ---SKLSSVQ NSLIVEEKRM DEGDRAKNTL AARIA----- ---------- 
+             SIESKLSTVN NSLIVEEKRL EESDRAKCML EARQA----- ---------- 
+             STESKLTAII NKLLVEEKKN DECERAKSVL ESRAA----- ---------- 
+             ETESKLATVM DRLQAQEKKN DEVQRAKYVL ESRAA----- ---------- 
+             STESKLTSAI EKLILEEKKH DESERAKGVL ETRAT----- ---------- 
+             DVTSRADALE LKLGDVEEKG VSVQEQRKQY EEDET----- ---------- 
+             EVNKRCDDLE TKLGDVENLG LTVEQARKEL EENEN----- ---------- 
+             AAESKLTNLQ EKLTEAEKSH EEHDQARKIL ENRGK----- ---------- 
+             STESKLSTTM QKLSEAEKQA DESERARKVL ENRGI----- ---------- 
+             EKESRLNTML TTSVYAEIKG DENERQRQLL EARTK----- ---------- 
+             STDSKLSGSV QRLVEAEHQA DESERARKVL ENRGQ----- ---------- 
+             SSESRLADLN DQLREGETNR DESSRAHKEL SNRGQ----- ---------- 
+             AAESRLAALT GQLTEEEKKA EEARRAHKEL ENRGQ----- ---------- 
+             EADEREKLLK LSLAEAEKNQ DEGLRVKREL EHRGN----- ---------- 
+             AAESRLTTLT EQYNEEEKKA EEGRRAHKEL ENRGQ----- ---------- 
+             RAQERLGTAL QKLEEAEKAA DESERGMKVI ENRAM----- ---------- 
+             RSEERLQSAT EKLEEASKAA DESERGRKVL ESRSL----- ---------- 
+             RSEERLNTAT TKLAEASHSA DESERMRKVL ENRSL----- ---------- 
+             QTASRLEIAS EKLEEASKHA EESEKNRKSL ETNSL----- ---------- 
+             RAQERLTISL SKLEEAEKAA DESERGRKVI ENRSL----- ---------- 
+             RAQERYQVAA DKLADIEKAA DESERARKVL ENRGL----- ---------- 
+             RAEERLKIAT EKLEEATHNV DESERVRKVM ENRSL----- ---------- 
+             RSEERLQTAT EKLEEASKAA DESERNRKVL ENLNN----- ---------- 
+             QTETRLQTAS EKLEEASKAA DESERNRKAL ESKSL----- ---------- 
+             RAEERLKIAT EKLEEASQTA DESERVRKVM ENRSL----- ---------- 
+             KAEERANTFQ TKAQELEKER DDLFRQLQVL EKAQD----- ---------- 
+             KAEERLQSMQ TRLRDAEQEA EDASRKLQRL EATQD----- ---------- 
+             KAETSVTELT ARAETAEATA EDSSRQMKVF EDGLYKEQEK AEAFESELTA 
+             KAETNVNELT TRAETAEKEA EEANRSMKVF EESLYKETEK LDALEEESTE 
+             KAEASVAELT TRSETAEKSA EEAERSMKVF EDSSYKEQEK AEILEAELNA 
+             KAEQSVSELT TRAETAEKNA EEAERQMKVF EETSYKEQEK SEQLEAELGQ 
+             KAESSVTELT TRAETAEKEA EEAQRSTKVF EESLYKENEK VEQLEKELTT 
+             KAESSVTELT SRAETAEQEA EDAGRQMKVF EETSYKEQEK SEALEKELND 
+             RAEEELAKAQ NRAKQSEESA DSFERELRRK EHATA----- ---------- 
+             RTEAREAKLA GDLKAAEGRL DEFEKRVKES EAMAD----- ---------- 
+             EAEERVKTTE EQHRKADAEA DELEHKARRT LTLSG----- ---------- 
+             KVEENLEAAQ KRTEVAESTV EELERELRKA QSSQS----- ---------- 
+             RAEDAMEAAV KRAEIAESKL EESERELRKA QSSQY----- ---------- 
+             SAEDRLSDLT AKFDEKEKLL EETERELRKY QSAQT----- ---------- 
+             DRESKLAETL KTLLEAETKT DEHERARAVL ESRTN----- ---------- 
+             RTEERLSEAE SRLNSASTSN LDLENERKRL EDVDY----- ---------- 
+             ---------- ---------- ---------- ---------- ---------- 
+             EKETYVSDLQ RKLGEIEQQH EEANRAKRTL ENRGM----- ---------- 
+             DKEEQISNLS TRLLEAEKNL EESVRAVSVL ESRTS----- ---------- 
+             EKEEQISDLG ARLLEAEKNL EESVRAVSVL QSRTG----- ---------- 
+             STDSKLSGSA QRLVEAEHQA DKSERSRKVL NNRGQ----- ---------- 
+             GIESKLNSTL SEANEAEKRG DENERIRKGL EGRTA----- ---------- 
+             GVESKLSTVA QKLAESEKGG DETLRLRKGL EQRSE----- ---------- 
+             ETESTLAASQ EKLVEAEKLA DESSRARNVL QNRAQ----- ---------- 
+             ATESQLSSSQ DKLLETEQLA DESSRARTVL ETRSQ----- ---------- 
+             EKESQLSHTL HRLTEVEKSA DESNRAKNVL ETRSE----- ---------- 
+             EKESQLSFTL QKLTSAEKSA DESNRAKNVL ETRSL----- ---------- 
+             EKESQMAFTL QKLTQAEQNA DESHRAKNVL ETRSQ----- ---------- 
+             RTESQLSSAL DKLIETEKAA DESERARKVL ENRGQ----- ---------- 
+             KTESKLSSAL EKLIETEKAA DESERARKVL ENRGQ----- ---------- 
+             GTESKLAAAF RKIDRKLR-- ---------- ---------- ---------- 
+             QVTKRCDEYE AKLEKIQVET EQTERRRVEL ESVEV----- ---------- 
+             QVSKRCEEYE MKLEKIQAET EQTERQRVEL ESVEV----- ---------- 
+             ---------- ---------- ---------- ----Q----- ---------- 
+             KAKGQYQGCL QHLGEFEDDA DISESKRKGL EKKSL----- ---------- 
+             KSETQYQEVL ERLQELETEM DISESKRKTL ESREL----- ---------- 
+             KSQKLYQASL LKLQDFETAI DISESKRKAL EQKEL----- ---------- 
+             KSQKLYQASL EKLQDIHAAI DKSERKRKTL EQKEE----- ---------- 
+             ETQARYQEGL DRLAELETTV DVNESKRKAL DRRES----- ---------- 
+             DATQRCEEME SRLGSVEDES MSIEEARKEL EENET----- ---------- 
+             DASTRLGTAE EKLEASTNTS DEVEATRQEL ENKES----- ---------- 
+             GMESKYQTLT AKLAAAEKKM VGDQQTYRLL EERKV----- ---------- 
+             EAESKLQSYL EQLGTAEKGS EEGLQARKQL ENRAN----- ---------- 
+             EAESKLQGLV EKLGSGEKSF EEGHQAKKMM ENRAT----- ---------- 
+             EKESRLSELR ARYEEALKLS DENVRAHVEL KNRGH----- ---------- 
+             ATESKLSSTQ QKLHEAEKQA DESERARKVL ETRGM----- ---------- 
+             ATESKLAATQ QKLSEAEKQA DESERARKVL ENXXX----- ---------- 
+             GTEERVEALE QKLNKVENQG GEIEDQRREL EQFEI----- ---------- 
+             DAESRLNKAT EKLEVVEKEV EGIEEERGQL EEQES----- ---------- 
+             ASESRLQDLQ TRLGEAEKSH DENEQAKKIL ENRGQ----- ---------- 
+             NANKLREDML ERCKALESQI DESNTKRKEL QNREL----- ---------- 
+             DANCRCADME SKLDSVETES TTIEEARKEL EENET----- ---------- 
+             DASDRLNVAE EKLESSTTTS DEVEATRQEL ETKES----- ---------- 
+             ERETVYTQLQ SKFNELNKKA DEEEMSRKVL QCRVN----- ---------- 
+             AAESKFQTLE GKLSLAEKKV EEDKQAFKLL KERRR----- ---------- 
+             AAESRLVSLL GQQYESEKKI HEGSQAQKLL ENRKQ----- ---------- 
+             AAESKLQGYQ EQFGLAEKGS EEGLQARKQL ENRAR----- ---------- 
+             EAESKLQAVT EKLRDAEKVL DEGRQTRKTM ESRAV----- ---------- 
+             EAESKLQTAS ESLISREKGF EEGHQARKTM ESRAI----- ---------- 
+             VQESRLLDLR QRHDEAVKLA DENERAHIEL RNRGQ----- ---------- 
+             DFVERHASQE KKLQETAASI EQIELARGEL EEKEA----- ---------- 
+             ---RRCIELE NKLVDVESEG TAVEEARKQM EENES----- ---------- 
+             ---------- ---------- ---------- ---------- ---------- 
+             DAQHRCDDVE QQLSRIQNES SDIEECRRHL EESEA----- ---------- 
+             DATIRLTESE EKFEQITKST EEIEETRGKL EESEG----- ---------- 
+             GCESQLSTTT SKIIEVEKMG DESLQAKKIL DNRYT----- ---------- 
+             AVDHNLTQKQ GYISEAQKIH DENSQAQRIL DIRTN----- ---------- 
+             ETESRTADLQ VKVVELEKAN DEAEQARRIL ENRAH----- ---------- 
+             NTESRMSEQQ SKLADAEKTQ YENENARKIL ENRGQ----- ---------- 
+             ELTKQCEANE KRLKDIQDDT EKIEEAREKL EDSEG----- ---------- 
+             DATSRCEESE AQLASVESDS QTIEEARKNL EENEA----- ---------- 
+             HYDSRLSTAT GTLTEAEKKM DETKQVKMVL DNRVS----- ---------- 
+             ATESKLAATT SKTTEFEKAG DESLQQKNIL EHRGA----- ---------- 
+             ELEEKNTGAS GKLSEAETSH EESTQAKRIL DARNE----- ---------- 
+             SMESKNNRQ- ---------- ---------- ---------- ---------- 
+             ALESKHAGAK LKLSDAEKTH EESTQAKRIL DVRNQ----- ---------- 
+             TIEDLYDQKR DRLLECEDII EKNVRRIKVL DVDEE----- ---------- 
+             KTSDRLEEHT DKFERAQHKT QTEEEVRKQM EESEM----- ---------- 
+             KVTERLEQKE ARLAELEEKT EQEGNIVKEL TSNEM----- ---------- 
+             KIEEQYAEAK QKLDDFAMKT SENEEARKVL EEEDR----- ---------- 
+             RTQETLVEKE ARLEQMLQRK EDEEMACKEL EGVDQ----- ---------- 
+             AAESKLAEVQ ERLVEAEKAA DESERARKVL ENRGQ----- ---------- 
+             AAESRLAEVN EKLSDAEKNA DESERARKVL ETRGL----- ---------- 
+             KALEKLAEKE ARLAGIERKA EDDNTFTKDK ADEEQ----- ---------- 
+             GMIEREKVFS VKLEEIEGKA TDNQELTKQI EKIEI----- ---------- 
+             KVKDKLDEAL SKLAGIEDVA NESEVVRKDL ESREV----- ---------- 
+             NVEDRYEDSA EQLKSTKKKL EMEYKARRSL ESRED----- ---------- 
+             ETTEKVDEQT EQLSKISGKH QNDQAAGQEL ASLED----- ---------- 
+             KVAVRVEERE AMLKDVDQKN RFEENARREL EENEL----- ---------- 
+             RAEKAYEVSA KRLAETQQKF QDEEEKRQNL EGEDR----- ---------- 
+             EKLLTLSEKT ERLSNLENKS AQEGEAVREL ENVES----- ---------- 
+             AAESRLSTTN EELAEAEKQA DESERVRKGL EDRGA----- ---------- 
+             AVEERIFGEN GLYHGGAREV GGRG------ ---------- ---------- 
+             AVEERIFEKN KLYHEELARL EREDRQIKIL NEFEE----- ---------- 
+             TLTERHTEQE AKLKEVEEKG ENEELIRKEL EESEM----- ---------- 
+             KISETLEEKT TRVNEVKRVA VEHENACKEL EVIDR----- ---------- 
+             EVNAEIEEKS KVLEEVEERV KLEEEKGKDL NYAEV----- ---------- 
+             EKNALLEEKM LINERLEKKF EQESDMVREL ESVEI----- ---------- 
+             AAESKFGVIT EKLKEAECNA DESERVRKVL ENRGQ----- ---------- 
+             ASESRLAEIC LQLEEEEARA DETERVRKVL ETRAQ----- ---------- 
+             KTVERREESQ GKLDAAIART EESEVRRKHL AETEV----- ---------- 
+             RVTKRLEEQQ AKLDSADGRT SENDNVRKDL EGRET----- ---------- 
+             KVNDRLEASK DKLDHAEGRF GNDDEMRQEF EVTEM----- ---------- 
+             KAKKTLAEKQ DRLDHCEGRS LDDDEKRREF EGIEI----- ---------- 
+             KTNERLEERQ ERLDNLETKT AVDEQAVKNL ESQEV----- ---------- 
+             SAESSLAEVN SKLYLAETTA DESERARKVL ETRGQ----- ---------- 
+             ---------- ---------- ---------- ---------- ---------- 
+             KIKKNQEEQT AKLDGADGRT HEHDTMRKDL EGRET----- ---------- 
+             KTEKQLTTNE DKLGHLEGRY GDDDEKRQEF EATEM----- ---------- 
+             KTKKTLEEKQ NRLAHVEGRS MDDDEKRREF EGLEI----- ---------- 
+             KTNDRVRQKQ IELDGLQCKT TEDENVVREL ESQEV----- ---------- 
+             ---------- ---------- ---------- ---------- ---------- 
+             AAESTLADVN SKLYLAETTA DESERARKVL ETRGL----- ---------- 
+             AMVEREKGGS ARLAEIEGTA TDNQELTKQI EKIEI----- ---------- 
+             KVLKQVDEKQ RLVNTVEGNV HQTHSHTRRL EDLEI----- ---------- 
+             KVQQKLDEAL ARLASIEEVA NESEVVRKDL ESQEV----- ---------- 
+             AAESKLAEVQ ERLVEAEKAA DESERARKVL ENRGQ----- ---------- 
+             RLNSKVADQT TKLEGAEGRT QEHDTVRKDL EGRET----- ---------- 
+             VTNERLAKTE AKLGHAEGRH TDDDSRRQEF EATES----- ---------- 
+             KINVRVAKQN DQIDSLLSKT AGDDEVRVKL ESQEV----- ---------- 
+             AAESTLTQLN EKLGEAETTA DESERARKVL ETRGQ----- ---------- 
+             RVTKRLEEQQ AKLDSAEGRT QENDGVRKDL EGRET----- ---------- 
+             KVTERLEVTQ QN-------- ---------- ---------- ---------- 
+             KTNDRLAEKQ ERLDSLESKT AEHEQAVKNL ESQEV----- ---------- 
+             SAESSLAEVN SKLYLAETTA DESERARKVL ETRGQ----- ---------- 
+
+             ---------- ---------- --KGDEKIMD LEAKLKEMER VEKETLETLT 
+             ---------- ---------- --EGDEKLLD LEAKLKEVER QEKETLDKLH 
+             ---------- ---------- --EGDEKIQD MEQRLKDKEV VLKEGTDRLV 
+             ---------- ---------- --EGDEKLSE LEVSLAEATK QSDEALNLLI 
+             ---------- ---------- --ESDEKMRE LEDALEEAIE LDKSTADKLA 
+             ---------- ---------- --ESDEKMHE MEDLVEETDI RDKDVQTKVA 
+             ---------- ---------- --DSDERITA LEETLQESIG TAKESEERLV 
+             ---------- ---------- --DTDEQLTE WETKAKDAIA LRDEKLRDLN 
+             ---------- ---------- --ETDEYLRS IEIEVKDAHS IAESSQMKLN 
+             ---------- ---------- --EIDEVLNE RECQCKEALA IAEEKHQNYI 
+             ---------- ---------- --EGDERLAE LEEKTKEAVA TVNQKEHDNT 
+             ---------- ---------- --DGDEKLIE LEEMLKEATA QADQYDHRNI 
+             ---------- ---------- --DEDERMHE LETELAETTQ KAESIENQTT 
+             ---------- ---------- --EVDNSLDR LEPSAKAAIQ RQHDAEMRCM 
+             ---------- ---------- --EMDDETNR LEPKVKRAIQ RADEAEMKYH 
+             ---------- ---------- --EDERKMEK LESMIKECKE RADYNENKCA 
+             ---------- ---------- --SGDERIQT LEDEVKEAKL KLEESNTKKV 
+             ---------- ---------- --AGDERIQQ LEEEVKETKR SLEENQTKLT 
+             ---------- ---------- --EGDEKIQR LEEEVKEAKR LLEENETKSN 
+             ---------- ---------- --AGDERIQQ LEEEVKESKR LLEENVTKLT 
+             ---------- ---------- --ESDEKIQS LEEEVKVKKR ELEENEIKLR 
+             ---------- ---------- --AQDERVNT LEEDTKEAKR TLETNETKFI 
+             ---------- ---------- --ADDEKMYN IEEESKELKR TLETNETKFI 
+             ---------- ---------- --HGDERLQE LEEQVKEARH LLEENEVKLV 
+             ---------- ---------- --EGDEKLQD TEEALKAARL ELETNEVKLV 
+             ---------- ---------- --EGDERLQD TEEALKAACQ ELETNEIKLV 
+             ---------- ---------- --EGDERMAD IEEKLKEAKQ ALEENEVKLV 
+             ---------- ---------- ----EDKATL ------LPKQ ALEESQDKLI 
+             ---------- ---------- --QGDERLQT LEEQVKDAHR LLEENEVKLV 
+             ---------- ---------- --EGDINICR LEERLSEVRD KFFENSIKCE 
+             ---------- ---------- --ESDNKIMK LEYKLCTAKN KYEENILRYE 
+             ---------- ---------- --EGDVALGK LEERLRTIRE KYEENARQCE 
+             ---------- ---------- --EGDVVLMK LEDRLRTFRE KYAETSTQYE 
+             ---------- ---------- --SDEERLAS LERQYNDALE RTEEAEKQYE 
+             ---------- ---------- --ADEERSSQ FERRLQEECD RAKNAEKQYD 
+             ---------- ---------- --ADEERIAQ YEAKTEENIN RHETAEREIE 
+             ---------- ---------- --TDEERLAS LERQYNDANT RADEAQQHYD 
+             ---------- ---------- --KGANKIEG LERELEIVKE SIKENEAEHE 
+             ---------- ---------- --SDGGRISR LQDELDELTN LNNKVVETFN 
+             ---------- ---------- --SDDSRIER LEAELETYQK KNEEVKEKLE 
+             ---------- ---------- --IDESRISK LEIELESIQS KNVAVEENLI 
+             ---------- ---------- --SDKLRIPR LLEDFKSIQC RNAVVEENLI 
+             ---------- ---------- --NDASKIEE LERELETLNE MIKENEGEYE 
+             ---------- ---------- --ADNSRVSR LEAELEELVT KNEDAKNSHE 
+             ---------- ---------- --TDDEKLSK LQSELDDVMS KNSDVENRYE 
+             ---------- ---------- --SDDERLTR LNSELDDVLA KNDEVENRYR 
+             ---------- ---------- --TDDDRLSK LQXXXXDVLA KNEEVENRYS 
+             ---------- ---------- --TDDDRLSR LQSELNDVVS KNQDVETRYA 
+             ---------- ---------- --TDDDRLTK LESELHEVLG KNDEVEKRYE 
+             ---------- ---------- --TDDDRLAK LQAEYEDVVS KNADVEDRYS 
+             ---------- ---------- --TDDDRLSR LQSELDDVHG KNEEVEKRYA 
+             ---------- ---------- --SEDDRLTR LNMELDDVLA KNDEVELRYK 
+             ---------- ---------- --SEDDRLTR LNMELDDVLS KNDEVELRYK 
+             ---------- ---------- --TTATKLEQ LETELSEYQA REKDVTELYT 
+             ---------- ---------- --NEQEIFER LSTEVAALKE QNDKIEEKLD 
+             ---------- ---------- --TEQDLSDR LATELEDLTA SNNEVEAQLQ 
+             ---------- ---------- --NEQELHDR LQNELAALTE QNNDIEEKLN 
+             ---------- ---------- --NELELSDR LEMELEALTA QNNEVENKLQ 
+             ---------- ---------- --SEKEKYER VSKEVSKLNE QNADYEAKLE 
+             ---------- ---------- --SEKERGET LNKELEGLNE KNVGYESKIE 
+             ---------- ---------- --QESQKSDK LQSELDELNS KNAELVEKLD 
+             ---------- ---------- --DDEKRKNL LEEELAELTA KNQAAEKKIE 
+             ---------- ---------- --DEEKRKAR LEEELAELTS KNKEVEQTIE 
+             ---------- ---------- --NDAEKKAR LEEELAGLTA QNAEAEAKCE 
+             ---------- ---------- --ISNEAVAR LEEEISTFRE QNTAIEAACE 
+             ---------- ---------- --KDVEKKEK LEQELAGYTS HNQLIEEKCE 
+             ---------- ---------- --VTDEKIQK LEEDTKEGKR SLEENETKLG 
+             ---------- ---------- --VGDERIQQ LEEQVKEMKR NLEENETKRS 
+             ---------- ---------- --NDDGRIER LEAELSELIA SNDEITEKTQ 
+             ---------- ---------- --TDDERLTR LETELGELTS KNEKVEAEYE 
+             ---------- ---------- --IDEEKFQR LSREHEEILS KNEATVAELE 
+             ---------- ---------- --NDDERLDR FQFELEEIQA KNDKVEAEYE 
+             ---------- ---------- --IDEGKLAR LEEELKVALE EIEQNEAEYA 
+             ---------- ---------- --TDYSRLNR LEKELEELNA KNEEVVEKFE 
+             ---------- ---------- --AGSSQLQR LERELSELLA KNEKVTAKLE 
+             ---------- ---------- --TDNSRLTR LEDELAEITE QNEGVVEQLA 
+             ---------- ---------- --KDEEKMEI QEMQLKEAKH IAEEADRKYE 
+             ---------- ---------- --ADDERIDG LEAQLKEAKY IAEDAERKYD 
+             ---------- ---------- --SDEERMDA LENQLKEARF LAEEADRKYD 
+             ---------- ---------- --MNDERITF LEEQLKEAKY IAEDAGSKLE 
+             ---------- ---------- --KDEERLEV QEIQLTEAKN IAEDADRKYV 
+             ---------- ---------- --SDDDRITE LENLVKTTRQ MAEDADVKYE 
+             ---------- ---------- --QDEERANT VEAQLKEAQL LAEEADRKYD 
+             ---------- ---------- --ASEERTDV LEKQLTEAKL IAEEADKKYD 
+             ---------- ---------- --EHDERIDT LETQLKEAKY ISEDADIKYD 
+             ---------- ---------- --QDEERVYQ LEAQLKEAQL LAEEADRKYD 
+             ---------- ---------- --TDGDRVGD LEDEVRKLRD HNLELERNYS 
+             ---------- ---------- --NDFGKAEA LEDKYKDLKR QFDDVERSHA 
+             LKEEHRLLEE KYADAERKLQ QDDLEDRLED LEQQNEEQQA QVDDLESKYD 
+             VKKKLHEVEE KYADAERKLQ NDDMEERLED SENQNEELTA SNKDLSDKLD 
+             LKQSHHELEE KYADAERKLQ NDDLEDRLED LESQNEDLQN QATDLEAKHD 
+             LKTAHHELEE KYADAERKLQ NDDMEDRIED LESTNEELQS KADELEGKFD 
+             IKAAHHELEE KYADAERKLQ NEDFEERIED LENQNEELTA QTTDLEAKND 
+             LKAAHHELEE KYADAERKLQ NDDMEDRIED LESANEELQS RADDLEAKSD 
+             ---------- ---------- --YDDDKLEE LDAKYKDAKD RADEYQKLYD 
+             ---------- ---------- --DDSGKVEE MERRWREAQQ KADENTRQAE 
+             ---------- ---------- --TDTAKASA MTAKWKVANK RAEESEALFE 
+             ---------- ---------- --SDSDRVNY LESKLKNMEE MCSDLEKNNE 
+             ---------- ---------- --SDSDRLET LESKLRSKDE QLGELEKQND 
+             ---------- ---------- --SDGDKLET METKLRVKDE KCSELERELE 
+             ---------- ---------- --TSNTKLEE LERQLNETLA AREEAETKYK 
+             ---------- ---------- --ADDERIDQ IESDLKAAKL STEEAERQFE 
+             ---------- ---------- ---------- -ESELDTIQA KIEQVEAEFE 
+             ---------- ---------- --SDSEKIAY RESELDTVQR DIEKAESSYE 
+             ---------- ---------- --TDTRKYGH FAGELEKVTT KNQEVEEEFE 
+             ---------- ---------- --VDHRKHGY MSGELDRILS RNKEVEDEFD 
+             ---------- ---------- --NDEERLDR FQYELEEIQA KNDKVEAEYE 
+             ---------- ---------- --TDSEKADT YTKEYEIITA KNEIAEAELE 
+             ---------- ---------- --ADEARFLR LEAEYEKVCA KNEKLEAEFE 
+             ---------- ---------- --SDEERIVQ LEKELDELNA KLEEAEAKNE 
+             ---------- ---------- --TDEDRVTR LETELDGLNS KIEKTEAEYE 
+             ---------- ---------- --SDVAKLAR LEDELSQVAE KNEK------ 
+             ---------- ---------- --TDEEKLNR LQDELETVAA KNDAVEAEYE 
+             ---------- ---------- --SDEEKLSR LEIELSQVAD KNDAIEEEYG 
+             ---------- ---------- --SDEEKLTR LETDLEEISN KNEQVEADYE 
+             ---------- ---------- --SDEEKLQR LESELEEISS KNDQVEADYE 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- --EGDERLME LDQSVKDARR TLEESEVRLV 
+             ---------- ---------- --EGDERLSE IEQAVKDARR TLEESEVKLH 
+             ---------- ---------- --EGDERMAD IEEKLKTAKH EFEGNETKLV 
+             ---------- ---------- --DDDTRCSE LEDKVFYRQR ALADAMQRLE 
+             ---------- ---------- --DGDFRLSN LEKQVRDGRV LLEERKHRLE 
+             ---------- ---------- --NDDDQLTG LEQKLRETKV TLDERNQLLE 
+             ---------- ---------- --IDEKHLTI REQRLKDMKV NVDEKIQLLD 
+             ---------- ---------- --DYDDRLVV LEERLRIAKI NFEERRQLLE 
+             ---------- ---------- --AGDEKIRQ LEDDVKEARR AMEENQTRLT 
+             ---------- ---------- --EDDDKIQK LEEDSKEMKR ALELNELKLV 
+             ---------- ---------- --KNDDYVIR LEDELSELNE GNLRVAKQLE 
+             ---------- ---------- --NDNSRVGE LEAELAELNE ALATVTEKYE 
+             ---------- ---------- --TDAKRIAV LEAELEEVNA QVAEVVAKYD 
+             ---------- ---------- --TDNTKSDR LTIELDELVS DNDRLEQEYQ 
+             ---------- ---------- --SDDQRLTR LESELADLTA KNEKVEAEYD 
+             ---------- ---------- --XXXXXXXX XXXXXXXXXX XXXXXXXXXX 
+             ---------- ---------- --EGDEKIQE LEEQIKESKQ KLEQNETTCH 
+             ---------- ---------- --VGDEAMYE LEEKLKETKR LIELNETKVT 
+             ---------- ---------- --NDTSRLEK LQKELEELTE RNVVVLEEIE 
+             ---------- ---------- --GCDTELAK LEDKLRAARD TFKENSVRCE 
+             ---------- ---------- --AGDEKIRQ LEDEVKEARR AMEENQTRLT 
+             ---------- ---------- --EDDEKIQK LEGEIKNMKR ALELNELKLV 
+             ---------- ---------- --EETDKEKS LREQLEEFTS KNEAILVKLQ 
+             ---------- ---------- --HDEEYAVK LETELNDLNG QNLDLAKTIE 
+             ---------- ---------- --RDDEYVQK LSNELEELKG RNADDEVVIS 
+             ---------- ---------- --NDNKRVSE LEKELEEVNA ALAEVIEKYE 
+             ---------- ---------- --TYKKQIED LEVELAEVKR QGGEVVAKYD 
+             ---------- ---------- --SDAKRIAE LEAELEEVRK EGAEVIAKFD 
+             ---------- ---------- --TDNTKLDK LQRDLDELLE NNERLELEYQ 
+             ---------- ---------- --ILDESIVA IEEKVRAAKH TLEMNEFKLS 
+             ---------- ---------- --FRDEKIDK LEEELNDKRI SIKEKETNVA 
+             ---------- ---------- ------AIQI LEEELKMAKQ SVDENNTKVV 
+             ---------- ---------- --EGDERLHT LEDECKTGKE QLECNETKLR 
+             ---------- ---------- --EMDDSIQK LEEELREMKA TCELNENKFV 
+             ---------- ---------- --MDGEKMER LSGEIEVNTR ENCKVTETLE 
+             ---------- ---------- --KSTEKIKR LAEEFDLICE RNDECLDRIE 
+             ---------- ---------- --ADEDKIHH YEHEIERTEN ETARIIEILQ 
+             ---------- ---------- --DDEEKLRK LRAELKEENE KNTAFAKDVK 
+             ---------- ---------- --QLDDEITQ LEEKVREAKR EVERNEFRQS 
+             ---------- ---------- --EGDERLST LEEESKEAKR ELEENETKLR 
+             ---------- ---------- --CDDKRIER LDNEVTDFKR EE-------- 
+             ---------- ---------- --TDSDKCKR LKKDIDCCKE ANEKVTGEVT 
+             ---------- ---------- --KGAVYVER LRAESDHLSS RNEEVVEEFD 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- --KGGGRIDR LKVDANQMSG RNVQIVEECD 
+             ---------- ---------- --ENETHIEQ LEVRLKQAEA AADFQETKYR 
+             ---------- ---------- --EGDEKLQF LEDACKEAQV KEEEAVQNLV 
+             ---------- ---------- --DGDEKLNE LEFMVKEAWK EASETEHRYI 
+             ---------- ---------- --VSDEMLAE MEEKTTQARA FASEKENLLN 
+             ---------- ---------- --ETDEKLVE LEDAVMDGLK IAAEEEHKLT 
+             ---------- ---------- --TDDERISQ LTKSVDEAKA KSEEASVKYV 
+             ---------- ---------- --SDDERLSY LENQLAGAKA RAEDAEAQYE 
+             ---------- ---------- --ERDENIAS LESVLGEAIR ERDETIHNLK 
+             ---------- ---------- --ERDQKLGD LEDQCKEELE KLEETVHKTA 
+             ---------- ---------- --NDDDTLAV LESEVKEAMA YAEERTDMLQ 
+             ---------- ---------- --EIDLDMEH VEVRLKEQRR RMDFAEAKCQ 
+             ---------- ---------- --ETEDQLSV LEADVKDAQK LAEENQHKLV 
+             ---------- ---------- --EGDEQSAE IEASLKEAQQ LVDETLSRLS 
+             ---------- ---------- --ENDDEITK LEAQIAEETQ RAEEEEGKLD 
+             ---------- ---------- --EGDEQMVD LETQLKETEQ QAAQTDHRNI 
+             ---------- ---------- --SDVERLQS LRRQLESARS RAEEAESQYE 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- --EDERKMEK LESMIKECKE RADYNENKCA 
+             ---------- ---------- --EGDEKLSE LEVSLAEATK QSDEALNLLN 
+             ---------- ---------- --DSDERITA LEETLQESIG TTKESEERLV 
+             ---------- ---------- --ETDEYLRS IEIQVKDAHS IAESSQMKLN 
+             ---------- ---------- --DEDERMHE LETELAETTQ KAESIENQTT 
+             ---------- ---------- --ADEERSSQ FERRLQEECD RAKNAEKQYD 
+             ---------- ---------- --ADEERIAQ YEAKTEENIN RHETAEREIE 
+             ---------- ---------- --DEFERSVE IEATLKAAAV KKENADHLVV 
+             ---------- ---------- --DNDQDLVL LEQNTKDVKV LVKENTQKYD 
+             ---------- ---------- --ERDEQLAT LEEECVAARK LSNEAQHVLV 
+             ---------- ---------- --ERDDQLIA IEEEALTAKG QAHEATHVLM 
+             ---------- ---------- --EGDEKIIN LVEMIKRGQL EAEEYEVQHR 
+             ---------- ---------- --TDDERLTQ LQDQLKRDQE LAEESQKKYE 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- --DNDQDLVL VEQTSKDTKV MVTENTQKYD 
+             ---------- ---------- --ERDEQLFL LEEECINAKK LSNEAHTVMV 
+             ---------- ---------- --DRDDQLIL IEEEALVAKE QAAESTHTLM 
+             ---------- ---------- --DGDEKLET LSDMLKKGQV QAEDSRLAVA 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- --TDDERLSQ LQDQLKRDQE LAEESQRKYE 
+             ---------- ---------- --ERDQKLGE LEDVQKEELE KLEETVHKIA 
+             ---------- ---------- --EGDEAIGK LELELIKHLR KQEEAESLAE 
+             ---------- ---------- --TDDDALAL LEAQVKEATV YAEERTDMLH 
+             ---------- ---------- --TDDERISQ LTKSVDEAKA KSEEASVKYV 
+             ---------- ---------- --NNDQDLDI TEKTLLETKV LVTENTMKHD 
+             ---------- ---------- --ERDDKLLV LEDECLATKK IRDESHCVLV 
+             ---------- ---------- --EGDERLES IGERVKEQHV IVEELDKQYA 
+             ---------- ---------- --NDDERLTN LQDQLKRDQG VAEESQKKYE 
+             ---------- ---------- --DNDQDLIV LEQSAKDTKV LVTENTQKYD 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- --EGDEKLVT LADQIKRGQV EAEDYDVQWR 
+             ---------- ---------- --SDDERLSQ LQDQLKRDQE LAEESQKKYE 
+
+             EAERKEVVVT RDLERAIEKG RTLENRIQSL ESTMGNALTN IQKLEASGDE 
+             EAQRREVVLT KDYERAVEKG DNFYAKIDEL QEKVDDTTQK IKLLEENEES 
+             EAQRREVVLT RDLEKAIARG DDFEARADKL TDTLEQGAEQ VKVLEETEEE 
+             EAKRRCLVVQ NDLKVAKDRE DEFTSKAMEL AETLKDLNDR TRFLEEADDE 
+             EVELKIKVVQ GELEKAVERG DRAEMMCEHL MNDFTGTSEV LRDLEVKDAA 
+             EVELKFKVTQ NELEKALQRA EKFENISSMM EDQLTGNVET MASLEEKDAE 
+             EAKQKLKVIL TEVEKARERA EILEGKANDL EDSISDIGNR LRQKESEDTA 
+             DVSRKLTKTE YDLHRAQERL EKAEAKIQES EENLQSAGEN MIRLQQKDGE 
+             DAQRRLTILE SEFSRAEIRK DAAFKRIAEL EQMMKEAGES LRKLEQEGVV 
+             DACRKHTKAQ LDCDRAKERL EKAQERIESL EYDLHRAGET MVELEAKDEV 
+             EINQKIVVTE TELSKVNERL ERALETIERL EATIEEESTN MASLEQKDTD 
+             EIIQKLQQTE SELTKQRKRA DAAENLLEKL QTTADEAGDN LKSLEMKDSN 
+             EARQKMGQLE NEFVKATERL ENAQEKVEML TEHFTKAGES LRNLEAKDED 
+             EVQRRLTLTT SELHKIRARQ REKEEEVREL ENRLKVGGRS IQQLVISEEK 
+             EVVRKLALAE TEYHKVKARQ EEKEELVQKL EDSLKTAGRQ IRHLEVQEEK 
+             ECRRRLQIIT REIEKFGQRK KTANHKIREL EEQNKYVGRN LRKLEISEEK 
+             EAARKKVVIQ RDLDKTKSKA EQLEERVESL QGTIDETSSR LRELEEREGE 
+             EAERKLVVVN RDIERTQAKA EALEKRVSVL TDTIDNAKTS LAVLEEREND 
+             ESERRRVVVF RDIERTAAKA DSLEKRIQVL QETIDNATIS LKELEAREGE 
+             EAERKNVVVT RDIERTQSKA DSLEKRVDVL TSTIDNAKGS LTELEEREGE 
+             EKERRNVVVH RDIEAATVKA DAIEKRIEIL ENTIKNGLES IKDLEEREGR 
+             EAQRKVVVVN RDTEKVKDKA DTLEKRVALL EETIENAGKS LNELEEREGE 
+             EAQRKGVVIS RDVEKTRDKA DALEKRVAVL EQTIASAGES LVELEEREGK 
+             EVKRKAVVLK RDIERVSEKA ETHEKRMNVL EETIQSTGES LRVLEDRELE 
+             EAQRKLIVLQ RDLERTEEKA ETAERRIEVL ESTIESAGEN LKVLEEKEGE 
+             ESQRKLVVLQ RDLERAEDKA DSAEKRIDVL ESTIESAGEN LKVLEEKEGE 
+             EAQRKLVVLK RDIGRSEEKA ESYEKRVQVL EEMITQAGEN LQALEEREME 
+             ESQRKLVILK RDVDRSEEKA GSYEKRIAIL EDVISQTGEK IQALEERDME 
+             EIQRKAVVLT RDIERIEDKV ATSEKRVNLL EGTIASTGEN LRSLEEREAE 
+             EGERRLAVLR SDFDKLRSRR LEMQEHAVYL QRDLDEKTLK SREMEDHLAN 
+             EAKQRLAELN SEYCLLIKKR ACLEQTGADL EQEAENKTLK LISLEKSREQ 
+             EGERRLYVLT ADFEKTRERR LKSETTAEKL EKEIEAKMEQ LRCCEESLRK 
+             EGDRRLAMLT IEYEKVHARR LQSEERAKSL EKEIDAKMVH LRHYEESTMK 
+             EISERLQELE NELEEAEQKA DAAEARVKEL EEEVTLVGNN LRSLEISEGK 
+             EMAAKIAQLE TELEETEARA ESAEEQVKSL EEEVNMVGIN LRSLENSETQ 
+             ERTEEQ---- ---------- ---------- ---------- ---------- 
+             EINNKLQELE NELEEAEARA DAAEERVKQL EEEVTLVGNN LRSLEISEGK 
+             ENLKTINVLE ETLNNVEERS NAADTRVKDL EKGNTLLGSS RKKAW----- 
+             ELTQILAEAD EKLDQEEERR DIADAKVKLL EVEVTQVGNT LRSMEINEGQ 
+             DLVMQLAENE EQLDQEEERC ETADTRVKEL EVEVTQVGNS LRSMEINEGQ 
+             DAEMQLRENE ELLDLEDERC ESAIVQIRVL EEEVTLTGNS LRSMEINEGQ 
+             DAEMRVEENE ELLDLEDERC ESAIAQIRGL EEELTLTGNS LRSMEINEGQ 
+             EDLTLVTELE EQLDEAEERH ESADAKLKEL DSQYILIGNS HKSMVTNEDA 
+             ELALQLAEGE EQLDQEEERC EIADARVKEL EVEVTQVGNS LRSMEINEGQ 
+             QIAKEIKELE KKMDEEDNRC TAAEKKVKEL EREVIDVGNT LRTMEVNETQ 
+             QIAKEIDDLE NRLTEEDNRC TQADGHTASL LKEIDSFTDI LSSLDVKMTE 
+             QVTREIEELE KGLEEEDERC VSADNQVREL EVEVLEIGNT LRSMEINESQ 
+             QISNEIIDLE KKLDDEEERC SSADNNVRSL ELQVLEVGNT LRSMEVNETQ 
+             QIAEEIDELE RRLDEEEQRC VISDSRVREL DVEIVEVSNA LRTMEINEME 
+             QISSEIEDLE RHLEDEEQKA VQAEEMSKTL DKTLMEVGNS LRLMERNDKD 
+             QIAEEIEELE RKLEEEENKA VISDSQIREL DIEIVTVSNS LRTMEMNETE 
+             QIADEIEELE NKLEEEERKC NSAESQVRDL EIEVVQVGNN LRSMEISEVR 
+             QIADEIEELE SKLEEEERKC NSAENQVRDL EIEVVQVGNN LRSMEISEVR 
+             KLAPELTEME ENLEEEEERC NVADDRVKTL EEKFIQLGNN LRSMERYEIK 
+             AVNTDIDELE QAYDVEEERA VSADNRVKGL EIEVLQVGNN LRTMEINQDQ 
+             KVQEEIDELE VGYDEEDERA NNADNRVKSL EIEVLLVGNN LRTMEISENQ 
+             QVNSEIDELE QAYDVEDERA NNADNRVKGL EIEVLQVGNN LRTMEISQDQ 
+             QVNGEIDELE TAYDEEDERA NNADNRVKSL EIEVLQVGNN LRTMEISEDQ 
+             ALNAEISNYE DELEKEEERA EAGEERVKQL EMEVLQVGNN LRTMEISEDK 
+             EIGAEIDELE GKLEEQEDRA IYADERVKAL EMEVLQVGNN LRTMEISEDK 
+             AITKESDDLE NTLDEEEERA ANADARVKEL ETEVLQVGNL LRTMEISEDK 
+             EVSVEIETLE GRLDEEDQKR EADDTNCKEL EFRLLQVGNN LRTMEISEEG 
+             VVCTEIEELE GKLDEEDQRR EAADTNCKEL EFQVLQVGNN LRTMEISEEG 
+             AVNRDIEELE GHLDTEDQRR EEADERVKQL EMQVLQVGNN LRTMEISEDA 
+             EVTDEVEQME EKLEMEEQRR ADNDERVKQL ELQVLQVGNN LRTMETSEDH 
+             TLANEIEELE TKLDEEDQRR EEADERVKQL ELQVLQVGNN LRTMEISEDA 
+             EMERKQVVLK RDIEIATSKA DSLEKRAAVL EETIQNANNS LKELEDREGQ 
+             ESQRRHVVLE RDIERTSGKA DALE------ ---------- ---------- 
+             ELAVSLAECE EKLDIEEERC ETADARVKEL EVEVTQVGNT LRSMEINEGQ 
+             ETCNEINDLE QRLDEEESKS EEYEGRVKEL EAEVMLVGNN LRSLEISEGK 
+             KEGEEVTVYE DQFEVVDDKS LTLDVKNKQL ERDITLVGNN LRTMEISETK 
+             ETLATISELE VALEDADTRT EESEGRVKEL ENEVMQVGNN LRSLEISEGK 
+             ETTESVEEME MELDDYDERR HTADARVKEL EADTVQLQNN VRSMKINEEK 
+             IISSELEEAE RIQDEEEERC STADAEVKAL EVDVVQVGNS LRSMEINEEK 
+             KVTKEIADLE TKQDIEEERC ADLDHRVREL EPEMIQIGNM LRSSKINESK 
+             ELTSQLEENE RILDEEEERC ATADAQVKEL EVDVVQVGNQ LRSMEINEEK 
+             EVARKLVILE GELERAEERA EVAECKASDL EEELKNVTNN LKSLEAQAEK 
+             EAARKLAITE VDLERAEARL EAAEAKILEL EEELKVVGNN MKSLEISEQE 
+             EVARKLAMVE ADLERAEERA ETGETKIVEL EEELRVVGNN LKSLEVSEEK 
+             EAARKLAIAE GTLESFESRL DASESKITEL EDELKEVGNN MKTLEQSEQE 
+             EVARKLVMVE AELERGEERA ELAESKATEL EEELKIVANN LKSLEASAEK 
+             EVARKLVVTE AELERAEERA EVAEAKGSDL EEELKIVATN LKSLEVSEEK 
+             EVARKLAMVE ADLERAEERA EAGENKIVEL EEELRVVGNN LKSLEVSEEK 
+             EAARKLAITE VDLERAEARL EAAEAKVYEL EEQLSVVANN IKTLQVQNDQ 
+             EAARKLAVTE VDLERAEARL EAAEAKINEL EEELKVVGNN MKSLEISEQE 
+             EVARKLAMVE ADLERAEERA EAGENKIVEL EEELRVVGNN LKSLEVSEEK 
+             EASRKLTLCE TDLEKAEDRA DLAEEKVKAL QDELTQTVNE LRSLEISEEK 
+             EATRKLQLTE DDLEKAEERA EVAEEKVREL ERELDATANE LRSREISEEQ 
+             EACRKIKMLE DDLAKAEEKS DSFETKSKDL EIEMTNMNTN LKKMEAAEGM 
+             ESVRRVKILE DDLSAAEEKL SAAEDKVKAL EAELTDINNS MKKMEAAEGL 
+             EAQRKIKMLE DDLAKAENNS EQFESKTKEL ETELTNINNE MKKKEAAEEL 
+             EANRKIKMLE DDLSKAESKC DELESKTKEL EIELTNLNNN CKKYEAEQGL 
+             EANRKIKMLE EDLSRAESNS EAAESKVKEL EIEVTNINNV LKKMEAAEGL 
+             ESNRKIKMLE DDLGRAEAKT EEFETKAKEL EIELTNVNNT LKKMEAAEGL 
+             DAARKIKVLE SDLETAEERA DDFEARANEL AETTEGLNNT MKNLLSSESQ 
+             ELRRRIVILE RDVERGEERA AKAEGKMKSQ ETEMQRMSDQ LKSLEENDG- 
+             ELENKVRVLT EDLDTCEERE QEYKEATQAN EQKLLTLTAD TRSLQVQTNK 
+             ELKRKNKMLA SDIDNAEDRN EELTKKVLDL EKEITDTAST LQEKQRSDQR 
+             DLKRKNQILS QDVENAEEKS EALQEKLDQL QLVVSEATSE LQKKERSEKQ 
+             ECKRKNKFLT HDIDAAETKN EDQARKIEDL QAQLKDAHDS LQQQRRNERE 
+             EISEKLEELE KELEEEEEKA DTAEARATQL ENDLILTTNN KKSMEVSMMK 
+             EAERKLRVLE GDHQRAIEKA SSSDSKITNL EGELQGVNEN LKEADDAERI 
+             ETSELIRTLE ERLEDREEDL AAGQTKQTTL EAEVIQVGNS LRSLEINEEK 
+             ELTGKINELE DKLAEEEERF EVGQKREFDL EADVTRISNE LRSLEVSEGK 
+             RVSKEIDVLE VQMGDAEERR ADGSEKIKEL EAEVTRIGHD LKRMEISEGK 
+             SIAKTVDELE VRMGDAEERY SEASGRIKDL EAEVTRVGHD LKRMEISEGK 
+             ETLAITSELE VALGDAATRT EKSESR---- ---------- ---------- 
+             KVLSELGDEE DKAEDLEEQG HELEERVRDT EEEVTLVGNN LRSMEITGEQ 
+             DVNSHMDEFE NTLDESEAKG EESESRVKEL ESEVTVVGNN LRSMEISEGK 
+             QCMTQMDDLE QQLDEGEERL EIADTRAKEL DIEVMRIGND LRSLEVSEEK 
+             AITAEMDELE QQLEDGEERF EAADGRSKEL DIEVTRLGND LRSMEISEEK 
+             ---------- ---------- ---------- ---------- ---------- 
+             EIASEIENLE NQLQDAEDRA INAEEQVRVL EVDFTQVGNE LRSLELSETK 
+             KIAAEIENIE DQLQVAEERA INGEEQVRAL EVDFTMVGNN LRSLELNESQ 
+             KVSEEISELE NKLDEAEERC ESAEEQVRAL EVDFTQVGNE LRSLELNESK 
+             KVSEEISELE NRLDEAEERC EAAEEQVRTL EVDFTQVGNE LRSLELSESK 
+             ---------- ---------- ---------- ---LHASCNE LRSLELSESK 
+             ESKRKVVVLE RDIEKADTQA ESVEKRIEVL ENSINHASEN MTELEQKEDE 
+             EAERKVTVLQ KDCTKCEQKA DDVEKRVEVL ETNINQANDN MSELEQKEDE 
+             ETQRKLVVLK RDIGRSEEKA ESSEKKNEIL EEMIAKAGEN LQALEERESE 
+             DRQRRIGIMK EELVKVNKAY NVALEKGDYL EDELIGYEAK ARKLDQFETQ 
+             EAERRLTSLK IDYEKVTSRC VVAEEKSSYY HDELKDVAVR LRDLEGRETR 
+             EARRRKEILQ EDLKKTKDRY LDSKDKSQYF ESEIQLAGDR LRDLERKEVT 
+             EARRRKELLQ ADLKKTMARL HASRDNSKYF EAEIQVAGGR LRDLERKEVT 
+             EAKRRRQVLA TDLGKAEKRI ADSKEKVEFY DSEIEYAGQQ LRQMERKEMS 
+             EAERKNVVVK RDIERTTAKA ETLEKRVEVL EETINNATES LKELEEREGE 
+             EAQRKKTVFS NDIEKVKEKA NTFEARVKVL EETITAHGES LQELETREGE 
+             TLIIENGEVE VQIDEEEERA LKLDERAKDL ELRICNTSGA LKMLELSETE 
+             DVAKELQEGE EELDNQEERV ESADIRVKTL ESEVTQVGNS LRSMELNEGE 
+             EVHASNLKSE EELDEQDERI ETSETRVKEL EVEATLVGNS LRSIEIAEGE 
+             EAMITLEENE NVQDEQEERL SALDSRVKEL EVEAVQSGNL LRSMKINEGV 
+             EACASIGELE ENLDAAEEKS QEYEDRVREL EAEVMIVGNN LRSLEISEGK 
+             XXXXXXXXXX XXXXXXXXXX XXXXXXRKDL EAEVMIVGNN LRSLEISEGK 
+             ESQRRKIVIT NECETITNKA DDLEERVKKL SETLGNATNS IRDLESREGN 
+             EMERKRTVLS RDLEKTQEKA DALEKRVEVL EKTIEGAGDS LLELEEREGE 
+             SIAQELAEAE QSLDEEEERR DAADEKVKEL ESEVTSVGNT LRSMEINEGA 
+             EAERRLQSLN ADSKKVGSQR EKLEVQANQL EKDIDQKLLR LSSYEDFERK 
+             EAERKNVVVK RDIDRTTAKA ETLEKRVEVL EETINNATNS LKELEEREGE 
+             ESQRKKTVFT RDIEKVKEKA DTFETRVSVL EETIANHGQS LQDLETREGE 
+             SVEAENEELE EKSDELDRIC EELDARVKGR EAELTDQSNT LRLLQNSEAG 
+             TLIIENAEIE KHIDEEEERS TKLGERAKDL EIRISNTTSA FHMLEISKNE 
+             KLEEENQVNE ETVEIKEKRA EELGNRAKQL EMKMTDLGNA LRMMELNEIE 
+             EVASELQQGE EELDSIEERV ETADARVKTL EAEVTQVGNS LRSMEINEGE 
+             EYAKLNMRQD EELDELEERI EEADARVKEL EGEMTILGNS LRSMEMSESI 
+             EIAALNMKQE ETLDELEERI EVADVRVKEL EAEVTNVGNS LRSMEMAEGQ 
+             DALAKLEENE NILEEEEERL NSADLRVKEL EVEAVQSGNL LRSMKINEEV 
+             TEEQKKVVIT RDLEKMHEKA EGLENRCQVL EETLAKAGEN LEE------- 
+             EADRKIAVLR GDIDRSKAKA RVLS------ ---------- ---------- 
+             ESERKLVVLR RDIARAKDKA DGLESRVQIL EDTISEAASN LEDLAASDSK 
+             EAERKLVVLK RDLEKTREKA ESMETRVNVL QETIETANCN LKVLEENENL 
+             EAERKKVVIE ADANRATEKA DGLQKRVEIL EQTIEKAGES LSELEEREGA 
+             CLLADIVSLD EELDIEEERF EVADNRVKEL EVEVTNVGNT LRSTETADIH 
+             EIEEEIKAKE NELDAAEQCR DESTCKAKEL DLEATQAGNM LRSLTMQGNE 
+             PVEAELLENE EQLDTWEERL EIATDRVKEL EAEVTRAGND LRAGETAECV 
+             ENERMIAVLE AELDEQDQRV EETDTKVKSL EVEVTQVGNA LRSMEINENE 
+             AEERKKRRRS RS-------- ---------- ---------- ---------- 
+             EAERKLVVVK RDLDKTRDKA DAMEKRVEVL QITIETANNN LKDLEEKEGV 
+             ---------- ---------- ---------- ---------- ---------- 
+             RISDHSVALD EELDVEDERL ENADVRVKEL EVEVLQVGNT LRSLETSEGQ 
+             RINVEIESLE VQLDDEEARF EESNMKVKEL EVEAIQAGHS LATCKIQEST 
+             ---------- ---------- ---------- ---------- ---------- 
+             CLNSDIEDLE MRLDDEEERY EKAKAKVFEL EVEAIQAGHS LRTVEIQEST 
+             DATVKLANTT DEYHRTCARL ERANLKIGTL SAEYGLKARN TRVLADSEDR 
+             DAERRLQKVE EDFRREAQRG DKLEAIIAEK EELIQSANDT MSRLERNDEE 
+             EIANRLTQTQ NELDKVNNRY EVSLQKIERH ENILSEAGEN VKDLQMKDEN 
+             ETQRKFVVVE RDLQLADNRL ENNEKRAKAL EGDIEQGGEN LRELEGKDAV 
+             ECIQKLRVTE EELSKANTKG ERFEEKVEYL ENSINQTGES LAATDERYSA 
+             EICKTLEDLE NQLAD----- ---------- ---------- ---------- 
+             EVQSKLTQLE NDLEEAEEKA DTAEQRVKEL EDEVTLVGNN LRSLEISEGK 
+             DCERKEKVIY SELQRTCEKA EIMERKVKEL EHDLEFITNK MATLEDQEND 
+             EVSRKVKVLE AELGKATEKG GKFEKGILGL EGNLEEAGEN LAVLESREEE 
+             DAERKLQQAE TELRRVQEKV DENEKRVAEL EEEFDLNNSQ VLQLENKDYD 
+             EAQRKLAMND VEYQKIINRR KAAERSGKAM SDQLKNVGRS IRQLTISEEK 
+             DAQRRHTVIE RELSKMLDKA EAKEKAVQDL ENTITMMGSK LKQLSEKDED 
+             EAERKVIVLE KENKIASKRC STADQKIEQL TILLESTAEK AKHLERSEDE 
+             EVMQKLKVVE TELQKATERG EALEEKAELL EQEAETKGES IRDLEDRDAD 
+             ELAQKIVQTK NDLEKALARC DKAEAKIEQL ESHIAEASES MNNLRMKDED 
+             EVSSKLNVLE NDLEEAETKA DEAEARVKFL EEEVTAVGNN LRSLEIIEGK 
+             ---------- ---------- ---------- ---------- ---------- 
+             ECRRRLQIIT REIEKFGLRN KTANRKIREL EEQNKYVGRN LRKLEISEEK 
+             EAKRRCLVVQ NDLKVAKDRE DEFTSKAMEL AETLKNLNDR TRFLEEADDE 
+             EAKQKLKVIL TEVEKARERA EILEGKANDL EDSISDIGNR LRQKESEDTA 
+             DAQRRLTILE SEFSRAEIRK DAAFKRIAEL EQMMKEAGES LRKLEQEGVV 
+             EARQKMGQLE NEIVKATERL ENAQEKVEML TEHFTKAGES LRNLEAKDED 
+             EMAAKIAQLE TELEETEARA ESAEEQVKSL EEEVNMVGIN LRSLENSETQ 
+             EVEAQLQELE QELEDLESHS EETEERVQEL EEEANLAGNS LRSLEINITE 
+             EAERKVIVLE RDLARTEEKY ERFNSRVEEL VELVDSHTGD IRALEQKDRD 
+             DAVNKLKVLE GDLERVYDRL TVAQGKVERL EGDAKQVNTD LKDLENRDEE 
+             ESERKLTVVE EDTQRTDERL RAALAHVQVA EDRINNTGNE IRDLEERDND 
+             ETQRKLQVLE GEVDKVNDRL EAAIAKEQSY LDLIESNGNE LRTLEDRDNE 
+             EAERKEVVLT RDIKRIDDLL GTKLGRIDQL MDSINKVSSN IKALEAREND 
+             EIAERINQLE LELDEKEEQA QEAEVRAKAL EEEVNLVGNN LRSLQISEDQ 
+             ---------- ---------- ---------- -----TRDAI IRDLEEKDRN 
+             DAVNKFKVLE GDLERTYDRL TLFQNKVKTL EGEASQVNTD LKDLETRDEE 
+             ESERKMVVLE NDLQRTAERS SVGQDKVNAL EGHINNMGGE IRSLEDRDND 
+             ETQRKLQVVE GELDKINQRL DMAEAKEKAY IDTIERNGEE MRELENRDDA 
+             R--------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- ---------- ---------- 
+             EIAERINQLE QELDEKEEQA QEAELRAKAL EDEVNLVGNN LRSLQISEDQ 
+             EVTRKVQVLE AELGKANEKG GKFEKGIVGL EGNLEEAGEN LAVLESREEE 
+             SFERKLAHSS QEYQRALQRC REGE------ ---------- ---------- 
+             DAERKLQQAE TELRRVLEKG EESERKLAEL EEEYDLNNTQ VLQLENKDYD 
+             EICKTLEDLE NQLADAEEKA ETAEDRVKEL ETEVNIVSNN LKSLEISEGK 
+             DAVTKLKVVE GDLDRATERL LIAQTKVDEL EQEAKEANAS LKDLETRDEE 
+             ESERKFVIVE GDLQRANERL NTALAHVESL ESRISEAGVE IRRLEVLDDE 
+             ESRRKATSLE IDVEKAENRY EAISLQIEER LEKLSWIQTK IKTLEENEDS 
+             EIAEKINQLE EELDDKEQKA QEAEIRAKAL EEEVNIVGNN LRSLQISEDQ 
+             EALNKFKVVE TELERVYDRL TNFQNKVERL EGEAKQVNTD LKDLETRDEE 
+             ---------- ---------- ---------- ---------- ---------- 
+             EAKRKEVVLL QDLDKAEKRF QESTIRIEQL MDAINNASSK IKDLEAREYD 
+             EIAERINQLE QELDEKEEQA QEAEIRAKAL EEEVNLVGNN LRSLQISEDQ 
+
+             AYEREELKEE KLKFFQEQLK QYEQRYEDAE REALKLERIN DTIIIEIDSY 
+             NFEREEESED KIKFLDEQVK MYLQRADDAE REIAKLERMN DQVQVEIDNK 
+             KFEREEENEE KVKFLEEQVK QFEQRYDTAE REIQKLHRLC DQLDTEIAHY 
+             ASEREQTTEE KKKFLEDQIK EFLQRADEAE RQYATLQRVS EGLILEINSL 
+             ASEREIDNED KIEFIQENLK QMVYRYEEAE RKAPPLEMLL DQLVEDLELY 
+             ACEREIEGEE KVAFMQDELK AMVYRYEEAE RKAPPLENLI FAMMEDMDNL 
+             SAENEMDLND KLMFVKTQLD DAIARAEEAE RKLQPQEIII DDLTQERDAL 
+             AADRETEQEE KIAFMQDELK PLEERFDNAQ ERCGKMERYL DELTTEYDDI 
+             ASEKDNDNEK RIQILQEDVA VKTRECEDSE RSVEKSERRI DALMKELEHW 
+             ASEREMEREE KIAFLQAELK KLVEREDIAE REVQKLQRII DEECIEMEQI 
+             ASQWEIEVEE KIGFLNEQLK EVLVRAEDAE RRCGPLERLL DEQSTQIDDF 
+             ASQWEAETEE KIQFLEEQLK EILAQAEDTE RRCAPLERQL DEQSVQIEEF 
+             ASEREQVNEE KVSFLLSQVK EILALAEDHE RKIPPLQRTI DQMSEEIRDW 
+             YCDKEDEFRH RIRLLKANLA ATILRAEESE RRCMRLEREN DMVEEETRAY 
+             SGDREDQKFH YCRKLIDRVD HFIMRAEEAE RRIRMLQKNI R--------- 
+             RCDREDAYDK RMRDLEEMRR DEEIRYEAAE RKIAKLQHEA SDVRNQLQEE 
+             SAEKEEQNAE NLIVLEGRFK DAEVRYEAAE RQCNVLSNNI KEAKSEIESW 
+             SSSKEERNAE ELLLLEGQFK EAEVRAEAAE RNCNVLERNI SEATAEINSW 
+             SSQREEYNAE QIVMLEGKYK EAEVRAEANE RNCCVLERNI KELEDEIEKV 
+             SSMKEERNAE ELLLLEGQFK EAEVRAEAAE RSCNVLERNI ADTKAEIELW 
+             TNEKENNIAE QISFLDNKFK EVEIRIEAAE RNCNVLEHNI KETSEEIKTW 
+             SSEREELNEE KRRFLEGQFK EAEVRAEAAE RSCGVMERNI LETTNEINTW 
+             SSEREEINED KLIFLEGQFK ESEVRSEAAE RSCNVLERNI LETENEINSW 
+             SSDKEALNEE KIAFLEGQMK EAEIRLEAAD RQAQNLERVM LDTDTERNVW 
+             ISERESLNED KIAFLESQLK ETEVRAEAAE RAVGVLERNI FETDSELQSW 
+             ISEREALNED KIAFLGSQLK ETEVRAEAAE RAVGVLERNI LETNSELQSW 
+             SSDREALNEE KIAFLEGQLK EAEVRAESAD RQCKTLERAA METENEINVW 
+             SSEREAQDEE KMSFLEGQLK EAEVRAESAD RQLKTLERAV KETQNEIDVW 
+             ASENEALNED KIAFLESQMK EAEVRVEAAE RQAQNLERVI LDTENEKNGW 
+             NGAKEYDDEA NLRIVEDLHR EELDREEKAR LRVQKLQRVI EMVEDQIEEV 
+             SFKRNPNNED HLRYLENDCR VMNEKQEATM LTVARLQKLI ETTKDKIETL 
+             NSYSDFKQED HIKLLESYNR EAEEKKEFAR LNILKLRRQI ENTEDEIENV 
+             KSLSELKYEE HMKLLESYHQ EAVEKRELGR MNILRLRRLI DKAEDDLEEV 
+             ASEREDTYEN QIRELETKLQ DAEERAEKAE QKVQELEAQA EAMEAELEKA 
+             ASKREQDYDE KIKSLENEYG EAEARATAAE GKVLDLEKEI DNLEEELGNA 
+             ---------- ---------- ---------- ---------- ---------- 
+             ATEREGSYEN QIRSLESQLE EAEERAEKAE SKVRELEAQV DAMEAELEKA 
+             ---------- ---------- ---------- ---------- ---------- 
+             ASVRTECGDT KISEMEAKYQ EMEARAAEFA EKAKRLERRQ EELDEELQLE 
+             AVERTESGSS KISEIQERYN LGEEKAIHFE NKSAELEAAY DELEEELHEA 
+             AVERTESVSS RISETQEKLN KALQRAMDYE KKANELEDTL NDLEEDSLNA 
+             AVERTESVSS RISEIQEKLE CVLQKAMDYE DKATELEDAL DDLEEVSLYA 
+             AADRVSQADS KISEMVSQVD EKEELATAME AQWKELEDEM DKLAMEEEES 
+             AAERTESGNS KISGIETKYR EMEEKATQFE ERSTELEQEC EQLEEELNET 
+             ASEREDKFST RLNDLTYKYN DAELKAQKYE AQVKTLETTL AKLEDQLKVE 
+             ASDREDKLAV KLKSMHERYQ EAEDKAFKYE QKAKELESGL AETEEKCEDE 
+             ASEREDQFYS RLSVTYL--- ---------- ---------- ---------- 
+             ASEREDKFSS RLSDLTFKYN EAENKGQKYE EHVKELESTL VDLEAKLSEE 
+             ASEREEQLSS KLNEMVQRYN ETEEKANKYE QHTKELESSL NDLERKLEEE 
+             ASEREDKLSS KLAAMKQTYT EAESRASKYE DHSKELESTL DDLQDKLEEE 
+             ASEREDQFSA KLNEMMQRYN EAEEKAQKYE NHAKELESTL NDLEEKVQEE 
+             ASEQEEEYST RLGEMSKRYQ ESEEKAQKYE AHSTELQRTL KDLEDKLEEE 
+             ASEQEEEFST RLGEMSKRYQ ESEEKAQKYE QHASELERNL GELEDKLGEE 
+             SNERGTEIQL KITELQNKVE EALAKAEKFE AQASELEGNL EACESDLQRE 
+             FNQRDTDYTT QIADLTAKLE TASTKADKFE TLLTELEQSQ EDLENKLQDE 
+             CNVRDSENNA KISELTAKLE ATSEKADKFE ALMSELEQNQ EDLEQRLTDE 
+             SNQRDSEHNT QINELTTKLQ TASEKAEKFE ALLGELEKNQ EELEGKLQEE 
+             SNVRDSEHNQ KIEELTAKLQ ATSEKAEKFE ALMGELERHQ EELEQKLADE 
+             ANQREDSSSQ KINELSEKFQ KVAEDADRFE AQAAALETTQ DELEEKLIKE 
+             ANQREDSTTA KITELGEKYG EVAARAEQYE EQSSALEQTQ DQLEEKLIEE 
+             ANQREDAVTT KIAETTSQLE EATAKAEKYE AQAAELDRQQ DELEDSLSNE 
+             YITRD----- ---------- ---------- ---------- ---------- 
+             YITRDGGAIE KIKQLGEKYA EAEERAQRFE AHTEELERQQ EELDDELEKA 
+             ATQRESGYIE RIKELGDEYA EAEDRAQRFE AQTEILEKTQ DELDGELEKA 
+             SNQRESMFIG KIGTIGEEYA EATERATRYE AQLARSRRAT RRSR------ 
+             ANARESGYIE KIREMGEKYG LAEERAAQYE AQTEALEEQQ DNLDADLEKV 
+             SNEKEERNAE ELNLLEGQYK EVEIRKEAAE RNSNVLERNI KESLDEIEMW 
+             ---------- ---------- ---------- ---------- ---------- 
+             ATVRTESGDS KISIMDQKFR DMEEQATKFE ELSKELEQRQ EELDEELQAE 
+             ASEREDTYQS KLNELSEKFQ ETDAQAESLE NRVKELENQL ADLEDDLQKE 
+             GSEREGYQNG KLETLQSKFT EASQSAEMNE AKCSELENRL TELEENLESA 
+             SSQREDTYQS KLNELSAKYQ ETDENAELLE QRVKELELKL AELEEQLDGE 
+             TSRSNETKSE KVAQMEAKLA EMVDAANDME ERSKELETEL DDQEEELEAA 
+             ASKSNVKTVD KLEEMTDKVE EVKNRADESE AKAKDLEAEL EDVEDELNNV 
+             ATVRMESSDE KLEKMHVKLE EIEERVRRTA AREEDLELKM TELEGVLQAA 
+             ASKSNDQSAN KLEDTIEKFN TIKERADDAE ARAKELEAEL NECEDELSLA 
+             YSEKEDKYEE EIKVLSDKLK EAETRAEFAE RTVAKLEKSI DDLEEKLSSA 
+             ASQREDSYEE TIRDLTQRLK DAENRATEAE RTVSKLQKEV DRLEDELLAE 
+             ANQREEAYKE QIKTLTTRMK QAEARAEFAE RSVQKLQKEV DRLEDELVHE 
+             ALQREDSYEE TIRDLTVRLK DTENKASEAE RTVSKLQKEI DRLEDELLAE 
+             YAAKEGIFEE EIKTLSDKLK DSETRAEFAE KSVVKLEKNI DELEDSLYAE 
+             ASEREFNYEE KIKQLEASLK EAETRAEFAE RSNQKLERQV DDLEDELFSE 
+             ALQREDSYEE QIRTVSSRLK EAETRAEFAE RSVQKLQKEV DRLEELRDAE 
+             ASQREDSYEE TIRDLTQRLK DAENRATEAE RTVSKLQKEV DRLEDELLAE 
+             ASQREDSYEE TIRDLTARLK DAENRATEAE RTVSKLQKEV DRLEDELLAE 
+             ALQREDSYEE QIRLLTQRLK EAETRAEFAE RSVQKLQKEV DRLEDELVHE 
+             AQAADEESGE KIRELNTRIT ELETMHEEES RKVRELEKAN EDLEDKLAEV 
+             AQIAEEGSTE RMRELKRDHD NLSRELEEAR RRVKELEIEN DQMEADLEKT 
+             QAEREDKLES GIRDLEAAKA DLSIRAENAE RQIQVLEENI LKLESDVEKE 
+             QAQREDELDA KIKDLSEEKT DLHIRAENAE RQIQVLEENI AKLEKEVEDE 
+             QGEREDKLEN NIRDLEAAKS ELSIRAENAE RQIQVLEENI LKLEXDLEKE 
+             QYEREEKLDT TIKSLESEKS ELSITAENAQ REIQVLXDNI AKLESDLEKE 
+             QTEREEKLEE NIRGLEQAKS DLSIRAENAE RQIKVLEENI LQLENDLEKE 
+             QAEREDKLES SIHDLEAAKS DLSIRAENAE RQIQVLEENI LKLE------ 
+             MNIREDQLED KVYQLKTALD EAEKAGQEQQ SRANSLQRTL EQAEDDLDKE 
+             AD-KEEMLEE RLRELEEEYR TVDKEADEAE RRVANLNSQV DAINNEVNTW 
+             SSDYEQRLQR KVDDLERKID GAAERAKRYL EDQRMLEQEL EDGEDQKDQL 
+             SVSREEKLEN QVQTLQKERD DFGNRAEEAE RKCKQLEHQI ETLENDLEVA 
+             TESLEEKLTA DKRELQSKLE TSEKRAEEAE RKAKGLEHQI DVLEGDLEEA 
+             TESIEEKLTS ENQTLKKKLE EAENQNSELV QKNKRLEHQI DQLETDLDTA 
+             AQEREEVAKA KLAEMEEKCA EAEQEVRDAE DSVTQLEKTL DEREDELQEE 
+             ANDQEEDYQA KIKALEERLL AADVRLEAAD RRKGQLNRQL GEINDLLDEK 
+             ASARDETFVG RLEELSAKYE ETIAKAEEDE EREKELNDDL ADLEELLDQK 
+             ASVRDETFQE RVADLSDQYE STIAKAETDE NRLKDLEAEL ADLEELLEDK 
+             ASVGEVHSST KIEQLSKEYE DMSERADIAE ARVKELENEL GDLEIQVEDA 
+             ACAGEEHASY RIEKLTEELQ QMTDRADQAE AKVRELETEL GELEGKVDDE 
+             ---------- ---------- ---------- ---------- ---------- 
+             GGEREDKQNT ILDDLTNKYI EIAQTADEGE AQVLALEGNL AMLEDKLEEE 
+             SSELEVKQEV ILEEMQSKFS DVSERADENE ARCQELENML TEAEENLENG 
+             ANSREDTFQA KLNQLSDQYQ ETTEKADKYE DDLKGLESQL DALEEKLDEE 
+             ANTREDTYQT KLNELSDKYQ ETNESADKYE SAMKNLEDQL DILEAKLDDE 
+             ---------- ---------- ---------- ---------- ---------- 
+             AFDREGSHQM RLTELEDRYA KACEKAEYNE MKAKEMEDQL TNTEELLTKE 
+             AYDREGSHQM RLTELEERYA RACEKAELFE LRASEMEEQL SNTEELLTKE 
+             ANVREDSYNS RLNELSEKYQ ETAQKAEGYE ARVQELEDQL TELEEKLSAE 
+             ANDREDSYNS RLNELSEKYQ EAAQKAESYE ARVQELENQL TELEEKLSAE 
+             ANDREDSYNS RLNELSEKYQ QAAQKAESYE ARVQELENQL TELEEKLSSE 
+             TSQRESLNEE KCNFLEGQLK EAVIRSESAS RSCQTLERSI AQIQTEVETY 
+             TSQRESLNEE KCSFLESQLK DAVARAEDAS RSCTTLERSI SQLQGEIDSY 
+             SSDREVQNEE KIALLESQLK EAEVRAESSD RQSKSLDMAI IETLNEINVW 
+             TTNREMFLQD QIRYMECEYQ QSLEKTNRMK SEISRMTRLV ETLQDLIEEQ 
+             ASDREYQLLE ELRYSEDRQK GIEARCDHAF REMTRLNRLV EALQDELEEQ 
+             SNSREYEMED EVRYLGDQLR QSQEKWFIVH DKYKALERVK EQMEDEIDSW 
+             SSSMENEMED GVRNLGDQLR QSQEKWFIVH DKYKSLERVK EQMDDEVNSW 
+             STDREMELED EMRFVADKLR GAQERWFLSE DKVKGLTRAK DAIEDEIEAI 
+             SSMKEERNAE QLLLLEGQYK EAEVRAEAAE RSCNVLGRNL QETSDEIENW 
+             AGEREELNEE KVHFLEGQLK ETEVRAEAAE RGCQVAERNI LETENEINGW 
+             TCDRNSIKEQ KIIETQEKIS ECNEKVERYE TQIAEEIKEM EDQEAELAVV 
+             ANNRSESGNK KIDDMQVKYE EKEQRAVEFE AQAKELEDKT DEKDQELVDC 
+             SNTRSESGNV KIQDWEQKVA EKEKSAVEFE EKAQVLEEKT DASDEELNAA 
+             ASESFNKSES KYSEMTERVA QMEELACAKE EKAKELEDTV AESEDELALE 
+             ASEREDTHQT KLNELSEKFQ ETDAQAEMLE ARVKELEGQL NELEDELEME 
+             ASEREDTHQA ---------- ---------- ---------- ---------- 
+             SSTLEDENAL LISELERKIK QAEDRADQAQ RDCNVLKNNN DRVKDEIETW 
+             AGEREEMNEE KLDFLEGQFK EAEVRAEAAE RMCNVLERNI LETENEINSW 
+             ALERTESSQS KINEMEEKLK SMEEKADAFE AEAAELENRE SELDDEMIEA 
+             ASEEESRRAY HLKLLDGYYR DAEERKESGR LNITRLQRIV EQTEDDIETL 
+             SNLKEERNAE QLLLLEGQYK EAEVRAEAAE RSCNVLERNL KETTDEISNW 
+             AGEREQLNEE KVHFLEGQLK ETEVRAEAAE RGCAVAERNI LETENEINSW 
+             SSNRTSTTEK KIEVVREKYE TIIEKAEEQE KRQEDLETEL NLAEDQLDAA 
+             TCDRNTIKEQ KIEDITVSLK ELNEKAERLE QQVAEEIKVM EEQEAELATV 
+             SNGRKTAVEK KIEEIIEKLK EVNDRAEEFE KKSAAMVEAT EEREIELTKV 
+             AVNRSESGNK KIDEMQSKYD EKEAQAIEFE GKAKELEDLT DAKEQELQDA 
+             ANSRSETGAV KITEFEVKIA AKQSEAEKFE QLSEELEKKT DAADEGLVKA 
+             ANSRSESGDV KIAELETKVA DIEKSAVEFE EKSNELEQRT DAADEELIRA 
+             AAESYTKSDC KLEEVTNRLF EMTERARQKE EDAKELEEKL VDLDDELTHE 
+             ---------- ---------- ---------- ---------- ---------- 
+             ---------- ---------- ---------- ---------- ---------- 
+             SSLDEERNTE ELIMIQGQFK EAEVRV---- ---------- ---------- 
+             SQDKESNNED KMVYLQGQYK EAEVRREAAA RSCTVLENNI KEIRVEIESW 
+             ASEREEKQEE KLKYLEGQSK DAIQRAELAE RNCAVYERNI GETTIEIASW 
+             AVQRLESADG QIVELEQRKS DSEVCAVELE EKTKELEGEL DALEVTLAAK 
+             SDNRTKENSE RIVVLEHEIA HELECAMELE AKALELEHEL KDLDEELLDV 
+             SQERVGEIET KIQEAEEKRD STERCAEGLE ESVQRLELEY DELELERNAL 
+             GVQRVVNVDD KVLKMRQKRD DMEKKAQAFE EELEVLEKDM DESDKKLRAA 
+             ---------- ---------- ---------- ---------- ---------- 
+             SQEKESLNDE KMTFLQGQLK EAEVRREAAE RSCNVLKRNI IDIQEEVKCW 
+             ---------- ---------- ---------- ---------- ---------- 
+             TTMHNDSLDA SIVDLGEKLK ETEEKAIESE EEATVLEEQV DDLDKVLMEK 
+             SLNRTQSTGT KLAELTERKQ TLDDEADSFE TEAQTMEQDL DELDEQMNAS 
+             ---------- ---------- ---------- ---------- ---------- 
+             AMTQIMSSDT KLEELKANKV QIDADAEAFE AESQELEQEQ DELDDQLNGK 
+             LAQREES--- ---------- ---------- ---------- ---------- 
+             ASEREQLSEE KAKFLADQLK ETTNRAEETQ RRAGQLERLV DSIQSEIDGW 
+             ASEREVESEE KILFLQEQLK ETLALAEDAE RRAAPIVRST DDLIEQIEKY 
+             SAERDEVYEE KVRFLEQQLI ETTKRYEDAE MLVLKREREK EQVEYEMDTV 
+             VTEREIEAEE KIEFLQEQLK ELVTRYEEEE RKVQPIERVI DGIMEDIGRY 
+             ---------- ---------- ---------- ---------- ---------- 
+             ATEREESYED KIRNLTQQLE DAEQRADAAE AKVQSLEHEV DALEAELEKV 
+             SYQRAELNEE KMKFLEEQMA LASEREEEAI SQIKHVERDI DKVDDDTNLI 
+             LSEREEIAEE KLKFLQEQIQ IHTDRAEDAE RRIKQIERSI NDVIYEKDGF 
+             VNENEEEMEE K--------- ---------- ---------- ---------- 
+             LGEREDGYQA QMRYLNERTK EEDLRLECAE RREAKLDREV KDLNEDINSY 
+             ASEREDDQEK EAKWLEEELQ KKIQECEDLE RDINKWDMLS EQTSGEIESW 
+             SFEREQISEE KIAFLDAQVK EQEQRADDAE AREKTTKRIR DGIEDEISTW 
+             AAEKEQDSEE KILFFQGLLD EANGRIEDAE RKVPPIELYM FELINETADL 
+             ASERETIKED FMVFLESEVK KTQQSVEEEE RRAGTLERLK DTIDEEIGRW 
+             ASEREETYEN KITSLKEKLE EATTRADDAE TRVKELEREV EDLEEKRDEA 
+             ---------- ---------- ---------- ---------- ---------- 
+             RCDREDAYDK RMRDLEEMRR DEEIRYEAAE RKIAKLQHEA SDVRNQLREE 
+             ASEREQTTEE KKKFLEDQIK EFLLRADEAE RQYATLQRVS EGLLLEINSL 
+             SAENEMDLND KLMFVKTQLD DAIARAEEAE RKLQPQEIII DDLTQERDAL 
+             ASEKDNDNEK RIQILQEDVA VKTRECEDSE RSVEKSERRI DALMKELEHW 
+             ASEREQVNEE KVSFLLSQVK EILALAEDHE RKIPPLQRTI DQMSEEIRDW 
+             ASKREQDYDE KIKSLENEYG EAEARATAAE GKVLDLEKEI DNLEEELGNA 
+             SHKRERELEK KIDEIGKLYE ETVERAETAE YRVSELEREA DLMDAAVEKI 
+             ASEREDEKED TIKFLETQLR ESLSKAETHE RDVGKHERLL DNIKNEMQTW 
+             ANQRELSLED QVRYLEQQHK ETDQRADHAE RQAAKLERLR DTLTGGIELE 
+             AAQREELTEE KLKFLDDQVR EMVERAETSE REMTKLEIIA QGIKDELSAW 
+             AAEREFEAEE KLRFLEDQLK EAVARAESAE RDVVRNENIV AVVSSDLQSQ 
+             QCERETENEQ KLAFLAEQEK EALVRAENSE RNAARLVRVI DGLEAEIKIS 
+             AVEREGGYEE KIRQLEQEYA MATERAEIAE KRVKELEEET DKLEADLEEA 
+             ASDRENINED KAKFLETQML QMLGNTEAQE RQIGKHERYM KQLQCEIDTW 
+             ASERETSFED QMRFLENQLK ETEQRADHAE RNAAKLSRLR DTLQGSIDLE 
+             AAEREQLSEE KTKFLEDQVR EVEERAEMGE REVMKLEGIT KGYLNEIDIW 
+             AAEREIDAEE KLRFLEDQLK ESVVRAENAE RDVVRNEIIV ESVKNDLNMI 
+             ---------- ---------- ---------- ---------- ---------- 
+             ------ENED KLAFLKLQEK EALVRAENAE RDAVRLDRIL EGITLDIQNL 
+             AVEREGNYEE KIRQLELEYA SATERAEIAE KRVKELEEET DDLEVQYEEA 
+             LSEKEEIAEE KLRYLEEQIQ VHTDRAEDAE RRIKQIERSI ADVQYETEGF 
+             ---------- ---------- ---------- ---------- ---------- 
+             VNENEEEMEE KIKFLEEQVQ EA-------- ---------- ---------- 
+             ASEKEEQYGK RIKDLEEKFA EIESRADSAE NRASELEKEL EDSERKLEEE 
+             ASTREISMED RMKFLASQLK ETIQRGEVAE RQCAKIDLLK EAIEGSIDIE 
+             AADREQLSAE KLEFLDEQLR LAVENSESGE REARKLEDLI ASMHHEISGW 
+             QSEKDTENEE KLEFLRDQLK ESVTRADNAE RDVARLQRVI EAIQVDIDNW 
+             AVEREGGYEE KIRQLEEEYA VATERADTAE KRVKELEEET DNLEVQLEEA 
+             ASQREMSLED QYRYLDQQSK ETDQRADHAE RMAAKLERLK VTIIGNIELE 
+             ---------- ---------- ---------- ---------- ---------- 
+             QSERETENEE KVTFLTNQEK EAMVRAEAAE RDATRLGRVI DGLESDIRLW 
+             AVEREGGYEE KIRQLEQEYA MATERAEIAE KRVKELEEET DDLEGQLEEA 
+
+             KKKKEEILRE MDLELVDLNR NLDM---
+             RRARDEVMKE MEE-MTDIDF -------
+             HNLTKEQQEE MEAALADLDC FDD----
+             EEKKKETIAE MDTITDMVDD I------
+             RLKRKQVDEE MKA-MGELVE QVTI---
+             KIKRKEVEDE MKA-MGDLVE EVTVEKS
+             ESKINLIKQE FQKMQEMVDE SMDDV--
+             KGKKKSIEDE MGE-ISQIAD SDLFEKE
+             HEKKRRLEDE IAALGELQ-- -------
+             IEKKESVSKE I--------- -------
+             RNKKRDVEKE MED-MVGLVD ESID---
+             RRKRDEVEKE MEE-MAELVE ESIE---
+             QSKTKEVTKE MEDMEALVGE SVSDD--
+             KKNYDMMQKE LHDTLNDIEC V------
+             ---------- ---------- -------
+             EKKIYNVKNM FNETMNGLDR V------
+             NAKSKEIEDE MEA-MDDCDI DD-----
+             KAKIQEIEKE MEE-MDDIDS DIE----
+             KKLTIDIENE IAD-MDDVGE DDD----
+             YEKKRKLDEE MEQ-MDEVSD DDE----
+             KHNTHAIEEE IAA-MDDVGD DDTQ---
+             KEKREKIEQE MLD-MDAVAD EDEY---
+             IQKRQEIEDE MVK-MDLVAD EPDEE--
+             IQKREGIERE MADIEAMDSL EEE----
+             VDKRKEIEKE MEDIDGMPFG DGD----
+             VDKRKEIEKE MEEIDGMHLE DES----
+             VLKRQEVEKE MADMDELSNF DDL----
+             VVKRQEVEKE MADMDELSID D-F----
+             IAKRTSIEDE MDV-IEGVDD WVN----
+             RRRKKKLQVE YKNSLDIIVN -------
+             QMKKKTKEME LKNALHAT-- -------
+             RMRTKEANVQ LKNIVHAVVN V------
+             QTKVKALKVE LKNTIQFVVG E------
+             KEQYEKVKEE LDSTLAELSE M------
+             KDEYEKVKQE LENTMNELNE M------
+             ---------- ---------- -------
+             KEEYQKVKEE LDQTLNELNE M------
+             ---------- ---------- -------
+             KDKFNQTKTE FDALCAHINE M------
+             KDQYDKTKAE MDALMAEIND M------
+             RQSYDVTKVE YDAFLNEVTE I------
+             RQSYDMTKVE HDALLNEVIE I------
+             KLTFEKKQEE LQLALAEIND L------
+             KDKYTATKAE LDALLAEINE M------
+             KDMYNRVKND LDRLLAEIQQ MNV----
+             RTKYMHAKQD LDALLSEISE MNI----
+             ---------- ---------- -------
+             KDLHKQVSTD LQNLLTEIAE MNI----
+             RDNYSKVKAD LDALLSEIQD MNI----
+             RNLYDKVKGD LDNLLAEIQN LNV----
+             KLEYSRVKSD LDALLSEIQD MNL----
+             KDLYLRVKND LDNLLAEIQD LQE----
+             KDLYQRVKND LDSLLMEIQN LDD----
+             KEAYDKTKST YDILLAEIQT F------
+             KDKYNNTKHE MDMILAEIQE MNI----
+             KEKYNAVKHD LDMTLAEIQE MNI----
+             KEAYNNTKRD MDLILAEIQE MNI----
+             KEKYNTTKRD LDLTLAEIQE MNI----
+             KDEYNRIRRE MEQTLAEIQE MNV----
+             KEAFNKVRRE MEQTLSEITE INV----
+             KENYNKVKRE YESTLAEIQE MSV----
+             ---------- ---------- -------
+             RKRCEEARRS MESVLAEISE MNA----
+             KEKYEEAKRS MEQVLSEISE MNA----
+             ---------- ---------- -------
+             KEEYEAAIRS MEQVLAEIAE MNA----
+             RNKIKDLNDE IAA-MDDLGD DDEDYA-
+             ---------- ---------- -------
+             KDAYNTVKSQ YDALLAEIQE M------
+             KDDYDKVKQD YDSTIAELAE M------
+             KKGYKRFYRD YEHSVNEMVE MRYLTYV
+             KETYIKVKAE YDQTLAELSE IMVEIGL
+             KTHYETTKLE YDQLLAELAE V------
+             KDEFKKVKDD YDATIAELSE L------
+             KDEYTRAKAE LDATIQELSE L------
+             KEAHAQSKAD MDELLLELAS M------
+             KEENLGMHQV LDQTLQELNS L------
+             KERYKSISDE LDSTFAELAG Y------
+             KEKYKSIADE MDTTFVELAG Y------
+             KEKYKDISEE LDGTFSELAS F------
+             KCKIKAISED MDVTLQGIGD L------
+             KEKNKSMADE LDQTLQDLHA M------
+             VLKARQLQDE LDHMVQELNS V------
+             KERYKAISDE LDQTFAELAG Y------
+             KEEYKGISEE LDQTFAELAG F------
+             KEKYKAISEE LDQTFQELSG Y------
+             EEQYKQAKKE LDE-ISEL-D L------
+             TEAYKKVKAE LEETLSELSD I------
+             QQAHAGTKDE LAAVNAEIDD I------
+             QTSHADTKAE LAAVNAEIDD I------
+             QEAHGCTKDE LAAVNAEIDD I------
+             QEAHNATKDE LAAVNAEIDD I------
+             QEAHNVTKEE LAAVNAEIDD I------
+             ---------- ---------- -------
+             IAAHTKTKRE LETIMAELNE M------
+             KEKHRATKSE LDAMLKEFGD M------
+             KVAYEEVKAE HDAMMAELGD I------
+             EDRYEQAKLK LDQTLAELNE L------
+             EKKYEEAKKE LDATLAELNE M------
+             ESNFEKTKAE LESTLAELGD L------
+             KENLKKAEEE LANAMAELQS I------
+             RRKCEAVKDE LDSILEELNE A------
+             KTELEALKEE HQRAFDELQA L------
+             KTDYATLQEE HQRALDELQA L------
+             RSAYNKKNED YNAMLAELAE M------
+             KEKYRLKQEE YNAMMAELQE M------
+             ---------- ---------- -------
+             KENYAKTKSE YEQAMYEITD M------
+             KNEYNASNTL YEQTLSELSD L------
+             RTRFTKFKTE TDQAMAELCS -------
+             KNKYNKFKID TEAALAELCS -------
+             ---------- ---------- -------
+             KEKFYDLKTE YEKTLTELAD I------
+             KEMYYGLKVE YEKTLAELAD Y------
+             KEQYVKVKYD FELTLAELSE M------
+             KEQYMKVKYD FDQTLAELSE M------
+             KEQYMKVKYD FEVTLSELSE M------
+             VAKRVELESD MDR-LVDVLD ESE----
+             TNKRDELEKE MEN-LVEVLD D------
+             ILKKQELEKE MAD-MDELSD FDDL---
+             KMKTRALKND IESTSIEVQK Y------
+             KLKRKMLEND YEKSLADLEA Y------
+             RLKTRDLRNE LDKIVAEMDG Y------
+             RIKTRDLRNE LDKIVSDMDG Y------
+             SSKTRQLRNE IQRMFDEIHN Y------
+             KSKTKSLEDE IRC-MNDMAD AADEDT-
+             IQKREEIERE MIE-MDDVAD DPAYAI-
+             RGEYQRVKSE VDGLVLEIWE M------
+             KTQYEEVRQE YESLIAEIAE M------
+             KDEYTAMKSE HDSLVAEISE L------
+             IVRYNETKTG YDAVLAEVTE F------
+             KSAYERVKQE YDNTIAEF-- -------
+             ---------- ---------- -------
+             QAKIQELNNE LQD-IDDD-- -DLEY--
+             IQKREKIEKE MLL-MDDVAD EPGYEF-
+             RKEYDRVKVE YDTALAELAE L------
+             QLRSRAAQVE LQNVIQTVIN D------
+             QDKTADLERE IID-MNDMAD LGDDE--
+             IQKREEIERE MVE-MDDVAD DPAYVM-
+             KAEHKKAEVV MASLLAEVDE L------
+             REEYHRVKNE VDGLVLEICE M------
+             KDNYIHFQHE FQSLVAEIGE M------
+             KSHYDEVCGE YEALIAEIAE M------
+             KELYKEAKAE YDRNCAEISE L------
+             KDEYNSKKAE YDALVAEIAE I------
+             KERYHEVKSD YDALLAEVAE I------
+             ---------- ---------- -------
+             ---------- ---------- -------
+             ---------- ---------- -------
+             DQKIKQINYE FEC-MNDAED DSDLDD-
+             NAKIQEIMDE MIA-MDDVAD DPDSQI-
+             KEEYAPI--- ---------- -------
+             CEDHARQTKE RDDIIRSLTE L------
+             IDKCDKCKSE MECLLNEIND I------
+             QDKHDMTKSE YDSLLMEISV M------
+             ---------- ---------- -------
+             SCKIDAIEKE FEE-MNAVSD D------
+             ---------- ---------- -------
+             KDEFQKAQSE LDSMINE--- -------
+             KDRYHASKNE RDDLLRELTE M------
+             ---------- ---------- -------
+             KEEYYKGETR N--------- -------
+             ---------- ---------- -------
+             QTKKDEVVSE MKE-LTEIDF DE-----
+             KGKKSEVEAE MEG-MASLCD DLMDDD-
+             VERIEKVKSE MDD-IADLGN D------
+             KGKSQEIRDE MDA-MGDIVD DITGFD-
+             ---------- ---------- -------
+             KAEYDKVKEE LDQTLNELAE L------
+             QQKHRDIQKQ MEE-IAQMGE NLCEDD-
+             SIKLQSVEDE KAS-IAEIAN EVIGDE-
+             ---------- ---------- -------
+             WTEYNKLRRE LEETLNTLGE A------
+             EAKKKAVTDE MEM-MSEIDD ED-----
+             LSKTREVEDE MKS-MTDMVD DM-----
+             TKKREAMEEE MRS-MADYGD SDDEPA-
+             QDKTKELQAE MAS----LLD IALSDD-
+             KKEYETVKEE LDKTLQELNE M------
+             ---------- ---------- -------
+             EKKIYNVKNM FNETMNGLDR V------
+             EEKKKEVIDE MDS-ITNILV DDF----
+             ESKINLIKQE FQK-MQEMVD ESMDDV-
+             HEKKRRLEDE IVA-LGELQ- -------
+             QSKTKEVTKE MED-MEALVG ESISDD-
+             KDEYEKVKQE LENTMNELSE M------
+             KVEHCNAEAE LESTLQEFVE M------
+             KEKREEIRHE MEEAMGGLLE D------
+             NKKTETIKEE QEA-TMNELL DIGDG--
+             NKKTEGIREE VAE-IENMAD E------
+             KVKHEGVDKE IDR-IDEL-- -------
+             KSMSASVSQQ IEE-MDGMID DMETF--
+             KKEYEAAKAE LEQTLQELDE M------
+             KEKEEEVKKE MSALANI--- -------
+             KKKLETSEKE LEA-TMQELA GM-----
+             KRKTKAINDE MKM-IDDMAD DQLDEH-
+             KSKHTGIGTE CDQ-IDDLVN SLNC---
+             ---------- ---------- -------
+             KKKKEDILAE MKS-VSSLAD DI-----
+             KTEYGKAKTD LEQTLQELEE M------
+             VIKIQTVEDE KSA-IAEIAN EVIGDE-
+             ---------- ---------- -------
+             ---------- ---------- -------
+             KEAYEKIKEE LEATLNELNE M------
+             KKKLDAVKNE LED-TMGHLL DV-----
+             DLKTQAVREE SKD-IENLAD GLFDHP-
+             VQKKNVVRDE FKE-VQELAN DI-----
+             KKEYEAAKAE LDQTLQELDE M------
+             KKKTETIKEE LEA-TLNDLL DIAPE--
+             ---------- ---------- -------
+             KDKTASVMAE IEE-MNIMAE DMD----
+             KKEYETAKAE LDQTLQELDE M------
+

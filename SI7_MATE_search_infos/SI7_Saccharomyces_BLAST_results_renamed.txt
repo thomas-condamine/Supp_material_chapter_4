@@ -1,0 +1,111 @@
+Query= SAceTPM1
+Length=600
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+BK006947.3  Saccharomyces cerevisiae S288c chromosome XIV, comple...  1109    0.0  
+>BK006947.3 TPA_inf: Saccharomyces cerevisiae S288c chromosome XIV, complete 
+sequence
+Length=784333
+
+ Score = 1109 bits (600),  Expect = 0.0
+ Identities = 600/600 (100%), Gaps = 0/600 (0%)
+ Strand=Plus/Minus
+
+Query  1       ATGGACAAAATCAGAGAAAAGCTAAGCAACTTGAAGTTGGAAGCCGAATCATGGCAGGAG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  479165  ATGGACAAAATCAGAGAAAAGCTAAGCAACTTGAAGTTGGAAGCCGAATCATGGCAGGAG  479106
+
+Query  61      AAGTACGAGGAGTTGAAAGAGAAGAACAAGGACTTGGAGCAAGAGAACGTCGAAAAGGAG  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  479105  AAGTACGAGGAGTTGAAAGAGAAGAACAAGGACTTGGAGCAAGAGAACGTCGAAAAGGAG  479046
+
+Query  121     AATCAGATCAAGTCTTTAACCGTCAAAAACCAGCAATTGGAGGATGAGATCGAGAAGCTG  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  479045  AATCAGATCAAGTCTTTAACCGTCAAAAACCAGCAATTGGAGGATGAGATCGAGAAGCTG  478986
+
+Query  181     GAAGCGGGACTTTCTGACTCTAAGCAAACAGAACAGGATAACGTTGAAAAAGAAAATCAG  240
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  478985  GAAGCGGGACTTTCTGACTCTAAGCAAACAGAACAGGATAACGTTGAAAAAGAAAATCAG  478926
+
+Query  241     ATCAAGTCCTTGACGGTGAAGAACCACCAATTGGAGGAAGAGATCGAGAAGTTGGAAGCA  300
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  478925  ATCAAGTCCTTGACGGTGAAGAACCACCAATTGGAGGAAGAGATCGAGAAGTTGGAAGCA  478866
+
+Query  301     GAATTGGCTGAATCCAAGCAATTGTCCGAGGACTCTCACCACTTGCAGTCCAACAACGAC  360
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  478865  GAATTGGCTGAATCCAAGCAATTGTCCGAGGACTCTCACCACTTGCAGTCCAACAACGAC  478806
+
+Query  361     AATTTCTCCAAGAAGAACCAGCAATTGGAAGAAGACTTGGAGGAAAGCGACACCAAGCTA  420
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  478805  AATTTCTCCAAGAAGAACCAGCAATTGGAAGAAGACTTGGAGGAAAGCGACACCAAGCTA  478746
+
+Query  421     AAGGAAACCACTGAGAAATTGAGAGAGTCCGACTTGAAGGCAGATCAATTGGAAAGAAGA  480
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  478745  AAGGAAACCACTGAGAAATTGAGAGAGTCCGACTTGAAGGCAGATCAATTGGAAAGAAGA  478686
+
+Query  481     GTAGCTGCCTTGGAAGAACAAAGAGAAGAATGGGAAAGAAAGAACGAGGAATTGACCGTC  540
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  478685  GTAGCTGCCTTGGAAGAACAAAGAGAAGAATGGGAAAGAAAGAACGAGGAATTGACCGTC  478626
+
+Query  541     AAGTACGAAGACGCAAAGAAGGAACTGGACGAAATTGCTGCATCTCTGGAAAACTTGTGA  600
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  478625  AAGTACGAAGACGCAAAGAAGGAACTGGACGAAATTGCTGCATCTCTGGAAAACTTGTGA  478566
+
+
+
+
+
+
+
+
+
+
+Query= SAceTPM2
+Length=486
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+BK006942.2  Saccharomyces cerevisiae S288c chromosome IX, complet...  898     0.0  
+>BK006942.2 TPA_inf: Saccharomyces cerevisiae S288c chromosome IX, complete 
+sequence
+Length=439888
+
+ Score = 898 bits (486),  Expect = 0.0
+ Identities = 486/486 (100%), Gaps = 0/486 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGAGAAGATCAAAGAGAAATTGAATAGCTTAAAATTAGAATCTGAGTCATGGCAAGAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  89715  ATGGAGAAGATCAAAGAGAAATTGAATAGCTTAAAATTAGAATCTGAGTCATGGCAAGAA  89656
+
+Query  61     AAATATGAGGAGCTGAGAGAACAGCTCAAAGAATTAGAGCAATCTAACACTGAAAAAGAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  89655  AAATATGAGGAGCTGAGAGAACAGCTCAAAGAATTAGAGCAATCTAACACTGAAAAAGAA  89596
+
+Query  121    AACGAGATTAAATCTTTGTCCGCTAAAAACGAGCAACTCGACAGTGAAGTGGAGAAGTTA  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  89595  AACGAGATTAAATCTTTGTCCGCTAAAAACGAGCAACTCGACAGTGAAGTGGAGAAGTTA  89536
+
+Query  181    GAGAGTCAATTGTCTGATACAAAGCAATTGGCTGAAGACTCCAATAACTTGAGATCTAAT  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  89535  GAGAGTCAATTGTCTGATACAAAGCAATTGGCTGAAGACTCCAATAACTTGAGATCTAAT  89476
+
+Query  241    AATGAGAACTACACCAAGAAAAACCAGGATCTAGAACAACAGCTAGAAGACAGTGAAGCC  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  89475  AATGAGAACTACACCAAGAAAAACCAGGATCTAGAACAACAGCTAGAAGACAGTGAAGCC  89416
+
+Query  301    AAACTGAAGGAAGCAATGGATAAACTGAAAGAGGCCGATTTGAACTCTGAGCAAATGGGT  360
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  89415  AAACTGAAGGAAGCAATGGATAAACTGAAAGAGGCCGATTTGAACTCTGAGCAAATGGGT  89356
+
+Query  361    AGAAGGATCGTTGCTTTGgaagaagaaagagatgaatgggaaaagaagtgcgaagaattc  420
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  89355  AGAAGGATCGTTGCTTTGGAAGAAGAAAGAGATGAATGGGAAAAGAAGTGCGAAGAATTC  89296
+
+Query  421    caaagcaaatatgaagaagCTCAAAAAGAATTGGACGAAATTGCTAATTCATTGGAAAAT  480
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  89295  CAAAGCAAATATGAAGAAGCTCAAAAAGAATTGGACGAAATTGCTAATTCATTGGAAAAT  89236
+
+Query  481    TTATGA  486
+              ||||||
+Sbjct  89235  TTATGA  89230
+

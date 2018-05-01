@@ -1,0 +1,1 @@
+In addition to the two MATEs identified for exons 1 and 9 in both ctenophore species, in Pleurobrachia bachei genome another MATE has been identified for both exons 1 and 9, and two MATEs have been identified for exon 7-8. They are called here repectively ple1-0, ple9-0 ple7to8-1, and ple7to8-2.
